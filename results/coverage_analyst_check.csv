@@ -1,0 +1,14 @@
+instrument,year,auto_match,best_title,analyst_check,analyst_covered
+National Strategy for Artificial Intelligence #AIforAll,2018,True,National Strategy on Artificial Intelligence,match,True
+Responsible AI Part 1: Principles for Responsible AI,2021,True,Approach Document for India: Part 1 - Principles for Responsible AI,match,True
+Responsible AI Part 2: Operationalizing Principles,2021,True,Approach Document for India: Part 2 - Operationalizing Principles for Responsible AI,match,True
+ICMR Ethical Guidelines for AI in Biomedical Research and Healthcare,2023,True,National Ethical Guidelines for Biomedical and Health Research Involving Human Participants,"wrong match: 2017 general bioethics guidelines, not the 2023 AI guidelines",False
+Digital Personal Data Protection Act 2023,2023,True,The Digital Personal Data Protection Act,match,True
+MeitY advisory on AI models (1 March 2024; superseded),2024,False,,not in database,False
+MeitY revised advisory on deployment of AI models (15 March 2024),2024,False,,not in database,False
+IndiaAI Mission,2024,True,India AI Mission,match,True
+IndiaAI Safety Institute,2025,True,IndiaAI Safe and Trusted AI,"related pillar only, not the Safety Institute itself",False
+RBI FREE-AI Committee Report (Framework for Responsible and Ethical Enablement of AI),2025,False,,not in database,False
+Draft IT Rules amendment on synthetically generated information,2025,False,,not in database,False
+Digital Personal Data Protection Rules 2025,2025,False,,not in database,False
+India AI Governance Guidelines,2025,False,,not in database,False

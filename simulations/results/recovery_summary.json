@@ -1,0 +1,13 @@
+{
+  "n_corpora": 5,
+  "ari_mean": 1.0,
+  "ari_min": 1.0,
+  "topics_recovered": [
+    10,
+    10,
+    10,
+    10,
+    10
+  ],
+  "planted_gap_flagged": 4
+}

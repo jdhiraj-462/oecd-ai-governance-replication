@@ -1,0 +1,112 @@
+item,topic,intruder
+WI-0-0,0,forest
+WI-0-1,0,semiconductor
+WI-0-2,0,energy
+WI-1-0,1,startups
+WI-1-1,1,personal data
+WI-1-2,1,agricultural
+WI-2-0,2,languages
+WI-2-1,2,public
+WI-2-2,2,water
+WI-3-0,3,cloud services
+WI-3-1,3,open data
+WI-3-2,3,highperformance
+WI-4-0,4,doctoral researchers
+WI-4-1,4,schools
+WI-4-2,4,personal data
+WI-5-0,5,bicentennial
+WI-5-1,5,health data
+WI-5-2,5,climate
+WI-6-0,6,agricultural
+WI-6-1,6,computing
+WI-6-2,6,sharing
+WI-7-0,7,hubs
+WI-7-1,7,hybrid cloud
+WI-7-2,7,driving
+WI-8-0,8,semiconductor
+WI-8-1,8,excellence
+WI-8-2,8,action plan
+WI-9-0,9,action plan
+WI-9-1,9,sovereign
+WI-9-2,9,open data
+WI-10-0,10,principles
+WI-10-1,10,forest management
+WI-10-2,10,language
+WI-11-0,11,ethics
+WI-11-1,11,highperformance
+WI-11-2,11,health
+WI-12-0,12,compute
+WI-12-1,12,gpu
+WI-12-2,12,doctoral
+WI-13-0,13,small mediumsized
+WI-13-1,13,matters relating
+WI-13-2,13,automated
+WI-14-0,14,governance
+WI-14-1,14,road
+WI-14-2,14,tax credit
+WI-15-0,15,data
+WI-15-1,15,climate
+WI-15-2,15,centre
+WI-16-0,16,health data
+WI-16-1,16,ethics science
+WI-16-2,16,automated
+WI-17-0,17,personal
+WI-17-1,17,compute infrastructure
+WI-17-2,17,excellence
+WI-18-0,18,automated vehicles
+WI-18-1,18,entrepreneurship
+WI-18-2,18,following objectivesto
+WI-19-0,19,implementation
+WI-19-1,19,subsidy
+WI-19-2,19,digital innovation
+WI-20-0,20,data portal
+WI-20-1,20,urban
+WI-20-2,20,semiconductors
+WI-21-0,21,data
+WI-21-1,21,smes
+WI-21-2,21,forest
+WI-22-0,22,farmers
+WI-22-1,22,bioethics
+WI-22-2,22,industrial
+WI-23-0,23,open
+WI-23-1,23,following
+WI-23-2,23,gpu
+WI-24-0,24,safety
+WI-24-1,24,court
+WI-24-2,24,rd
+WI-25-0,25,vehicles
+WI-25-1,25,economy
+WI-25-2,25,strategic
+WI-26-0,26,research
+WI-26-1,26,sandbox
+WI-26-2,26,digital technologies
+WI-27-0,27,health
+WI-27-1,27,science technology
+WI-27-2,27,fet
+WI-28-0,28,schools
+WI-28-1,28,sme
+WI-28-2,28,hpc
+WI-29-0,29,rd
+WI-29-1,29,rd
+WI-29-2,29,patient
+WI-30-0,30,implementation
+WI-30-1,30,protection
+WI-30-2,30,forestry
+WI-31-0,31,language technologies
+WI-31-1,31,aiit
+WI-31-2,31,climate
+WI-32-0,32,sectors
+WI-32-1,32,chips
+WI-32-2,32,action
+WI-33-0,33,following
+WI-33-1,33,highperformance
+WI-33-2,33,following objectivesto
+WI-34-0,34,subsidy
+WI-34-1,34,following objectivesto
+WI-34-2,34,waste
+WI-35-0,35,deepgreen
+WI-35-1,35,cloud infrastructure
+WI-35-2,35,driving
+WI-36-0,36,quantum communication
+WI-36-1,36,edih
+WI-36-2,36,capital

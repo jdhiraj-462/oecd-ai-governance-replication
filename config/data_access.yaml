@@ -1,0 +1,11 @@
+# Fill these in on the day you run scripts/collect_oecd.py. They are cited in the
+# data section and in the dataset endnote (JIP requires access dates for URLs).
+# The Navigator has no export button or API (checked 23 November 2026), so the data are collected page by page.
+access_date: "November 23, 2026"
+export_method: "retrieving every public list page of the Navigator"
+raw_rows_downloaded: "2,675"
+nav_total: "2,675"        # count shown on the Navigator list page (23 November 2026); change if it differs on your collection day
+url_check_date: "November 23, 2026"
+# Code and data repository. The anonymous link is cited in the manuscript (reviewers see it);
+# the real GitHub link goes on the title page (only the editor sees it).
+code_repository_anonymous: "https://anonymous.4open.science/r/[ANONYMOUS-ID]"

@@ -1,0 +1,2447 @@
+doc_id,id,jurisdiction,topic
+0,encyclical-letter-magnifica-humanitas,Holy See,3
+2,digitalization-and-ai-introduction-subsidy-2026,Japan,29
+3,general-type-subsidy,Japan,29
+4,basic-act-on-the-development-of-artificial-intelligence-and-the-establishment-of-foundation-for-trustworthiness-ai-basic-act,Korea,3
+5,agentic-ai-hub,Germany,0
+6,spark-accelerating-planning-and-approval-through-ai,Germany,0
+7,ai-for-care-artificial-intelligence-strategy-for-healthcare-in-ireland-2026-2030,Ireland,2
+8,swedens-ai-strategy,Sweden,5
+9,bioeconomy-strategy-for-randi,Latvia,6
+10,ai-guidelines-for-business,Japan,3
+11,european-high-performance-computing-joint-undertaking-eurohpc-ju,European Union,18
+12,high-performance-computing-centre-at-fau-erlangen-nurnberg,Germany,10
+13,264-high-performance-gpus-to-flow-to-korean-smes-and-startups-under-national-ai-project,Korea,14
+14,zimbabwe-national-artificial-intelligence-strategy-2026-2030,Zimbabwe,8
+15,guide-to-egypt-national-ai-governance-framework,Egypt,3
+16,egypt-national-guidelines-for-trustworthy-and-responsible-ai,Egypt,3
+17,egypts-national-generative-ai-guidelines,Egypt,3
+18,use-of-ai-in-business-intelligence-system-skrinja,Slovenia,0
+19,high-tech-agenda-germany-roadmap-for-ai,Germany,5
+20,voluntary-ai-code-of-ethics-aice,Malaysia,3
+21,my-ai-standards,Malaysia,3
+22,national-ai-action-plan-2026-2030-ai-nation-2030,Malaysia,5
+23,incorporation-of-artificial-intelligence-into-the-electronic-administrative-records-system,Spain,27
+24,data-sharing-ai-dsai-proof-of-value,Ireland,0
+25,ai-safety-and-security-institute-deutschland,Germany,3
+26,responsible-ai-policy,Saudi Arabia,3
+27,national-artificial-intelligence-strategy-2026-2030,Peru,8
+28,data-center-strategy,Germany,18
+29,ai-specific-evaluation-framework-for-public-procurement-in-korea,Korea,0
+30,ai-in-digital-health,Australia,2
+31,ontis-ai-agents-guidelines,Argentina,0
+32,sophos,Canada,0
+33,prompting-guide-for-public-administration,Argentina,0
+34,govbr-chatbot,Brazil,0
+35,7th-basic-plan-for-the-promotion-of-science-and-technology,Japan,6
+36,randd-tax-credit-system,Japan,35
+37,"law-no-53212026-measures-for-the-implementation-of-regulation-eu-20241689-of-the-european-parliament-and-of-the-council-of-13-june-2024-artificial-intelligence-act,-amendment-of-law-49612022,-and-other-provisions",Greece,3
+39,ai-for-mapping-regulatory-mechanisms-and-estimating-regulatory-compliance-costs,Israel,0
+40,digital-twins-ai,Italy,13
+41,custom-machine-translator,Canada,0
+42,codebridge,Canada,4
+43,national-artificial-intelligence-agenda,Portugal,8
+45,ai-based-idost-digital-assistant,Azerbaijan,0
+47,ai-principles-in-media,Saudi Arabia,3
+48,canchat-use-cases-and-accessibility,Canada,0
+49,ai-for-the-detection-of-compliance-breaches-in-public-procurement,Chile,0
+50,draft-act-on-artificial-intelligence-and-european-data-regulation,Slovakia,3
+51,korea-digital-inclusion-act,Korea,17
+52,automatic-ai-powered-mail-categorisation,Slovenia,0
+53,mentorai,Brazil,0
+54,boardroom-primer-to-ai-adoption-and-governance,Malaysia,3
+55,government-assignment-to-25-swedish-national-authorities-to-report-on-their-use-of-ai-2671,Sweden,0
+56,national-artificial-intelligence-trust-6213,Nigeria,9
+57,joint-press-statement-by-michael-mcgrath-european-commissioner-for-democracy-justice-the-rule-of-law-and-consumer-protection-and-denise-wong-acting-commissioner-of-singapores-personal-data-protection-commission-7739,Singapore,16
+58,currentai-7487,France,9
+59,regulating-public-mas-media-with-respect-to-ai-generated-content-3540,Slovenia,22
+60,location-recommendation-engine-for-new-investments-based-on-ai-6960,Portugal,6
+61,independent-research-fund-denmark-8668,Denmark,7
+62,ai-as-focus-area-in-the-performance-agreements-with-the-public-universities-9947,Austria,1
+63,establishment-of-an-ai-observatory-for-labour-market-monitoring-1535,Austria,8
+64,the-government-strengthens-ai-skills-among-professionals-and-students-5388,Sweden,1
+65,mou-on-cooperation-in-the-fields-of-digital-development-between-ministry-of-electronics-and-information-technology-india-and-ministry-of-communication-and-digital-affairs-indonesia-8699,Indonesia,17
+66,national-policy-on-artificial-intelligence-conpes-4144-3012,Colombia,8
+67,mou-on-cooperation-in-the-fields-of-digital-development-between-ministry-of-electronics-and-information-technology-india-and-ministry-of-communication-and-digital-affairs-indonesia-4879,India,17
+68,collection-of-knowledge-and-development-of-a-guideline-on-green-ai-7636,Austria,13
+69,ai-monitor-2797,Austria,5
+70,academic-ai-services-5172,Austria,1
+71,preparation-of-an-ai-hub-austria-in-the-area-of-research-and-innovation-7516,Austria,7
+72,open-austria-east-coast-1669,Austria,6
+73,ai-for-science-moonshot,Israel,7
+74,ai-specific-programmes,Slovakia,1
+75,the-swedish-digitalisation-strategy-2025-2030,Sweden,0
+76,national-competence-centre-for-semiconductors-and-microelectronics,Croatia,24
+77,insait-research-programmes,Bulgaria,30
+78,short-term-teacher-training-programme,Bulgaria,1
+79,smart-education-schools,Belgium,1
+80,innoviris-funding-programmes-on-stem,Belgium,1
+81,artificial-intelligence-in-the-financial-sector-interim-report-of-the-inter-agency-task-force-on-the-use-of-artificial-intelligence-and-machine-learning-in-israels-financial-sector,Israel,3
+82,national-multi-stakeholder-consultation-forum-for-ai-policy-and-regulation,Israel,3
+83,ai-startup-fund-8653,Algeria,14
+84,establishment-of-a-moonshot-ai-applied-research-consortium,Israel,7
+85,"increasing-the-number-of-ai-experts-from-overseas-in-israeli-industry-returning-residents,-new-immigrants,-foreign-experts",Israel,1
+86,ai-competence-center,Slovenia,11
+87,regional-ai-hubs-at-universities,Slovakia,7
+88,ai-innovative-lab,Romania,9
+89,romanian-ai-innovation-hub-for-ai-hria,Romania,7
+90,americas-ai-action-plan,United States,5
+91,ai-competencies-focus-of-the-digital-competencies-initiative-austria-4452,Austria,1
+92,creation-of-a-hybrid-cloud-to-combine-registers-such-as-ajpes-register,Slovenia,23
+93,projects-from-the-national-institute-of-geographic-and-forestry-information-ign,France,31
+94,eurocc-cyprus,Croatia,10
+95,projects-focusing-on-ai-based-solutions-in-agriculture-under-the-research-and-development-programme,Denmark,12
+96,towards-the-food-factory-of-the-future,Belgium,12
+97,"flanders-research-institute-for-agriculture,-fisheries-and-food-ilvo",Belgium,12
+98,course-on-machine-learning-and-computer-vision-for-the-environmental-sciences,Malta,1
+99,a-project-for-digitally-excluded-people-to-improve-their-digital-skills,Lithuania,17
+100,esam,Sweden,8
+101,incubator-of-ai-solutions-for-the-public-administration,Spain,0
+102,ai-in-social-sciences,Latvia,1
+103,single-horizontal-ai-platform,Slovenia,0
+104,intelligent-transport-systems-its,Malta,15
+105,3visiond,Latvia,15
+106,lmt-traffic-monitoring-tool,Latvia,15
+107,ai-for-policymaking,Slovakia,0
+108,aexcia-platform,Portugal,0
+109,twist,Czechia,11
+110,national-data-governance-reference-framework-ndgrf,Bulgaria,4
+111,federal-data-strategy,Belgium,4
+112,ai-map,Austria,4
+113,rapidai-solution,Malta,2
+114,national-data-strategy-2,Portugal,4
+115,national-data-governance-strategy,Latvia,4
+116,national-semiconductor-strategy,Ireland,24
+117,national-data-center-of-excellence,Poland,10
+118,digital-ai-assistant,Cyprus,0
+119,ipa-ai-training-programmes,Bulgaria,0
+120,swedish-participation-in-lumi-hosted-by-csc-in-finland,Sweden,10
+121,institute-of-public-administration-ipa-initiatives,Bulgaria,0
+122,research-ireland-frontiers-for-the-future-programme-ffp,Ireland,6
+123,programme-for-ai-literacy-and-skills,Austria,1
+124,joining-chips-joint-undertaking-ju,Latvia,24
+125,virtual-civil-servants,Romania,0
+126,digitalised-yellow-book,Portugal,0
+127,luxembourg-national-research-fund,Luxembourg,29
+128,it-competence-centre-project-information-and-communication-technology-competence-centre-for-digitisation,Latvia,19
+129,ai-factories-latvia,Latvia,20
+130,swiss-latvian-cooperation-programme-pre-defined-programme-component-in-ict-and-smart-energy,Latvia,13
+131,development-and-construction-of-a-supercomputer,Slovakia,10
+132,prodigit-project,Italy,27
+133,the-first-regional-forum-on-the-implementation-of-artificial-intelligence,Ukraine,1
+134,big-course-on-artificial-intelligence-in-education,Ukraine,1
+135,cdto-campus-ai-faculty,Ukraine,8
+136,ai-centre-of-excellence-under-the-ministry-of-digital-transformation-of-ukraine,Ukraine,20
+137,ai-for-justice,Poland,27
+138,ai-training-courses,Malta,0
+139,policy-on-the-use-of-generative-ai,Malta,0
+140,shared-data-pool,Czechia,4
+141,ai-in-tax-administration,Italy,27
+142,euroqcs-poland,Poland,32
+143,ai-guidelines,Germany,0
+144,artificial-intelligence-in-preparing-responses-to-taxpayer-inquiries,Latvia,27
+145,e-course-for-basic-competence-level-in-ai-for-public-administration-employees,Latvia,0
+146,govtech-challenge-series,Lithuania,11
+147,levente-hpc,Hungary,10
+148,knowledge-centre-for-municipalities,Denmark,0
+149,innovative-reception-of-the-emergency-call-center,Czechia,0
+150,creating-an-ai-model-of-the-navigation-framework-within-the-service-catalogue,Czechia,0
+151,robotics-and-life,Romania,1
+152,"international-conference-the-use-of-artificial-intelligence-in-public-governance-challenges,-opportunities,-prospects",Ukraine,0
+153,ai-for-the-good-of-all-brazilian-artificial-intelligence-plan,Brazil,5
+154,diiaai-the-worlds-first-national-ai-agent-that-delivers-government-services,Ukraine,0
+155,national-large-language-model,Ukraine,20
+156,ai-factory,Ukraine,20
+157,"new-zealands-strategy-for-artificial-intelligence,-investing-with-confidence",New Zealand,5
+158,diia-ai-assistant,Ukraine,0
+159,ai-based-computer-aided-detection-software-product,Ukraine,2
+160,checkeye-ai-based-digital-screening,Ukraine,2
+161,general-short-term-professional-development-programme-the-potential-of-digital-technologies-and-artificial-intelligence-in-the-professional-activities-of-public-servants,Ukraine,0
+162,web-portal-centre-for-responsible-artificial-intelligence,Ukraine,3
+163,training-workshop-artificial-intelligence-in-action-practical-recommendations-for-the-public-sector-and-educational-institutions,Ukraine,0
+164,action-plan-for-the-implementation-of-the-concept-for-the-development-of-artificial-intelligence-in-ukraine-for-2025-2026,Ukraine,0
+165,operational-plan-for-the-winwin-strategy-for-the-digital-development-of-innovation-activity-in-ukraine-until-2030-measures-for-implementation-in-2025-2027,Ukraine,6
+166,sectoral-analysis-of-ai-and-initial-vision-of-ai-development-in-ukraine,Ukraine,8
+167,guidelines-on-the-responsible-use-of-ai-for-developers,Ukraine,3
+168,guidelines-for-the-responsible-use-of-artificial-intelligence-by-civil-servants,Ukraine,0
+169,recommendations-for-the-responsible-implementation-and-use-of-artificial-intelligence-technologies-in-higher-education-institutions,Ukraine,1
+170,guidelines-on-the-responsible-use-of-ai-for-lawyers,Ukraine,27
+171,partnership-with-win2edih,Ukraine,11
+172,national-artificial-intelligence-strategy-of-zambia-2025-2027,Zambia,8
+173,the-stargate-project,United States,18
+174,public-consultation-white-paper-on-the-national-artificial-intelligence-roadmap-and-concept-of-artificial-intelligence-ethical-guidelines,Indonesia,3
+175,national-artificial-intelligence-roadmap,Indonesia,3
+176,criminal-code-amendment-using-technology-to-generate-child-abuse-material-bill-2025,Australia,25
+177,guide-for-auditing-the-use-of-artificial-intelligence-tools-in-the-superintendence-of-economic-competition-sce-1,Ecuador,3
+178,cameroons-national-artificial-intelligence-strategy-snia,Cameroon,5
+179,national-artificial-intelligence-strategy-2025-2030,Cambodia,8
+180,national-artificial-intelligence-strategy-of-libya-2025-2030,Libya,8
+181,kenya-artificial-intelligence-strategy-2025-2030,Kenya,8
+182,egypt-national-artificial-intelligence-strategy,Egypt,5
+183,national-artificial-intelligence-strategy,Côte d’Ivoire,8
+184,artificial-intelligence-policy-and-implementation-plan,Lesotho,3
+185,national-artificial-intelligence-strategy-nais,Nigeria,5
+186,open-data-policy-arab-republic-of-egypt,Egypt,4
+187,guide-for-auditing-the-use-of-artificial-intelligence-tools-in-the-superintendence-of-economic-competition-sce,Ecuador,3
+188,ethical-decalogue-for-the-use-of-artificial-intelligence-ai,Ecuador,0
+189,laboratory-of-artificial-intelligence-at-the-superintendency-of-economic-competition-sce,Ecuador,7
+190,code-of-ethics-for-artificial-intelligence-ai-in-the-superintendency-of-economic-competition,Ecuador,3
+191,guide-to-using-artificial-intelligence-ai-tools-in-the-superintendency-of-economic-competition,Ecuador,0
+192,bill-no-5005-of-2025,Brazil,25
+193,model-contractual-clauses-for-the-public-procurement-of-non-high-risk-ai-mcc-ai-light,European Union,0
+194,national-roadmap-for-data-centres-rapporteurs-report,Finland,10
+195,european-health-data-space-regulation-ehds,European Union,2
+196,ai-education-bachelors-programme-at-beijing-normal-university,China (People’s Republic of),1
+197,adversarial-machine-learning-a-taxonomy-and-terminology-of-attacks-and-mitigations-nist-ai-100-2e2025,United States,3
+198,south-korea-national-ai-gpu-infrastructure-initiative-1,Korea,18
+199,ai-sovereign-compute-infrastructure-program,Canada,18
+200,investai,European Union,18
+201,artificial-intelligence-bill-in-colombia,Colombia,25
+202,ai-research-resource-airr,United Kingdom,18
+203,spanish-ai-regulatory-sandbox-pilot-guidelines-for-the-european-artificial-intelligence-act,Spain,3
+204,regulatory-sandbox,Brazil,28
+205,global-ai-assurance-sandbox,Singapore,3
+206,one-million-coders-programme-omcp,Ghana,1
+207,-2,Singapore,20
+208,artificial-intelligence-governance-for-indonesian-banking,Indonesia,3
+209,national-supercomputer-daedalus-and-lavrio-data-center,Greece,10
+210,enterprise-compute-initiative-eci,Singapore,18
+211,humain,Saudi Arabia,18
+212,sprind-next-frontier-ai,Germany,18
+213,guidance-for-ai-adoption-implementation-guidance,Australia,3
+214,hhs-ai-strategic-plan,United States,2
+215,ai-and-health-data-strategy-2025-2028,France,2
+216,ai-ecosystem-in-social-and-health-services-sote-ai-vision-2035,Finland,2
+217,ai-basic-plan,Japan,8
+218,"act-on-promotion-of-research,-development,-and-utilization-of-artificial-intelligence-related-technologies",Japan,3
+219,genesis-mission,United States,18
+220,dol-ai-workforce-guidance-tegl-03-25,United States,1
+221,executive-order-14179-removing-barriers-to-american-leadership-in-ai,United States,9
+222,ai-and-cyber-risk-model-clauses,Australia,3
+223,hammerhai,Germany,18
+224,ai-pioneers,France,14
+225,artificial-intelligence-boost-loan,France,35
+226,dare-ai,France,5
+227,cambodia-ai-readiness-assessment-ram-report-2025,Cambodia,8
+228,data-use-and-access-act-2025,United Kingdom,16
+229,gcs-assist,United Kingdom,0
+230,ai-growth-zones,United Kingdom,18
+233,agent-mia-argentine-states-artificial-intelligence-assistant,Argentina,0
+234,guideline-for-japanese-governments-procurements-and-utilizations-of-generative-ai-for-the-sake-of-evolution-and-innovation-of-public-administration,Japan,0
+236,"digital-markets,-competition-and-consumers-act-2024",United Kingdom,0
+237,uk-national-data-library-ndl,United Kingdom,4
+238,govai-chat,Australia,0
+239,omb-ai-acquisition-guidance-m-25-22,United States,0
+240,fraud-risk-assessment-accelerator,United Kingdom,27
+241,amalia-automatic-multimodal-language-assistant-with-artificial-intelligence,Portugal,20
+242,ai-learning-pathway-ailp,Argentina,0
+243,ai-experience-lab,Portugal,0
+244,uk-health-data-research-service-hdrs,United Kingdom,2
+245,uk-sovereign-ai-unit,United Kingdom,18
+246,uk-ai-skills-hub,United Kingdom,1
+247,aps-ai-plan-artificial-intelligence-ai-plan-for-the-australian-public-service-aps,Australia,0
+248,automated-multi-agent-analysis-of-occupational-licensing,Czechia,0
+249,ott2-dynamic-data-driven-personalisation-of-employment-services-and-counsellor-decision-support,Estonia,0
+250,ai-opportunities-action-plan,United Kingdom,5
+251,eu-general-purpose-ai-gpai-code-of-practice,European Union,3
+252,eu-ai-continent-action-plan,European Union,5
+253,eu-scaleup-europe-fund,European Union,14
+254,frontier-ai-initiative,European Union,18
+255,the-interministerial-ai-assistant,France,0
+256,ai-verkstaden-ai-node-for-public-administration,Sweden,0
+257,eu-apply-ai-strategy,European Union,11
+258,public-sector-ai-community-of-practice,New Zealand,0
+259,ai-bridging-cloud-infrastructure-30-abci-30,Japan,18
+260,italy-ai-law-1322025,Italy,3
+261,virtual-assistant-in-m-obywatel,Poland,0
+262,voucher-cloud-and-cybersecurity,Italy,29
+263,sectoral-workforce-solutions-program-ai-focused-projects,Canada,1
+264,meb-smart-legislation-assistant-ai-powered-legal-assistant,Türkiye,0
+265,ai-for-growth,Canada,18
+266,uk-ai-for-science-strategy,United Kingdom,10
+268,presidencia-generative-ai-adoption-programme-for-the-spanish-prime-ministers-office,Spain,0
+269,data-ef-ai-agent,Cambodia,0
+270,strategy-for-the-use-of-ai-in-the-judiciary,Germany,27
+271,framework-for-governance-of-indigenous-data,Australia,4
+272,document-register-agent,Australia,0
+273,remote-pilot-program,Australia,31
+274,"act-on-promotion-of-research-and-development,-and-utilisation-of-ai-related-technology",Japan,3
+275,social-media-analytics-for-water-sector-issues,Saudi Arabia,0
+276,h2o-ai-assistant-for-water-sector,Saudi Arabia,0
+277,ulysses-bill-procedural-routing-analysis,Brazil,0
+279,servetia-ai-research-platform-for-the-spanish-prime-ministers-office,Spain,0
+280,ulysses-consolidated-summaries-of-legislative-bills,Brazil,0
+281,ai-chatbot-for-statistical-analyses-of-fiscal-data,Italy,0
+282,ulysses-chat,Brazil,0
+283,bizdata,Israel,19
+285,ciudadania-ai-powered-citizen-correspondence-processing-for-the-spanish-prime-ministers-office,Spain,0
+287,khmer-intelligent-document-ai-agent-kidai-a,Cambodia,0
+288,anac-artificial-intelligence-strategy-2025-2026,Brazil,0
+289,horizons-empowering-educators-with-artificial-intelligence-ai-technologies,United Arab Emirates,1
+290,public-service-commission-psc-ai-agent-for-travel,Canada,0
+291,use-of-artificial-intelligence-for-the-characterisation-of-the-environmental-regulatory-burden-of-projects,Chile,0
+292,ai-pilot-cv-screening-in-consultants-recruitment,Italy,0
+294,"innovation,-automation,-and-ai-acceleration-i3a",Canada,0
+295,dafne-chatbot,Austria,0
+296,pollusense,Canada,13
+297,prototyping-ai-apps-for-addressing-labor-shortages-through-cross-ministerial-collaboration,Japan,0
+298,water-sector-costing-forecast,Saudi Arabia,13
+299,generative-ai-for-engineering-design,Saudi Arabia,0
+300,"orientation,-methodologies-and-guides-for-ai-in-the-public-service",Brazil,0
+301,ai-assistants-for-supporting-labor-justice-conciliation,Brazil,27
+302,air-travel-complaints-artificial-intelligence-initiative,Canada,0
+303,unified-intelligent-assistant,Slovenia,0
+304,proverifier,Saudi Arabia,0
+305,rasid,Saudi Arabia,2
+306,ai-scribe-for-emergency-departments,New Zealand,2
+307,pakistan-digital-authority-pda,Pakistan,17
+309,promotion-and-integration-of-ai-technologies-in-public-administration,Greece,0
+311,radar-early-warning-system-for-anomalies-in-health-claims-and-payments,Colombia,2
+312,"alignment-of-planning-instruments-with-the-national-strategic-development-plan,-in-accordance-with-the-results-chain",Peru,0
+313,opticrea-elements-application-for-the-creation-and-naming-of-policy-and-plan-elements,Peru,0
+314,ai-assistant-for-automated-generation-of-indicator-fact-sheets,Peru,0
+315,recommendations-on-the-ethics-of-artificial-intelligence,Türkiye,1
+317,text-simplification-via-genai,Italy,0
+319,government-of-canada-ai-registry-minimum-viable-product,Canada,0
+320,guideline-on-artificial-intelligence-for-the-public-sector,Malaysia,0
+321,law-overlap-detection-system,Albania,0
+324,ai-egovernment-chatbots,Serbia,0
+325,vodostai-software-platform-for-flood-prediction-and-prevention-based-on-artificial-intelligence-methods-and-iot-devices,Serbia,13
+326,ai-strategy-for-the-federal-public-service-2025-27,Canada,0
+327,generative-ai-literacy-programme,Brazil,0
+328,use-of-artificial-intelligence-models-in-the-qualitative-evaluation-of-responses-avalia,Brazil,0
+329,ai-based-linking-of-ombudsman-submissions-to-public-services,Brazil,0
+330,analia-ai-for-data-extraction-and-analysis-in-transport-infrastructure-supervision,Peru,0
+331,impact-assessment-helper,Sweden,0
+332,panoramic-for-the-conference-on-social-protection-for-french-citizens-abroad,France,0
+333,agroboost,Costa Rica,12
+337,julio-ai-platform,Peru,0
+339,ai-in-tender-evaluations,Australia,0
+340,trending-topics-in-ombudsman-submissions,Brazil,0
+341,guidelines-on-using-generative-artificial-intelligence-to-support-and-assist-work-in-public-administration,Finland,0
+343,ai-vision-for-slovakia-path-to-digital-sovereignty-and-efficiency,Slovakia,5
+344,avail-anomaly-validation-using-ai-learning-bridge-anomaly-detection-project,Canada,13
+345,ai-assistant-of-the-chancellery-of-the-riigikogu,Estonia,0
+346,automated-documentation,Denmark,0
+347,alicia-—-ai-assisted-severe-weather-detection-and-nowcasting-for-the-caribbean,Curaçao,13
+348,geomatch,Canada,0
+349,ai-community-juries-and-national-civic-ai-governance-framework-enia,Italy,0
+351,electronic-sin-automation-esin,Canada,0
+352,law-n-51882025-part-a,Greece,4
+353,asan-ai-hub,Azerbaijan,7
+356,lina,Brazil,0
+357,estrategia-thon-ai-strategy-hackathon-for-public-organisations,Brazil,0
+358,do-it-with-ai,Chile,0
+359,ai-and-the-manipulation-of-human-perception-within-the-educational-program-analyze-decide-act,Romania,0
+360,national-ai-index-naii,Saudi Arabia,8
+363,ai-assisted-tender-generator-solution-hankelooja,Estonia,0
+364,"ai-in-the-australian-public-service-dfat,-apo,-open-source",Australia,0
+365,modernising-cras-service-feedback-program-with-the-integration-of-generative-ai-into-its-national-operations,Canada,0
+366,generative-ai-chatbot-for-taxpayer-information-services,Canada,0
+367,ai-enabled-national-educators-competency-assessment,United Arab Emirates,1
+368,use-of-alia-spanish-ai-infrastructure-in-spanish-and-co-official-languages-in-local-entities-intelligent-assistants-for-citizens,Spain,20
+370,dcceew-ai-ethics-and-governance-framework,Australia,3
+371,ip-first-response,Australia,0
+373,consult,United Kingdom,0
+374,minute,United Kingdom,0
+375,use-of-ai-national-observatory-of-strategic-foresight,Peru,0
+376,negotiatecop,Germany,0
+377,path-for-cohesion,Niger,0
+378,peruvian-tourism-facilitation-platform,Peru,0
+380,artificial-general-intelligence-for-science-of-transformative-research-innovation-platform-trip-agis-6767,Japan,7
+381,artificial-intelligence-readiness-stage-assessment-5268,Mexico,8
+382,indiaai-safe-and-trusted-ai-6652,India,3
+383,digital-transformation-and-telecommunications-agency-3300,Mexico,17
+384,proposal-for-the-national-agenda-for-artificial-intelligence-for-mexico-2024-2030-5306,Mexico,8
+385,ai-hub-tetouan-5979,Morocco,18
+386,empowering-education-leaders-a-toolkit-for-safe-ethical-and-equitable-ai-integration-8164,United States,1
+387,ai-talent-development-8028,Nigeria,1
+388,national-ai-strategy-policy-direction-6520,Korea,8
+389,ai-semiconductor-technology-initiative-8738,Korea,36
+390,alait-austrian-lab-for-ai-trust-4942,Austria,3
+391,ai-service-desk-5020,Austria,3
+392,dial-ai-8203,France,5
+393,leveraging-the-potential-of-ai-in-the-direct-holdings-of-the-federal-ministry-for-climate-action-environment-energy-mobility-innovation-and-technology-and-other-legal-entities-6901,Austria,8
+394,call-for-proposals-ai-for-tech-ai-for-green-ai-for-transformation-research-funding-6326,Austria,13
+395,national-digital-security-strategy-5672,Colombia,3
+396,methodology-to-identify-lessons-learned-2195,Peru,0
+397,ai-for-all-4208,India,1
+398,national-artificial-intelligence-strategy-nais-2489,Costa Rica,8
+399,africa-centre-of-competence-for-digital-and-artificial-intelligence-skilling-4535,Kenya,11
+400,the-swedish-governments-appointed-inquiry-with-the-task-of-reviewing-the-need-for-national-adaptations-because-of-the-eu-ai-act-9745,Sweden,5
+401,readiness-assessment-methodology-ram-for-the-ai-ethical-framework-3399,Colombia,8
+402,aithyra-institute-research-institute-for-biomedical-artificial-intelligence-3111,Austria,2
+403,national-framework-for-standardisation-and-implementation-of-ai-5617,Slovenia,3
+404,development-of-the-legal-and-conceptual-framework-for-the-establishment-and-operation-of-a-national-regulatory-sandbox-for-artificial-intelligence-5553,Slovenia,28
+405,implementation-of-accessible-websites-in-the-costa-rican-public-sector-3608,Costa Rica,17
+406,ai-advisory-board-9943,Austria,5
+407,ai-stakeholder-forum-5114,Austria,8
+408,our-ai-our-ambition-for-france-8651,France,5
+409,data-strategy-for-austria-6077,Austria,4
+410,ai-labeling-2132,Austria,0
+411,embraisme-improving-conditions-and-policies-for-smes-to-embrace-ai-4710,Austria,19
+412,overarching-national-ai-strategy-4375,Denmark,8
+413,berufsinfomat-5689,Austria,1
+414,ai-mooc-basic-ai-training-through-a-mooc-3601,Austria,1
+415,artificial-intelligence-act-ai-act-9517,European Union,25
+416,ai-in-everyday-consumer-life-teaching-materials-on-artificial-intelligence-for-secondary-school-1867,Austria,1
+417,enlightenment-40-understanding-ai-decisions-as-a-human-being-9841,Austria,22
+418,ensuring-an-appropriate-legal-framework-for-ai-in-healthcare-2975,Austria,2
+419,ai-innovation-package-to-support-atificial-intelligence-startups-and-smes-6719,European Union,19
+420,identification-of-patterns-leading-to-the-minimization-of-illegal-fishing-7895,Portugal,13
+421,ai-compute-6716,Singapore,18
+422,identification-of-patterns-in-the-rustic-property-in-portugal-9309,Portugal,12
+423,development-of-algorithms-that-enable-the-analysis-and-control-of-waste-management-using-pattern-analysis-and-artificial-intelligence-8756,Portugal,13
+424,ai-guidelines-for-business-ver10-1059,Japan,3
+425,strategic-approach-to-artificial-intelligence-a-more-robust-foundation-for-the-responsible-development-and-use-of-ai-in-denmark-7675,Denmark,8
+426,guidelines-for-ethical-application-of-ai-in-education-6719,Croatia,1
+427,ai-subject-curricula-artificial-intelligence-from-theory-to-practice-3528,Croatia,1
+428,mandatory-guardrails-for-safe-and-responsible-ai-8090,Australia,3
+429,vision-on-generative-ai-2603,Netherlands,3
+430,law-51422024-completion-of-land-registration-simplification-of-procedures-use-of-artificial-intelligence-and-provisions-for-the-operation-of-the-hellenic-land-registry-cadastre-other-provisions-of-the-ministry-of-digital-governance-9190,Greece,0
+431,presidential-committee-on-ai-4944,Korea,9
+432,artificial-intelligence-safety-institute-aisi-9208,Korea,3
+433,ai-seoul-summit-3654,Korea,5
+434,voluntary-ai-safety-standard-2400,Australia,3
+435,public-private-regulatory-sandbox-regarding-the-use-of-unmanned-vehicles-reliably-for-members-of-the-national-digital-transformation-system-with-emphasis-on-the-public-and-private-sectors-3094,Peru,8
+436,personal-data-destruction-anonymization-and-pseudonymisation-guideline-3634,Saudi Arabia,16
+437,10g-nationwide-broadband-network-8531,Singapore,26
+438,open-source-artificial-intelligence-algorithm-service-is-provided-continuously-for-the-members-of-the-national-digital-transformation-system-with-emphasis-on-public-entities-at-the-three-levels-of-government-7276,Peru,8
+439,national-artificial-intelligence-research-resource-pilot-1037,United States,9
+440,google-for-startups-accelerator-ai-first-2111,Singapore,14
+441,predictive-analysis-from-open-data-in-justice-and-information-sources-from-different-areas-8472,Portugal,4
+442,asean-guide-on-ai-governance-and-ethics-6934,Singapore,3
+443,optimization-of-digital-services-provided-by-the-tax-and-customs-authority-3198,Portugal,17
+444,twelfth-development-plan-2024-2028-9855,Türkiye,8
+445,airawat-8228,India,24
+446,invest-2035-the-uks-modern-industrial-strategy-7922,United Kingdom,6
+447,introduction-to-ai-assurance-9956,United Kingdom,3
+448,spains-ai-advisory-council-2459,Spain,5
+449,the-medium-term-program-2024-2026-3928,Türkiye,8
+450,romanias-national-ai-strategy-3795,Romania,8
+451,indiaai-compute-capacity-1923,India,18
+452,regulatory-sandbox-for-ai-5592,Denmark,28
+453,national-ai-strategy-of-the-czech-republic-2030-6563,Czechia,5
+454,ai-expertise-center-2678,Belgium,0
+455,ai-ready-flemish-public-administration-7723,Belgium,0
+456,ai-directory-3984,Austria,0
+457,fair-ai-fostering-austrias-innovative-strength-and-research-excellence-in-artificial-intelligence-2525,Austria,3
+458,ai-implementation-plan-for-2024-and-the-following-years-5281,Austria,8
+459,ai-skills-accelerator-for-young-women-on-artificial-intelligence-7968,Malta,1
+460,ai-upskilling-fund-1774,United Kingdom,1
+461,instructions-regarding-the-processing-of-personal-data-and-artificial-intelligence-2587,Colombia,22
+462,investment-support-fund-1811,Viet Nam,14
+463,guidance-for-public-and-private-entities-on-transparency-and-personal-data-protection-for-responsible-artificial-intelligence-2652,Argentina,22
+464,india-ai-datasets-platform-5505,India,5
+465,openthaigpt-3621,Thailand,0
+466,assuring-a-responsible-future-for-ai-6827,United Kingdom,3
+467,copyright-and-artificial-intelligence-open-consultation-9309,United Kingdom,25
+468,one-million-saudi-in-artificial-intelligence,Saudi Arabia,7
+469,ai4msp,Poland,19
+470,alliance-for-language-technologies-edic,Poland,26
+471,pllum,Poland,20
+472,genai-team-at-the-camino,Poland,1
+473,artificial-intelligence-mission,Saudi Arabia,24
+474,global-artificial-intelligence-assembly,Saudi Arabia,3
+475,global-smart-city-forum,Saudi Arabia,15
+476,data-sharing-policy,Saudi Arabia,4
+477,ai-scholarship-program,Saudi Arabia,30
+478,digital-task-force-for-ai-9528,Denmark,3
+479,the-international-center-for-artificial-intelligence-research-and-ethics,Saudi Arabia,3
+480,global-ai-summit,Saudi Arabia,5
+481,international-ai-olympiad,Saudi Arabia,1
+482,personal-data-breach-incidents-procedural-guide,Saudi Arabia,16
+483,guidelines-for-the-use-of-generative-ai-in-the-public-administration-6317,Sweden,0
+484,ai-spanish-sandbox-pilot-6727,Spain,3
+485,university-business-chairs-on-ai-2103,Spain,1
+486,future-innovators-summer-school-6511,Malta,1
+487,ai-factory-pharos-6193,Greece,10
+488,slovene-early-stage-innovation-fund,Slovenia,14
+489,#bedigitaltogether,Belgium,1
+490,schoolpackage-ai,Austria,1
+491,ai-radar,Austria,1
+492,european-digital-innovation-hubs-edihs-2,Sweden,11
+493,research-and-innovation-bill,Sweden,6
+494,initiatives-to-help-start-ups-andor-scale-ups-access-financing,Spain,14
+495,ai4es-network-of-excellence-in-ai,Spain,7
+496,spain-neurotech,Spain,36
+497,financing-of-cooperative-research-plans-in-the-area-of-​​ai-developed-by-interdisciplinary-research-groups,Spain,7
+498,centre-of-excellence-for-ai-randd,Portugal,7
+499,p2-subsidies-for-start-ups,Slovenia,14
+500,european-digital-innovation-hubs-edihs-1,Slovenia,11
+501,legal-guide-for-designing-regulatory-sandboxes,Israel,28
+502,randd-projects-for-smart-specialisation-and-specific-economic-objectives,Slovenia,6
+503,gravity-and-strategic-projects,Slovenia,6
+504,europeum-edic,Slovenia,33
+505,citiverse,Slovenia,15
+506,test-3,Slovakia,11
+507,alliance-for-language-technologies-european-digital-infrastructure-consortium-alt-edic,Slovenia,20
+508,attracting-and-retaining-ai-related-talent,Finland,30
+509,agrispace,Portugal,12
+510,"knowledge-and-innovation-agenda-for-agriculture,-water-and-food-kia-lwv",Netherlands,12
+511,ai-excellence-centres,Italy,7
+512,ai-related-university-courses,Italy,1
+513,ai-in-primary-and-secondary-school,Italy,1
+514,digital-culture-curriculum,Hungary,1
+515,pioneers-in-ai,Greece,1
+516,national-artificial-intelligence-competition-naic,Greece,1
+517,promotion-of-inclusion-and-diversity-in-ai-ecosystems,France,1
+518,ai-guidelines-for-education-system,Bulgaria,1
+519,"recommendations-on-ai-in-education,-teaching-and-training",Finland,1
+520,digital-problem-solving-in-preparatory-adult-education-fvu,Denmark,1
+521,compulsory-training-in-digital-skills-across-subjects-act-on-upper-secondary-education,Denmark,1
+522,rrf-31-innovation-in-education-in-the-context-of-digitization,Czechia,1
+523,im-in-a-course-initiative,Czechia,1
+524,hrda-ai-courses,Cyprus,1
+525,adult-learning-platform,Bulgaria,1
+526,operation-digital-skills,Bulgaria,1
+527,international-ai-olympiad-1,Bulgaria,1
+528,hpc-ceci,Belgium,10
+529,digital-for-care-digital-health-framework-2024-2030,Ireland,2
+530,legislative-amendments-for-road-transport-automation,Finland,21
+531,nxtaim,Germany,15
+532,training-scholarships,Spain,30
+533,smals,Belgium,23
+534,improving-access-to-data-strategy-for-digitalisation,Denmark,4
+535,research-on-artificial-intelligence-systems-and-discrimination-aspects,Latvia,22
+536,imecs-participation-in-prevail,Belgium,36
+537,baltic-first-ai-hackathon,Latvia,7
+538,brain-bringing-artificial-intelligence-towards-smes,Slovenia,19
+539,ai-empowered-teaching-unlocking-the-future-of-digital-education-for-teachers-ai-empate,Latvia,1
+540,national-data-strategy,Austria,4
+541,using-generative-artificial-intelligence-for-and-in-education,Slovenia,1
+542,proloog-mobilidata-2,Belgium,15
+543,ai-essentials-courses-for-women-1,Latvia,1
+544,national-funding-call-mobility-transition-20241-mobility-technologies-and-components,Austria,15
+545,the-knowledge-hub-for-the-digitalization-of-agriculture,Sweden,12
+546,agrifood-tef,Spain,12
+547,technological-and-territorial-network-project-for-forest-monitoring-and-reduction-of-environmental-disasters-as-levers-for-the-development-of-the-forest-bioeconomy-retechfor,Spain,31
+548,digitisation-and-decarbonisation-of-mobility-strategy,France,15
+549,sirius-simulator-project,Belgium,13
+550,dars-ai-initiative,Slovenia,15
+551,support-to-srip-acs-strategic-research-innovation-partnership,Slovenia,15
+552,ffi-traffic-safe-automation,Sweden,15
+553,a12-traffic-forecaster,Netherlands,15
+554,bikesafeai,Netherlands,15
+555,mirri-information-hub-for-artificial-intelligence-ai,Slovakia,8
+556,urban-mobility-data-integration,Italy,15
+557,sustainable-mobility,Italy,15
+558,forma-program-for-artificial-intelligence,Spain,1
+559,secure-platform-for-developing-transparent-danish-language-models,Denmark,20
+560,centre-for-artificial-intelligence-in-society,Denmark,3
+561,business-and-scientific-organisations-platform-s2b,Bulgaria,11
+562,update-to-the-general-programme-of-computer-science-classes-1-12,Lithuania,3
+563,national-center-for-ai-innovation,Denmark,18
+564,digital-transformation-of-bulgaria-strategy-2024-2030,Bulgaria,8
+565,vlaams-supercomputer-centrum-vsc,Belgium,10
+566,national-plan-on-vulnerable-collectives,Spain,1
+567,programme-for-the-development-of-ai-skills,Spain,1
+568,digibiocontrol,Belgium,12
+569,the-development-of-genomic-research-in-romania-rogen,Romania,2
+570,national-programme-on-spintronics,France,12
+571,forest-data-collection-and-management,Finland,31
+572,nl-aic-working-group-on-human-capital,Netherlands,1
+573,nl-aic-training-platform,Netherlands,1
+574,programme-to-support-applied-research-of-the-ministry-of-agriculture-for-the-period-2024-2032,Czechia,12
+575,ai-for-education-pilot-project,Malta,1
+576,valbowal,Belgium,31
+577,agriculture-of-the-future-programme,Belgium,12
+578,assignment-to-the-swedish-agency-for-digital-government-and-the-swedish-authority-for-privacy-protection-to-develop-guidelines-for-the-use-of-generative-artificial-intelligence-in-public-administration,Sweden,0
+579,cloud-research-programme-pepr,France,33
+580,skillsbridges,Luxembourg,1
+581,accelerating-the-use-of-generative-ai-in-the-economy,France,5
+582,chips-from-the-north-strategy,Finland,24
+583,kvanttinova-piloting-environment-for-microelectronics-and-quantum-technology,Finland,24
+584,elements-of-ai-luxembourg,Luxembourg,1
+585,foresight-project,Bulgaria,13
+586,priority-research-programme-and-equipment-pepr-on-artificial-intelligence,France,9
+587,business-finland-campaign-on-generative-ai,Finland,7
+588,development-and-implementation-of-automated-nursery-plant-thinning-and-weeding-technology,Latvia,12
+589,ceadar-technology-centre-and-ceadar-ai-edih,Ireland,14
+590,development-of-a-new-big-data-driven-overhead-power-grid-pre-storm-damage-prediction-system,Latvia,13
+591,transition-50-plan-1,Italy,13
+592,euro-mediterranean-centre-on-climate-change-and-the-cassandra-supercomputer,Italy,13
+593,smart-attica-edih,Greece,11
+594,inclusion-of-the-climate-or-environmental-dimensions-of-ai-in-education-and-training,France,13
+595,life,Luxembourg,12
+596,equifund-and-equifund-ii,Greece,14
+597,aicatalyst,Greece,11
+598,lunit-insight-mmg,Romania,2
+599,baltic-satellite-service-project-ml4healthyforest,Latvia,31
+600,institutional-and-coordination-framework-for-digital-transformation,Slovakia,17
+601,"important-project-on-common-european-interest-in-the-field-of-mictroelectronics,-including-communication-technology-ipcei-mect",Slovakia,24
+602,ancient-woodlands-ireland-project,Ireland,31
+603,powerful-medical-cardio-mobile-app,Slovakia,2
+604,digital-health-slovakia,Slovakia,2
+605,healthhub-center-for-innovative-healthcare,Slovakia,2
+606,tef-health-ai-in-medical-imaging,Slovakia,2
+607,smart-agro-hub,Greece,12
+608,smart-and-sustainable-investment-grant,Malta,13
+609,dataspace4health,Luxembourg,2
+610,chip-chairs,Spain,24
+611,plan-to-promote-sectoral-data-spaces,Spain,4
+612,slovenian-national-strategy-in-semiconductor-technologies-and-chips-until-2030,Slovenia,24
+613,support-for-slovenian-companies-involved-in-ipcei-mect,Slovenia,24
+614,support-for-slovenian-companies-involved-in-the-chips-ju,Slovenia,24
+615,"slovenian-national-competence-centre-for-chips-and-semiconductors,-and-other-support-as-part-of-the-chips-joint-undertaking-chips-ju",Slovenia,24
+616,experimental-regulatory-environments-for-ai,Slovakia,28
+617,artificial-intelligence-security-research-centre-at-the-research-and-academic-computer-network,Poland,3
+618,high-and-highest-performance-computing-for-the-digital-age-1,Belgium,2
+619,innovation-aid-for-smes-scheme,Malta,29
+620,start-up-finance-scheme,Malta,14
+621,digital-technologies-programme,Malta,11
+622,fit-4-digital-ai,Luxembourg,19
+623,digital-vouchers-for-smes,Lithuania,29
+624,"inostartas,-inobranda-ir-inopazanga",Lithuania,14
+625,"measure-for-start-ups-and-spin-offs-in-the-vilnius-region-to-develop-innovative-solutions-and-products-in-ai,-blockchain-technology-and-robotics-process-automation",Lithuania,19
+626,memorandum-with-the-artificial-intelligence-center-hamburg-aric,Latvia,11
+627,latvian-national-center-for-artificial-intelligence,Latvia,7
+628,randd-funds-for-data-science-and-ai,Portugal,7
+629,latvian-population-genome-reference-project,Latvia,2
+630,latvian-digital-health-centre,Latvia,2
+631,advancement-of-paediatric-cancer-care,Latvia,2
+632,senate-act-no-1146-law-on-artificial-intelligence,Italy,25
+633,agenas-national-platform,Italy,2
+634,myeeszt,Hungary,2
+635,agreement-implementation-act-2024,Austria,2
+636,automated-transport-innovation-labs,Austria,15
+637,chips-competence-centre,Malta,24
+638,clinnova,Luxembourg,2
+639,algorithm-and-ai-register,Netherlands,0
+640,national-electronic-health-file-nehf,Greece,2
+641,the-new-section-393-sgb-v-social-security-code-book-v-has-been-enacted-with-the-recent-digital-act,Germany,2
+642,national-health-data-lake,Spain,2
+643,ai-assisted-precision-surgery-in-oncology,Germany,2
+644,act-on-health-data-use-gdng,Germany,2
+645,development-and-implementation-of-the-national-digital-platform-for-medical-diagnostics,Bulgaria,2
+646,translate-ad,Belgium,2
+647,health-it-interoperability-governance-ordinance-gigv-competence-centre,Germany,2
+648,italian-strategy-on-data,Italy,4
+649,national-platform-of-technologies-and-semiconductors-1,Romania,24
+650,health-data-lake,Portugal,2
+651,smart-labs,Romania,1
+652,national-strategy-for-e-health-and-digitalization-of-the-health-system-2030,Bulgaria,2
+653,national-strategy-for-semiconductors,Portugal,24
+654,academic-computer-centre-cyfronet-agh,Poland,18
+655,ai-in-protontherapy,Netherlands,2
+656,training-on-ai-for-healthcare-professionals,Malta,2
+657,national-action-plan-on-the-digital-decade-for-romania,Romania,26
+658,pilot-project-implementation-of-a-solution-to-reduce-the-number-of-was-not-brought-wnb-and-no-show-patients-in-the-hospital,Latvia,2
+659,participation-in-the-lumi-q-project,Finland,32
+660,public-administration-pillar-in-the-italian-strategy-for-ai-2024-2026,Italy,0
+661,ftehdas2-second-joint-action-towards-the-european-health-data-space,Portugal,2
+662,romanian-national-hpc-competence-center-roncc,Romania,10
+663,to-be-seen-and-to-be-heard,Malta,2
+664,a-land-for-tomorrow,Belgium,0
+665,ai-for-intelligent-image-analysis,Belgium,15
+666,ai-usage-in-flemish-government-agency-for-innovation-and-entrepreneurship-vlaio,Belgium,19
+667,healthcare-professionals-competency-platform,Lithuania,2
+668,second-joint-action-towards-the-european-health-data-space,Finland,2
+669,capacity-building-for-civil-and-public-servants,Ireland,0
+670,national-level-deliberations-on-draft-legislation-as-part-of-the-eu-ai4deliberation-project,Greece,0
+671,cadastre,Greece,0
+672,ai-plattform-kipitz,Germany,0
+673,ai-marketplace-for-opportunities,Germany,0
+674,tremplin-ia,Belgium,19
+675,start-ia,Belgium,19
+676,centre-for-excellence-in-language-technology,Latvia,20
+677,genomic-medicine-plan,France,2
+678,analytical-ai-platform-to-support-draft-legislation,Czechia,0
+679,government-council-for-information-society-­-working-group-for-cloud-computing,Croatia,23
+680,ai4citizens,Latvia,8
+681,memorandum-of-understanding-mou-with-microsoft,Latvia,23
+682,govtech-sandbox,Lithuania,0
+683,ai-and-data-governance-workshops,Luxembourg,8
+684,ai-framework-guiding-statements,Germany,0
+685,ai-related-training-for-civil-servants,France,0
+686,experimentation-with-generative-ai-to-support-legislative-work,Finland,0
+687,embraisme,Austria,19
+688,national-stage-of-the-international-teens-in-ai-hackathon,Ukraine,1
+689,voluntary-code-of-conduct-for-the-ethical-and-responsible-use-of-artificial-intelligence,Ukraine,3
+690,experimental-project-on-organising-the-research-of-high-tech-tools-using-the-sandbox-method-sandbox-for-ai-and-blockchain-startups,Ukraine,28
+691,glossary-of-terms-on-ai,Ukraine,3
+692,human-rights-in-the-age-of-artificial-intelligence,Ukraine,3
+693,instructional-and-methodological-recommendations-regarding-the-introduction-and-use-of-artificial-intelligence-technologies-in-general-secondary-education-institutions,Ukraine,1
+694,recommendations-on-the-responsible-use-of-ai-issues-of-intellectual-property-law,Ukraine,25
+695,guidelines-on-the-responsible-use-of-artificial-intelligence-in-the-news-media,Ukraine,3
+696,the-guidelines-on-the-responsible-use-of-artificial-intelligence-in-advertising-and-marketing,Ukraine,3
+697,white-paper-on-ai-regulation-in-ukraine,Ukraine,3
+698,use-case-pilots,Ireland,0
+699,polish-development-fund-pfr-workshops,Poland,14
+700,science-digital-program,Portugal,1
+701,sciencetraining-program,Portugal,6
+702,the-strategy-for-the-development-of-artificial-intelligence-technologies-until-2030,Uzbekistan,8
+703,national-semiconductor-strategy-1,Czechia,24
+704,important-project-of-common-european-interest-in-microelectronics-and-communication-technologies,Czechia,24
+705,research-ireland-centre-for-future-networks-and-communications-connect,Ireland,13
+706,ai-ecosystem-in-social-and-health-services-sote,Finland,2
+707,ai-in-the-evaluation-of-eu-projects,Latvia,0
+708,bill-establishing-the-federal-observatory-on-artificial-intelligence-no-3900-d-2024,Argentina,25
+709,guide-on-artificial-intelligence-ai-governance-and-ethics-for-brunei-darussalam,Brunei Darussalam,3
+710,sofia-automated-information-guidance-and-facilitation-service,Peru,0
+711,x,Peru,31
+712,jean-zay-supercomputer-extension,France,10
+713,meti-subsidies-for-ai-computational-resources-under-the-economic-security-promotion-act,Japan,18
+714,canadian-sovereign-ai-compute-strategy,Canada,18
+715,bill-no-2807-of-2024,Brazil,25
+716,criminal-code-amendment-deepfake-sexual-material-bill-2024,Australia,25
+717,policy-for-the-responsible-use-of-ai-in-government,Australia,0
+718,strategy-for-the-digital-development-of-innovation-activity-in-ukraine-until-2030,Ukraine,6
+719,strategy-for-the-development-of-artificial-intelligence-in-cuba,Cuba,8
+720,national-ai-strategy-roadmap-20-naisr-20,Philippines,8
+721,national-artificial-intelligence-policy,Ethiopia,8
+722,national-artificial-intelligence-strategy-of-mauritania-2024-2029,Mauritania,8
+723,senegal-national-artificial-intelligence-strategy-and-road-map,Senegal,5
+724,south-africa-national-artificial-intelligence-policy-framework,South Africa,8
+725,national-ai-strategy-2024,Spain,8
+726,concept-of-the-state-targeted-scientific-and-technological-programme-for-the-application-of-artificial-intelligence-technologies-in-priority-economic-sectors-until-2026,Ukraine,8
+727,general-short-term-professional-development-program-fundamentals-of-artificial-intelligence-for-public-servants,Ukraine,0
+728,roadmap-for-smart-city-initiatives,Japan,8
+729,jupiter-ai-factory-jaif,Germany,18
+730,ai-factory-france-ai2f,France,18
+731,digital-skill-development-roadmap-2024-2035,Cambodia,1
+732,digital-media-and-information-literacy-competency-framework-dmil,Cambodia,17
+733,national-artificial-intelligence-advisory-committee-law-enforcement-subcommittee,United States,0
+734,opinion-282024-on-certain-data-protection-aspects-related-to-ai-models,European Union,22
+735,india-ai-mission,India,7
+736,sandkescht-—-regulatory-sandbox,Luxembourg,28
+737,developing-strategies-to-increase-capacity-in-ai-education,United States,1
+738,national-cloud-and-data-policy,South Africa,4
+739,national-artificial-intelligence-research-resource-nairr,United States,9
+740,guidelines-on-securing-ai-systems,Singapore,3
+741,open-data-portal,Poland,4
+742,national-data-centers-plan-pdata,Chile,8
+743,latam‑gpt,Chile,20
+744,law-for-the-implementation-of-artificial-intelligence-ai-systems-24484,Costa Rica,25
+745,bill-regulating-artificial-intelligence-systems,Chile,25
+746,adia-innovation-in-the-processing-of-legal-documents,Spain,27
+747,piano-transizione-40-tax-credit,Italy,35
+748,it4lia-ai-factory,Italy,18
+749,ai-sovereign-compute-infrastructure-program-ai-scip-canadian-sovereign-ai-compute-strategy,Canada,18
+750,canadian-ai-safety-institute-caisi-canada,Canada,3
+751,regional-artificial-intelligence-initiative-raii,Canada,29
+752,ai-compute-access-fund,Canada,18
+753,merged-randd-tax-relief-eris-uk,United Kingdom,35
+754,alliance,France,0
+755,albert-api,France,0
+756,ai-for-small-businesses-resource-hub-sba,United States,19
+757,ukri-ai-strategy,United Kingdom,5
+758,geniac,Japan,18
+759,catalog-type-subsidy,Japan,29
+760,introduction-to-ai-assurance,United Kingdom,3
+761,"corporate-sustainability-due-diligence-directive-directive-20241760,-csddd",European Union,16
+762,artificial-intelligence-strategy-for-the-national-health-system-eiasns,Spain,2
+763,medical-artificial-intelligence-randd-roadmap-2024-2028,Korea,2
+764,joint-ai-plan-for-the-safe-and-effective-use-of-ai-in-the-norwegian-health-and-care-services-2024-2025,Norway,2
+765,grant-connect-web-reporting,Australia,0
+766,ai-powered-research-support-service-rss,Korea,0
+770,explorer,Türkiye,27
+771,government-ai-offices,Saudi Arabia,0
+772,guidance-on-government-use-of-public-generative-ai-tools,Australia,0
+773,guidance-on-privacy-and-the-use-of-commercially-available-ai-products,Australia,16
+774,ai-technical-standard,Australia,0
+775,ai-and-semiconductor-industry-strengthening-framework,Japan,24
+776,ai-consultation-summary,Australia,0
+778,ai-utilisation-guidelines-on-administrative-procedures-including-those-involving-citizens,Japan,0
+781,artificial-intelligence-governance-policy-of-the-chamber-of-deputies,Brazil,3
+782,taina-public-service-agent,Dominican Republic,0
+783,japan-ai-safety-institute-aisi-japan,Japan,3
+784,ai-for-rakyat,Malaysia,1
+785,ai-helper,Finland,0
+786,investmentmap-20-ai-transparency-chatbot,Dominican Republic,0
+787,parlihelper,Australia,0
+788,ai-supported-language-application-for-turkish-language-education,Türkiye,20
+789,technology-assessment-on-safe-and-trustworthy-ai,Korea,3
+790,smart-labour-market-oversight-model,Saudi Arabia,0
+791,integration-of-ai-into-the-accreditation-process,Latvia,0
+792,hyper-scale-ai-service-for-young-farmers-in-rural-area,Korea,12
+793,guidance-on-generative-artificial-intelligence-and-the-protection-of-personal-data-in-15-questions,Türkiye,22
+794,nusuk-card-system,Saudi Arabia,15
+795,national-guidelines-on-artificial-intelligence-governance-and-ethics-aige,Malaysia,3
+796,ai-malaysia-bhd,Malaysia,8
+797,satellite-based-system-for-waterlogging-detection-using-artificial-intelligence,Serbia,13
+798,digiteks-application-of-ai-for-understanding-the-serbian-language-and-digitalization-in-the-field-of-legislation,Serbia,0
+799,camilla-digital-assistant-for-public-sector-competitions,Italy,0
+800,ai-brownfield-site,Austria,31
+801,use-of-artificial-intelligence-by-courts,Canada,27
+802,ai-copilot-for-the-national-post-provider,Serbia,0
+804,ai-proof-of-concept-trajectory,Belgium,0
+805,indonesias-healthcare-ai-task-force,Indonesia,2
+806,guidelines-for-the-use-of-hyper-scale-ai-in-the-public-sector,Korea,0
+808,intelligent-complaint-analysis-system-siar,Chile,0
+810,building-regulations-copilot-br-copilot,Korea,0
+813,libraify-digitisation-of-textual-cultural-heritage-improving-the-quality-of-ocred-texts,Serbia,0
+815,ai-skills-for-business-competency-framework-6658,United Kingdom,1
+816,technology-committee-within-the-framework-of-the-national-system-of-competitiveness-and-innovation-1257,Colombia,6
+817,ai-regulatory-sandbox-mexico-4522,Mexico,28
+818,bill-of-rights-of-the-person-in-the-digital-environment-4947,Mexico,22
+819,inter-institutional-ai-committee-8859,Colombia,9
+820,ai4dev-reference-group-4754,Nigeria,9
+821,sectorial-ai-testing-and-experimentation-facilities-under-the-digital-europe-programme-5582,European Union,12
+822,european-data-governance-act-dga-7985,European Union,4
+823,tech-trends-position-statement-generative-ai-5389,Australia,3
+824,court-ruling-on-the-use-of-ai-software-in-hesse-and-hamburg-5559,Germany,0
+825,digital-transformation-strategy-of-costa-rica-7817,Costa Rica,17
+826,national-cybersecurity-strategy-2723,Costa Rica,3
+827,long-term-plan-for-the-education-and-development-of-the-educational-system-of-the-czech-republic-2023-2027-3257,Czechia,1
+828,guidelines-use-of-ai-based-tools-in-final-papers-8711,Austria,0
+829,ai-badge-for-eeducation-schools-4964,Austria,1
+830,teaching-materials-on-ai-eduthek-digicase-5365,Austria,1
+831,ai-pilot-schools-learning-and-teaching-with-ai-tools-8780,Austria,1
+832,guide-digital-administration-ai-ethics-and-law-practical-guide-for-the-administration-version-20-6208,Austria,0
+833,implementation-plan-for-nationwide-diffusion-of-ai-into-everyday-life-5783,Korea,5
+834,european-digital-infrastructure-consortium-edic-4627,European Union,26
+835,strategy-to-realize-trustworthy-artificial-intelligence-2140,Korea,3
+836,bg-etem-5480,Germany,0
+837,imagine-ai-for-dignity-feminine-visions-for-regeneration-3163,Austria,3
+838,recommendations-for-a-trustworthy-artificial-intelligence-1983,Argentina,3
+839,development-of-common-standards-in-the-use-of-artificial-intelligence-in-the-digitization-process-in-order-to-ensure-guarantees-of-equal-access-and-respect-for-human-rights-3700,Bulgaria,26
+840,transforming-education-through-technology-masterplan-2030-3866,Singapore,1
+841,national-ai-strategy-20-6191,Singapore,5
+842,us-india-artificial-intelligence-initiative-4487,India,9
+843,algorithm-supervision-body-8479,Netherlands,22
+844,leveraging-artificial-intelligence-and-big-data-in-telecommunication-sector-7887,India,8
+845,approach-document-for-india-part-3-adopting-framework-a-use-case-approach-on-facial-recognition-technology-6259,India,3
+846,the-digital-personal-data-protection-act-3621,India,16
+847,voluntary-code-of-conduct-on-the-responsible-development-and-management-of-advanced-generative-ai-systems-2258,Canada,3
+848,guide-on-the-use-of-generative-ai-2027,Canada,0
+849,australian-framework-for-generative-ai-in-schools-6294,Australia,1
+850,conversational-robot-to-support-entities-in-the-local-government-sector-8477,Portugal,0
+851,indiaai-2023-expert-group-report-8483,India,7
+852,algorithms-research-5461,Australia,5
+853,safe-and-responsible-ai-in-australia-interim-response-6174,Australia,3
+854,kotak-iisc-ai-ml-centre-5652,India,7
+855,maigov-7493,Greece,0
+856,generative-ai-greece-2030-futures-of-generative-ai-in-greece-7447,Greece,17
+857,responsible-ai-principles-for-audiovisual-collections-6658,Australia,3
+858,high-level-advisory-committee-on-artificial-intelligence-2818,Greece,8
+859,xploring-intelligence-a-bootcamp-on-us-and-techtech-trek-a-teen-tech-adventure-9891,Malta,1
+860,prompt-engineering-playbook-2741,Singapore,0
+861,singapore-conference-on-ai-for-the-global-good-7730,Singapore,5
+862,discussion-paper-on-generative-ai-implications-for-trust-and-governance-9612,Singapore,3
+863,national-alliance-of-artificial-intelligence-3521,Mexico,8
+864,circular-on-the-use-of-large-language-models-in-the-public-sector-6672,Singapore,0
+865,pair-4792,Singapore,20
+866,technology-assessment-recognition-framework-2666,Malta,6
+867,egyptian-charter-for-responsible-ai-3543,Egypt,8
+868,tentative-summary-of-ai-issues-5850,Japan,9
+869,ai-strategy-council-9987,Japan,9
+870,personalised-virtual-assistant-national-institute-for-social-security-inps-6219,Italy,0
+871,corporate-venture-capital-fund-for-ai-start-ups-to-develop-solutions-for-the-public-sector-6795,Italy,14
+872,public-call-for-applications-to-support-ai-implementation-projects-in-the-government-7842,Israel,0
+873,government-resolution-no-173-strengthning-israels-global-technological-leadership-3592,Israel,6
+874,israels-policy-on-artificial-intelligece-regulation-and-ethics-9458,Israel,3
+875,guiding-principles-for-the-development-of-machine-learning-based-technologies-in-healthcare-4768,Israel,2
+876,privacy-enhancing-technology-action-plan-2190,Estonia,16
+877,technological-sandbox-on-the-use-of-exponential-technologies-in-selection-procedures-for-the-contracting-of-goods-services-and-execution-of-works-in-a-scalable-manner-for-the-members-of-the-national-digital-transformation-system-7006,Peru,0
+878,law-31814-law-that-promotes-the-use-of-artificial-intelligence-in-favor-of-the-economic-and-social-development-of-the-country-3047,Peru,25
+879,draft-regulation-of-law-no-31814-law-that-promotes-the-use-of-artificial-intelligence-in-favor-of-the-economic-and-social-development-of-the-country-3487,Peru,25
+880,voluntary-commitments-6543,United States,9
+881,pcast-generative-ai-working-group-2209,United States,9
+882,nist-ai-public-working-groups-9122,United States,9
+883,executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence-1436,United States,3
+884,ai-clause-in-executive-order-on-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government-1580,United States,22
+885,national-artificial-intelligence-authority-2323,Peru,8
+886,national-multimodal-large-language-model-programme-7210,Singapore,20
+887,evaluation-of-risk-behavior-in-gambling-3790,Portugal,16
+888,cross-agency-work-programme-on-ai-2023-5091,New Zealand,5
+889,the-algorithm-impact-assessment-aia-toolkit-1439,New Zealand,0
+890,centre-for-data-ethics-and-innovation-3576,New Zealand,3
+891,government-chief-digital-officer-leadership-on-ai-in-public-sector-1829,New Zealand,0
+892,ai-trailblazers-1541,Singapore,9
+893,privacy-enhancing-technologies-x-privacy-sandbox-7018,Singapore,28
+894,generative-ai-evaluation-sandbox-1537,Singapore,28
+895,spanish-language-valley-6407,Spain,20
+896,autonomous-driving-test-bed-4423,Serbia,21
+897,spanish-agency-for-the-supervision-of-ai-6625,Spain,5
+898,the-saudi-academic-framework-for-ai-qualifications-education-intelligence-1962,Saudi Arabia,1
+899,national-artificial-intelligence-strategy-20242030-8923,Uruguay,8
+900,national-strategic-framework-in-the-field-of-artificial-intelligence-3388,Romania,8
+901,amendments-to-personal-data-protection-law-8936,Saudi Arabia,16
+902,elevate-program-2078,Saudi Arabia,4
+903,interministerial-working-group-for-council-of-europe-convention-on-ai-9014,Slovenia,8
+904,research-and-development-center-for-ensuring-transparency-and-reliability-of-generative-ai-models-8400,Japan,9
+905,daedalus-hypercomputer-2616,Greece,10
+906,application-laboratory-for-ai-and-big-data-ai-lab-3885,Germany,0
+907,advisory-center-for-ai-1293,Germany,0
+908,clusters-of-excellence-6246,Austria,7
+909,new-supercomputer-7318,Colombia,13
+910,national-digital-strategy-4259,Colombia,17
+911,national-artificial-intelligence-centers-4730,Colombia,8
+912,national-programme-for-transparency-and-protection-of-personal-data-in-the-use-of-artificial-intelligence-2364,Argentina,22
+913,spain-talent-hub-8370,Spain,5
+914,bletchley-park-ai-safety-summit-8090,United Kingdom,3
+915,dsit-portfolio-of-ai-assurance-techniques-4630,United Kingdom,3
+916,manchester-prize-5396,United Kingdom,1
+917,fairness-innovation-challenge-6484,United Kingdom,22
+918,foundation-model-taskforce-1971,United Kingdom,18
+919,retech-ia,Spain,7
+920,strengthen-and-retain-specialised-it-talent-and-skills,Denmark,1
+921,"recommendations-on-ai-based-tools-for-examinations-in-primary,-lower-and-upper-secondary-school",Denmark,1
+922,allowance-for-the-payment-of-digital-training-courses,Czechia,1
+923,ai-for-children,Czechia,1
+924,gate-masters-programme-big-data-technologies,Bulgaria,30
+925,insait-explorer-programme,Bulgaria,30
+926,technocite,Belgium,1
+927,e-clsses,Belgium,1
+928,digiskills-platform,Belgium,1
+929,future-artificial-intelligence-research-fair-centre-3520,Italy,7
+930,the-national-ai-policy,Rwanda,8
+931,povejmo,Slovenia,20
+932,cofund-smash-project,Slovenia,7
+933,tefs,Poland,12
+934,open-data-datathon,Saudi Arabia,4
+935,cloud-computing-services-provisioning-regulations,Saudi Arabia,23
+936,sdaia-kaust-center-of-excellence-in-data-science-and-artificial-intelligence,Saudi Arabia,1
+937,the-national-olympiad-for-programming-and-ai-athka,Saudi Arabia,1
+938,european-digital-innovation-hub-3588,Malta,11
+939,adoption-and-exploitation-of-ai-in-agriculture,Romania,12
+940,training-for-children-and-young-people-to-strengthen-digital-competences-and-to-promote-and-promote-natural-sciences-and-technical-professions,Slovenia,1
+941,digital-competences-and-basic-knowledge-of-computer-and-information-science,Slovenia,1
+942,citcomai-tef,Belgium,15
+943,navajo,Belgium,15
+944,flemish-task-force-on-automated-driving,Belgium,15
+945,cross-cutting-platform-of-artificial-intelligence-applied-to-the-agri-food-sector,Spain,12
+946,strategic-plan-for-the-common-agricultural-policy-for-the-2023-2027-period,Slovenia,12
+947,greendatai,Slovenia,13
+948,agriculture-and-rural-development-ader-2026,Romania,12
+949,competence-centres-for-digital-and-digitally-supported-teaching-in-schools-and-continuing-education,Germany,1
+950,agricultural-scenario-pilot-to-develop-ai-models2,Poland,12
+951,nxtgen-high-tech-agri-food,Netherlands,12
+952,action-program-digitalisation-adp,Netherlands,12
+953,fruit-and-vegetable-price-monitoring-and-forecasting,Malta,12
+954,human-capital-initiative-hci-and-springboard,Ireland,1
+955,ai-and-academic-integrity-guidelines,Ireland,1
+956,supply-of-robotics-and-stem-equipment-for-education,Greece,1
+957,a-central-ai-educational-platform,Greece,1
+958,a-world-class-ai-research-and-educational-institute,Greece,7
+959,transversal-cloud-adoption-plan,Belgium,23
+960,sme-digital-and-denmarks-export-and-investment-fund-eifo-digitalisation-support-for-small-businesses,Denmark,29
+961,digital-decade-no-one-is-left-behind,Lithuania,17
+962,developing-ai-solutions-at-all-education-levels,Lithuania,1
+963,european-digital-innovation-hubs-edihs-3,Czechia,11
+964,digital-entrepreneurship-programme-for-schoolchildren-in-grades-5-8-of-the-ministry-of-economy-and-innovation,Lithuania,1
+965,european-testing-and-experimentation-facility-tef-manufacturing,Czechia,11
+966,web-based-advice-on-ai-in-education,Sweden,1
+967,a-joint-project-of-the-education-and-learning-programme-vedliai-and-lietuvos-junior-achievement-lja,Lithuania,1
+968,wallonia-undertaking-wallonie-entreprendre,Belgium,11
+969,"state-programme-for-developing,-attracting-and-retaining-talent-specific-call-on-ai",Spain,30
+970,aiamo-mobility-data-hub-and-services,Germany,15
+971,transport-2030,Czechia,15
+972,public-administration-data-strategy,Malta,4
+973,training-of-professional-and-managerial-staff-in-education,Slovenia,1
+974,requalification-of-women-in-ict-professions,Slovenia,1
+975,skills-for-entrepreneurs,Latvia,29
+976,latvian-employers-for-green-and-digital-transition,Latvia,1
+977,ai-related-training-courses-in-the-state-employment-agencys-reskilling-and-upskilling-training-programmes,Latvia,1
+978,"science,-technology-and-society-university-programmes",Sweden,34
+979,analysing-the-impact-of-ai-on-educational-programmes,Sweden,1
+980,ai-cluster,France,7
+981,ai-use-in-processing-vat-returns,Slovenia,27
+982,coordination-mechanisms-for-the-sharing-of-energy-coomep,Belgium,13
+983,net-zero-cities,Slovenia,15
+984,strengthening-the-digital-skills-of-civil-servants,Slovenia,0
+985,tampere-city-lab,Finland,15
+986,smart-traffic-analysis-and-traffic-safety-stats,Netherlands,15
+987,open-government-action-plan,Finland,4
+988,digital-croatia-strategy,Croatia,11
+989,smart-led-light,Latvia,15
+990,winter-road-maintenance-using-ai-in-kuldiga-municipality,Latvia,15
+991,ai-for-smart-cities-mobility,Italy,15
+992,testing-authorisation-regime-and-connected-vehicle-technology-pilot,Ireland,15
+993,investment-c14-r5-i2-autonomous-vehicles-in-zagreb,Croatia,15
+994,european-digital-innovation-hubs-edihs-4,Slovakia,11
+995,digitallead,Denmark,11
+996,ion,Romania,0
+997,caixa-geral-de-aposentacoes-ai-virtual-assistant,Portugal,0
+998,factoryxchange-edih,Ireland,11
+999,"control-of-the-metabolic-efficiency-of-selenium-and-iodine-transfer-to-eggs,-using-ai-technologies-and-assessment-of-the-bioavailability-of-these-necessary-trace-elements",Lithuania,12
+1000,"developing-methodologies-and-recommendations-for-assessing-the-impact-of-ai-technologies-on-sustainable,-healthy-and-smart-food-ecosystems",Lithuania,12
+1001,ai-politeai-lab-at-the-iit-demokritos,Greece,3
+1002,slovak-quantum-communication-infrastructure,Slovakia,32
+1003,medresyst,Belgium,2
+1004,health-data-agency,Belgium,2
+1005,fair-forward-open-data-for-agriculture,Germany,12
+1006,"research-programme-agroecology-and-ict-data,-agricultural-equipment,-and-genetic-resources-in-the-service-of-the-agroecological-transition-and-adaptation-to-climate-hazards",France,12
+1007,"international-accelerator-of-startup-lithuania,-the-national-startup-ecosystem-facilitator,-under-the-auspices-the-lithuanian-innovation-agency",Lithuania,14
+1008,ai-idea-workshop-for-environmental-protection,Germany,13
+1009,eucaim-european-federation-for-cancer-images,Portugal,2
+1010,deepgreen,France,36
+1011,mission-ki,Germany,19
+1012,european-innovation-partnership-operational-groups,Bulgaria,12
+1013,national-health-data-infrastructure,Austria,2
+1014,digital-commons-for-generative-artificial-intelligence,France,11
+1015,paideia-project,Malta,1
+1016,digital-nose,Austria,31
+1017,develop-and-upscale-quantum-compute-capacity,Finland,32
+1018,ipcei-cis-project-on-cloud-edge,Slovenia,33
+1019,eucaim-project,Sweden,2
+1020,clarence,Luxembourg,33
+1021,national-reference-centre-for-semantic-resources-of-the-ministry-of-health,Spain,2
+1022,bled-institute-for-leadership-in-digital-transformation-and-artificial-intelligence-bildai,Slovenia,0
+1023,strategy-of-the-e-health-centre-summary-2023-2027,Poland,2
+1024,optimal-therapies-through-data-driven-decision-and-support-systems,Germany,2
+1025,-1,Slovenia,2
+1026,measures-to-reinforce-spains-hpc-capacity-for-ai-development,Spain,18
+1027,programme-to-support-edge-technologies-as-part-of-unico-ipcei-subsidy-programme,Spain,33
+1028,forestry-40-project,Lithuania,31
+1029,establishment-of-edge-nodes-indicators,Slovenia,26
+1030,iot-connectivity-platform,Slovenia,33
+1031,data-centres-in-arnes,Slovenia,10
+1032,artiq-ai-centres-of-excellence,Netherlands,7
+1033,european-digital-innovation-hubs-edih-in-the-netherlands,Netherlands,11
+1034,sustainlivwork-centre-of-excellence-coe-for-sustainable-living-and-working,Lithuania,7
+1035,megalith-project,Malta,13
+1036,competence-centres-initiative,Italy,11
+1037,ipcei-on-microelectronics-and-communication-technologies-ipcei-mect-project-fanfare,Ireland,24
+1038,veles-the-smart-excellence-hub-for-southeastern-europe-regional-smart-data-space,Bulgaria,2
+1039,sfi-discover-programme,Ireland,1
+1040,guidance-on-the-use-of-ai-by-the-public-sector,Ireland,0
+1041,national-center-for-data-processing,Poland,10
+1042,swedish-participation-in-the-chips-joint-undertaking,Sweden,24
+1043,ipcei-cis,Poland,33
+1044,aida,Lithuania,2
+1045,national-academic-infrastructure-for-supercomputing-sweden-naiss,Sweden,10
+1046,charter-for-the-responsible-use-of-ai-in-public-services,Belgium,0
+1047,swestore,Sweden,10
+1048,roadmap-for-a-national-digital-infrastructure-for-healthcare,Sweden,2
+1049,1-million-genomes-vilnius-university-hospital-vul-santaros-klinikos,Lithuania,2
+1050,ai-powered-medical-chatbot,Latvia,0
+1051,aida-artificial-intelligence-based-diagnostic-assistant-for-detecting-stomach-inflammation,Latvia,2
+1052,digital-transition-fund,Italy,29
+1053,hybrid-cloud,Greece,23
+1054,digital-transformation-of-robotic-factories-of-the-future-digitop,Slovenia,11
+1055,hidra,Slovenia,13
+1056,smash-machine-learning-in-climate,Slovenia,13
+1057,ai-supported-administrative-notification,Austria,0
+1058,portuguese-quantum-institute,Portugal,32
+1059,expanding-the-european-ehrxf-to-share-and-effectively-use-health-data-within-the-ehdsxshare,Cyprus,2
+1060,veles-excellence-hub,Cyprus,2
+1061,komondor-hpc,Hungary,10
+1062,promote-ai-use-for-better-policymaking-andor-public-service-delivery,France,0
+1063,fedeuai,Hungary,33
+1064,"cross-border-and-multi-country-projects-—-low-power-processors,-incl-support-for-romanian-companies-involved-in-ipcei-mect",Romania,24
+1065,ai4healthcro,Croatia,2
+1066,snomed-ct-and-semantic-interoperability,Poland,2
+1067,portuguese-quantum-communications-infrastructure-ptqci,Portugal,32
+1068,ai-demonstrators-diac-and-diat,France,13
+1069,"juvoly,-ai-speech-recognition-for-medical-consults",Netherlands,20
+1070,integrating-ai-into-the-electronic-health-records,Netherlands,2
+1071,cross-sectoral-care-agreement,Netherlands,2
+1072,deucalion,Portugal,10
+1073,ai-education-council,Romania,1
+1074,robotics-project-at-mater-dei-hospital,Malta,2
+1075,national-framework-for-supporting-strategic-semiconductor-investments,Poland,24
+1076,greek-participation-in-the-chips-joint-undertaking,Greece,24
+1077,national-data-strategy-1,Germany,4
+1078,smart-specialisation-strategy-2023-2029,Croatia,6
+1079,national-strategy-republic-of-ghana-national-artificial-intelligence-strategy-2023-2033,Ghana,8
+1080,roadmap-for-ai-regulation-in-ukraine-a-bottom-up-approach,Ukraine,3
+1081,programme-our-second-language,Poland,1
+1082,ai-business-school-for-public-administration,Portugal,0
+1083,diginn-cyprus-european-digital-innovation-hub,Cyprus,11
+1084,ai-chatbot,Malta,0
+1085,tetonai,Denmark,2
+1086,european-digital-innovation-hub-edih-crobohub,Croatia,11
+1087,inpss-experimentation-on-generative-ai,Italy,0
+1088,testing-and-experimentation-facility-for-health-ai-and-robotics-tef-health-czechia-node-at-masaryk-university,Czechia,2
+1089,research-infrastructure-development-roadmap-of-the-republic-of-croatia-2023-2027,Croatia,7
+1090,quantum-2030,Ireland,32
+1091,govtech-ai-sandbox,Greece,0
+1092,innovation-and-enterprise-flanders,Belgium,19
+1093,research-foundation-flanders,Belgium,7
+1094,national-quantum-science-and-technology-institute-nqsti,Italy,32
+1095,kursuok-one-stop-shop-1,Lithuania,1
+1096,working-group-on-ai-of-the-future-committee-of-lithuanian-parliament,Lithuania,0
+1097,ai-charter,Luxembourg,3
+1098,singapore-and-france-defence-ministries-to-establish-first-joint-randd-lab-in-singapore-to-develop-artificial-intelligence-capabilities,Singapore,20
+1099,voluntary-code-of-conduct-on-the-responsible-development-and-management-of-advanced-generative-ai-systems,Canada,3
+1100,nsf-regional-innovation-engines-nsf-engines,United States,6
+1101,eda-regional-technology-and-innovation-hubs-tech-hubs,United States,11
+1102,ai-action-plan,Germany,5
+1103,i-choose-french-tech,France,14
+1104,french-tech-2030-program,France,14
+1105,european-centre-for-algorithmic-transparency,European Union,22
+1106,government-response-to-the-privacy-act-review-report,Australia,16
+1107,national-artificial-intelligence-strategy-enia,Dominican Republic,8
+1108,nist-ai-risk-management-framework,United States,3
+1109,cedefops-ai-skills-survey,European Union,1
+1110,law-on-the-regulation-of-artificial-intelligence-in-costa-rica-23771,Costa Rica,25
+1111,law-for-the-responsible-promotion-of-artificial-intelligence-in-costa-rica-23919,Costa Rica,25
+1112,"regulation-of-artificial-intelligence-systems,-robotics-and-related-technologies,-in-their-different-areas-of-application",Chile,3
+1113,bill-no-2338-of-2023,Brazil,25
+1114,national-artificial-intelligence-and-big-data-strategy-2023-2027,Benin,8
+1116,ai-driven-incentives-and-rewards-framework,Greece,0
+1117,tax-return-nudging,Iceland,27
+1118,technical-verification-for-appropriate-use-of-generative-ai-in-administration,Japan,0
+1119,responsible-ai-guidance-for-the-public-service-genai,New Zealand,0
+1121,microsoft-365-copilot-trial,Australia,0
+1122,uk-national-ai-infrastructure-roadmap,United Kingdom,18
+1123,backing-your-business-our-plan-for-smes,United Kingdom,29
+1124,justice-practical-guide,Portugal,27
+1125,national-data-infrastructure,Brazil,4
+1126,"ai-security-institute-formerly-ai-safety-institute,-aisi",United Kingdom,3
+1127,ai-strategic-workforce-planning,Greece,0
+1128,ai-research-resource-airr-1,United Kingdom,18
+1129,public-procurement-directive-no-442026-for-data-science-and-artificial-intelligence-projects,Chile,0
+1130,bridgeai-innovate-uk,United Kingdom,11
+1131,uk-ai-assurance-innovation-fund,United Kingdom,3
+1132,a-pro-innovation-approach-to-ai-regulation,United Kingdom,28
+1133,nedo-deep-tech-startups-support-program-dtsu,Japan,14
+1134,automated-web-request-management-process,Italy,0
+1135,national-digital-decade-roadmap-of-the-slovak-republic,Slovakia,26
+1136,govpt-virtual-assistant,Portugal,0
+1137,remote-video-identification-service-for-citizen-digital-identities,Spain,0
+1138,auditsearch-ai-powered-search-system-for-internal-government-audit,Brazil,0
+1140,services-publics-using-ai-to-improve-the-quality-of-public-services-and-re-humanize-public-services,France,0
+1141,the-data-and-digital-government-strategy,Australia,0
+1142,bi-dave-natural-language-processing-assistant,Australia,0
+1143,whole-of-australian-government-occupation-coding-service,Australia,0
+1144,national-ai-service-platform-6804,Thailand,30
+1145,digital-services-act-package-1058,European Union,17
+1146,european-lighthouse-on-secure-and-safe-ai-elsa-2785,European Union,3
+1147,anonymization-of-court-decisions-3753,Austria,27
+1148,good-practice-guide-for-the-identification-prevention-and-mitigation-of-gender-biases-in-the-life-cycle-of-artificial-intelligence-7866,Colombia,8
+1149,emerging-technologies-handbook-5121,Colombia,6
+1150,development-of-scikit-learn-ecosystem-9292,France,36
+1151,law-n-49612022-emerging-information-and-communication-technologies-and-societies-enhancing-digital-governance-and-other-provisions-3368,Greece,16
+1152,nsw-ai-assurance-framework-9200,Australia,3
+1153,ai-use-cases-in-the-public-sector-1721,Brazil,0
+1154,guide-to-artificial-intelligence-ethical-transparent-and-responsible-in-the-public-administration-1579,Portugal,0
+1155,calls-for-high-performance-computing-rd-projects-artificial-intelligence-on-the-cloud-in-collaboration-with-google-6599,Portugal,9
+1156,regulatory-framework-for-automated-vehicles-in-australia-8268,Australia,21
+1157,australian-federal-police-technology-strategy-6282,Australia,0
+1158,intellectual-property-policy-group-artificial-intelligence-working-group-3689,Australia,25
+1159,argentina-1505,Argentina,7
+1160,good-practice-recommendations-to-integrate-ethics-in-the-development-of-ai-solutions-in-healthcare-7577,France,3
+1161,ai-research-programs-1014,France,6
+1162,development-of-embedded-deep-learning-n2d2-ecosystem-cea-4732,France,36
+1163,edge-ai-initiative-7779,France,36
+1164,grants4companies-9797,Austria,0
+1165,law-as-code-for-procedures-of-public-administration-7629,Austria,0
+1166,ai-education-training-development-plan-4281,France,1
+1167,national-consultative-committee-on-digital-ethics-and-ai-9142,France,34
+1168,ai-governance-center-3150,Thailand,3
+1169,legal-opinion-uses-of-copyrighted-materials-for-machine-learning-4405,Israel,25
+1170,recommendations-for-the-processing-of-personal-data-regarding-the-use-of-artificial-intelligence-2069,Mexico,22
+1171,digital-forum-of-small-states-6828,Singapore,8
+1172,guide-for-the-preparation-and-submission-of-personal-data-protection-impact-assessments-1466,Mexico,16
+1173,start-up-residence-programme-1639,Malta,14
+1174,agile-governance-update-how-governments-businesses-and-civil-society-can-create-a-better-world-by-reimagining-governance-1002,Japan,3
+1175,fund-for-the-development-of-ai-blockchain-and-internet-of-things-iot-technologies-and-applications-6519,Italy,29
+1176,ai-blockchain-iot-technologies-and-applications-development-fund-8867,Italy,11
+1177,blockchain-ai-and-internet-of-things-fund-1656,Italy,11
+1178,ai-strategic-program-4144,Italy,5
+1179,national-data-analytics-platform-2135,India,4
+1180,ai-robotics-estonia-4965,Estonia,7
+1181,ai-support-portfolio-2165,Estonia,9
+1182,national-ai-strategy-20-4102,Estonia,5
+1183,ai-verify-7132,Singapore,3
+1184,centre-for-public-private-innovation-3145,Denmark,6
+1185,national-education-lab-ai-8699,Netherlands,1
+1186,ontario-working-for-workers-act-3171,Canada,16
+1187,national-convergence-plan-for-the-development-of-ai-9999,Belgium,5
+1188,the-bhashini-initiative-national-language-translation-mission-7753,India,20
+1189,ai-researchers-portal-5772,United States,9
+1190,establishing-protocols-for-the-use-of-text-and-speech-resources-for-the-development-of-speech-and-semantic-technologies-taking-into-account-privacy-and-the-protection-of-personal-data-7846,Slovenia,22
+1191,definition-of-a-model-of-indicators-for-monitoring-the-potential-of-ai-deployment-in-slovenia-7104,Slovenia,8
+1192,demonstration-of-the-use-of-artificial-intelligence-for-teaching-different-subjects-in-primary-and-secondary-schools-7623,Slovenia,1
+1193,defining-a-framework-to-ensure-public-trust-in-ai-solutions-based-on-different-socio-technological-factors-4611,Slovenia,3
+1194,npui-government-working-group-6740,Slovenia,8
+1195,public-sector-artificial-intelligence-observatory-4061,Uruguay,8
+1196,launch-of-the-artificial-intelligence-ai-institute-of-south-africa-and-ai-hubs-university-of-johannesburg-and-tshwane-university-of-technology-9180,South Africa,7
+1197,national-ai-policy-call-for-contributions-2007,Nigeria,3
+1198,mauritius-ai-council-1646,Mauritius,5
+1199,memories-of-the-privacy-route-artificial-intelligenceperspectives-and-prospects-from-the-right-of-personal-data-protection-and-privacy-3361,Mexico,22
+1200,national-defense-authorization-act-for-fiscal-year-2022-5238,United States,9
+1201,new-york-electronic-monitoring-bill-8110,United States,16
+1202,chips-for-america-act-6337,United States,24
+1203,automated-employment-decision-tool-law-1584,United States,16
+1204,human-interpretable-attribution-of-text-using-underlying-structure-program-4510,United States,0
+1205,chief-digital-and-ai-office-7793,United States,0
+1206,guidance-on-the-development-and-use-of-ai-in-the-public-sector-2911,Norway,0
+1207,report-the-boss-sees-you-monitoring-and-control-of-employees-digital-activities-6005,Norway,16
+1208,privacy-enhancing-technologies-sandbox-2333,Singapore,28
+1209,trustworthy-ai-trust-stamp-7161,Türkiye,3
+1210,employment-practices-monitoring-at-work-draft-guidance-7844,United Kingdom,16
+1211,d-generation-ai-initiatives-2493,Spain,1
+1212,co-official-languages-corpus-development-5138,Spain,20
+1213,green-algorithms-national-programme-3378,Spain,13
+1214,spanish-territorial-networks-of-technological-especialisation-9188,Spain,7
+1215,project-on-spanish-language-and-ai-5027,Spain,20
+1216,science-fund-of-the-republic-of-serbia-2111,Serbia,6
+1217,algorithmic-data-in-a-labor-environment-8789,Spain,22
+1218,artificial-intelligence-ecosystem-call-2023-5477,Türkiye,12
+1219,mechanisms-for-attracting-foreign-and-returning-domestic-experts-to-strengthen-slovenias-position-in-global-digitisation-trends-5489,Slovenia,8
+1220,the-digital-youth-artificial-intelligence-ecosystem-9454,Türkiye,1
+1221,digital-innovation-cooperation-platform-3485,Türkiye,26
+1222,ai-mirror-committee-3884,Türkiye,9
+1223,türkiyes-membership-in-global-partnership-on-ai-8690,Türkiye,5
+1224,thailand-national-ai-strategy-and-action-plan-2022-2027-1728,Thailand,5
+1225,european-lighthouse-on-secure-and-safe-ai-7889,Switzerland,3
+1226,joint-research-center-for-artificial-intelligence,Saudi Arabia,7
+1227,centre-for-artificial-intelligence-in-precision-medicines,Saudi Arabia,6
+1228,quantum-spain-7962,Spain,32
+1229,transformation-of-work-because-of-ai-8660,Slovenia,8
+1230,analysis-and-prediction-of-patterns-in-the-utilization-of-emergency-services-and-medical-services-1988,Portugal,2
+1231,green-ai-hub-mid-tier-6941,Germany,13
+1232,ai-booster-2458,France,19
+1233,innovation-strategy-for-smart-specialisation-2021-2027-5153,Bulgaria,6
+1234,european-lighthouse-for-secure-and-safe-ai-2338,United Kingdom,3
+1235,synthetic-data-experiment-5315,United Arab Emirates,4
+1236,common-regulatory-capacity-for-ai-8356,United Kingdom,3
+1237,centre-for-the-fourth-industrial-revolution-c4ir-7729,Rwanda,6
+1238,cmu-africa-7805,Rwanda,6
+1239,ai-standards-hub-9110,United Kingdom,3
+1240,information-commissioners-office-investigated-ai-driven-employment-discrimination-6325,United Kingdom,22
+1241,ai-regulation-white-paper-7148,United Kingdom,3
+1242,panhellenic-educational-robotics-competition,Greece,1
+1243,reform-of-higher-education-for-a-green-and-resilient-transition-to-society-50,Slovenia,1
+1244,hpc-lucia,Belgium,18
+1245,flemish-data-strategy,Belgium,4
+1246,pumice,Slovenia,1
+1247,ditedu,Slovakia,1
+1248,"e-farming,-food-and-forestry-project-under-rrf",Slovenia,12
+1249,smart-specialization-technologies-for-agro-ecology-and-forestry-pnrr-in-the-context-of-the-national-forest-strategy-2030,Romania,31
+1250,data-driven-agriculture-course,Portugal,12
+1251,ai-challenge,Hungary,1
+1252,leap,Saudi Arabia,7
+1253,university-of-zagreb-university-computing-centre-srce-ict-education-programme,Croatia,1
+1254,pilot-demonstration-projects,Slovenia,13
+1255,randd-projects-for-ict-and-specific-economic-purposes,Slovenia,6
+1256,ai-research-institute-icia,Romania,7
+1257,iciinnolab,Romania,7
+1258,research-in-areas-of-strategic-interest,Romania,7
+1259,institute-for-ai-mihai-draganescu,Romania,7
+1260,national-test-beds-network,Portugal,11
+1261,attract-digital-innovation-hub,Portugal,11
+1262,"measures-for-training-civil-servants-in-ict-and-emerging-technologies,-including-ai",Romania,0
+1263,collaboration-for-ai-in-municipalities-and-civil-society,Sweden,0
+1264,reassure,Belgium,13
+1265,sustainbrussels,Belgium,11
+1266,slovakia-strategic-transport-development-plan-of-the-slovak-republic-until-2030,Slovenia,15
+1267,central-government-guidelines-on-cloud-policies,Finland,23
+1268,finnish-ai-region-fair-european-digital-innovation-hub-edih,Finland,11
+1269,route-25-project,Portugal,15
+1270,digital-compassdata-policy,Finland,4
+1271,dublin-city-councils-smart-dublin-initiative-project-on-mapping-city-assets-from-street-level-imagery,Ireland,15
+1272,smart-data-sciences-market-consultation,Belgium,4
+1273,technology-incubation-project,Czechia,14
+1274,urban-data-space,Bulgaria,4
+1275,ai-in-spanish,Spain,20
+1276,wizards-teachers-lead-tech,Lithuania,1
+1277,national-strategy-for-quantum-technology,Denmark,32
+1278,data-strategy-for-local-governments,Denmark,4
+1279,mobility-innovation-hub,Czechia,15
+1280,danish-data-portal,Denmark,4
+1281,digital-transformation-of-education-edtech,Lithuania,1
+1282,research-ireland-research-infrastructure-programme-awards,Ireland,24
+1283,programme-for-modern-enterprises,Hungary,29
+1284,ai-european-digital-innovation-hub-edih-hungary,Hungary,11
+1285,"call-for-projects-between-france-and-germany-on-artificial-intelligence-technologies-for-risk-prevention,-crisis-management,-and-resilience",Germany,13
+1286,"contrails-project-call-for-projects-between-france-and-germany-on-artificial-intelligence-technologies-for-risk-prevention,-crisis-management,-and-resilience",Germany,13
+1287,athens-center-for-entrepreneurship-and-innovation-acein,Greece,14
+1288,support-semiconductor-ecosystem,France,24
+1289,,Slovakia,2
+1290,national-genomic-data-infrastructure-gdi-node-and-1-million-genome-project,Romania,2
+1291,d4health-tirol,Austria,2
+1292,transitional-study-support,Sweden,1
+1293,digital-transformation-of-smes-initiative,Greece,29
+1294,acceleration-strategy-dedicated-to-the-agritech-industry,France,12
+1295,finnish-bioeconomy-strategy,Finland,6
+1296,cloud-computing-platform-vrancic,Croatia,10
+1297,agrohubbg,Bulgaria,12
+1298,regionallocal-ai-networks,France,1
+1299,supek-supercomputer,Croatia,10
+1300,testing-and-experimentation-facilities,France,11
+1301,transitional-study-support-1,Sweden,1
+1302,ehealth-strategy,Slovenia,2
+1303,law-as-code,Austria,0
+1304,genomic-data-infrastructure-gdi,Ireland,2
+1305,upgrading-of-the-national-network-of-infrastructures-for-research-and-technology-grnet,Greece,10
+1306,supporting-the-digital-transformation-of-healthcare-cofog-code-074-recovery-and-resilience-fund-plan,Hungary,2
+1307,pilot-projects-to-enhance-energy-efficiency-and-the-enhancement-of-the-use-of-renewables-in-the-economy,Slovenia,13
+1308,new-energy,Poland,13
+1309,luxembourg-national-data-service-lnds,Luxembourg,4
+1310,integration-of-state-information-resources-into-the-state-data-lake,Lithuania,4
+1311,development-of-a-data-management-model,Lithuania,4
+1312,"smart-cities-projects-in-kozani,-trikala,-ioannina,-kalamata,-thessaloniki-and-athens",Greece,13
+1313,open-data-action-plan,Latvia,4
+1314,ehealth-strategy-for-a-healthier-society,Slovenia,2
+1315,memorandum-of-understanding,Latvia,26
+1316,national-strategy-for-advanced-computing,Portugal,10
+1317,perte-chip-semiconductor-ecosystem,Spain,24
+1318,dro-next,Slovenia,23
+1319,robust,Netherlands,3
+1320,european-digital-innovation-hubs-1,Latvia,11
+1321,next-generation-energy-systems-nexsys,Ireland,13
+1322,plan-for-new-technology-and-automation-of-the-public-sector,Denmark,0
+1323,ai-and-gaming-jurk-edih,Croatia,11
+1324,start-up-ecosystem-support,Bulgaria,14
+1325,radiobotics-rbfracture,Denmark,2
+1326,"institute-for-computer-science,-artificial-intelligence-and-technology-insait",Bulgaria,7
+1327,quantum-computing-research-and-development-programme,Italy,32
+1328,healthhub,Finland,11
+1329,data-centres,Italy,23
+1330,national-strategic-hub,Italy,23
+1331,european-health-data-space-for-secondary-use-cy-cy-ehds-2nd,Cyprus,2
+1332,digital-wallonia-strategy-on-digital-administration,Belgium,15
+1333,european-digital-innovation-hub-edih-brussels,Belgium,11
+1334,digitalis,Belgium,11
+1335,flanders-ai-edih,Belgium,11
+1336,ai-fund,Belgium,7
+1337,deployment-of-the-government-cloud-infrastructure,Romania,23
+1338,competitive-call-for-projects-for-digitalisation-of-higher-education,Romania,1
+1339,a-national-health-systems-strategy-for-malta-2023-2030,Malta,2
+1340,national-health-strategy-2030,Bulgaria,2
+1341,cloud-development-and-migration,Romania,23
+1342,establishing-a-pro-innovation-approach-to-regulating-ai,United Kingdom,3
+1343,public-services-recommendation,Brazil,0
+1344,prediction-of-daily-inflows-in-the-reservoirs-at-the-drina-river-basin-based-on-artificial-intelligence-drinaai,Serbia,13
+1346,ulysses-smart-analysis-on-e-polls,Brazil,0
+1347,khmer-ekyc-ocr-api-—-ai-powered-identity-document-recognition-for-cambodian-citizens,Cambodia,0
+1348,ai-in-production-network,Germany,11
+1349,cambodia-digital-government-policy-2022-2035,Cambodia,17
+1350,sub-decree-81-on-the-organization-and-functioning-of-digital-government-committee-dgc,Cambodia,17
+1351,nolai,Netherlands,1
+1352,digital-decade-policy-programme-2030,European Union,26
+1353,prochile-ai-and-digital-services-export-promotion-line,Chile,19
+1354,national-integrated-cyber-infrastructure-system-nicis,South Africa,10
+1355,interpretative-circular-on-consumer-protection-against-the-use-of-artificial-intelligence-systems,Chile,3
+1356,lanta-supercomputer,Thailand,18
+1357,competencies-in-advanced-technologies-for-smes,Romania,29
+1358,introduction-to-machine-learning,Romania,1
+1359,programme-for-the-development-of-digital-competencies,Poland,1
+1360,ap-digital,Portugal,0
+1361,vitrinegov-brazils-public-sector-innovation-platform,Brazil,0
+1362,ai4iaeu-artificial-intelligence-for-better-regulation-in-the-eu,Portugal,0
+1364,community-innovation-laboratories,Costa Rica,1
+1365,law-no-9943-creation-of-the-national-digital-government-agency-7293,Costa Rica,17
+1366,nsw-ai-advisory-committee-2330,Australia,3
+1367,ai-center-6766,Argentina,7
+1368,hpc-support-to-nlp-bigscience-workshop-7840,France,20
+1369,ai-policy-forum-6618,Austria,8
+1370,mechanism-for-the-implementation-of-principles-and-international-standards-in-ai-8543,Colombia,3
+1371,national-bioethics-and-techno-ethics-committee-substitue-of-national-bioethics-committee-4862,Greece,34
+1372,ai-data-and-robotics-partnership-in-horizon-europe-4863,European Union,5
+1373,serving-confidence-in-ai-by-deal-9210,European Union,5
+1374,ai-expert-mission-4724,Colombia,8
+1375,colombian-supercomputing-network-9962,Colombia,10
+1376,european-public-procurement-data-strategy-5534,European Union,0
+1377,guidelines-for-the-implementation-of-data-trust-and-data-commons-models-6266,Colombia,4
+1378,brazilian-ai-strategy-2027,Brazil,5
+1379,ai-solutions-to-build-a-stronger-australia-2440,Australia,5
+1380,catalysing-the-ai-opportunity-in-our-regions-1719,Australia,5
+1381,ai-and-digital-capability-centres-1882,Australia,19
+1382,meity-quantum-computing-applications-lab-1382,India,32
+1383,new-experience-studio-at-niti-aayog-cloud-innovation-center-8470,India,11
+1384,centre-of-excellence-in-artificial-intelligence-and-innovation-driven-entrepreneurship-6739,India,7
+1385,centre-of-excellence-for-jewelry-ai-and-data-science-excellence-3959,India,7
+1386,centre-of-excellence-for-ai-and-emerging-technologies-1652,India,7
+1387,quad-principles-on-technology-design-development-governance-and-use-9004,Australia,6
+1388,national-ai-centre-8546,Australia,7
+1389,governance-committee-of-the-brazilian-ai-strategy-9235,Brazil,8
+1390,hellenic-national-bioethics-commission-6102,Greece,34
+1391,leam-large-european-ai-models-7107,Germany,5
+1392,ai-startup-hubs-1873,Germany,14
+1393,german-accelerator-5034,Germany,19
+1394,network-ai-in-employment-and-social-protection-services-5893,Germany,0
+1395,act-amending-the-road-traffic-act-and-the-compulsory-insurance-act-autonomous-driving-act-8370,Germany,21
+1396,ai-graduate-and-undergraduate-courses-9352,Portugal,1
+1397,next-generation-ai-graduates-program-7774,Australia,1
+1398,data-governance-and-open-data-competence-centre-4297,Estonia,4
+1399,ai-governance-in-japan-11-6288,Japan,5
+1400,practical-guidebook-on-providing-data-for-employee-development-in-ai-and-data-science-6435,Japan,16
+1401,national-phd-in-ai-4672,Italy,30
+1402,investment-in-localized-nlp-infrastructure-8644,Israel,20
+1403,government-resolution-no-212-promoting-innovation-high-tech-sector-and-technological-leadership-9340,Israel,6
+1404,project-nimbus-national-cloud-infrastructure-3871,Israel,23
+1405,establishing-local-ai-hpc-compute-infrastrcuture-8261,Israel,18
+1406,enterprise-digital-advisory-board-2580,Ireland,19
+1407,irish-national-ai-strategy-2021-3158,Ireland,5
+1408,regional-innovation-plan-8932,Belgium,6
+1409,estonias-digital-agenda-2030-6108,Estonia,4
+1410,ai-governance-testing-framework-minimum-viable-product-mvp-6472,Singapore,3
+1411,law-on-the-disclosure-of-data-ethics-policy-1665,Denmark,16
+1412,smart-job-retraining-7269,Chile,1
+1413,national-ai-research-center-8500,Chile,9
+1414,dutch-digitalisation-strategy-2021-2991,Netherlands,26
+1415,non-discrimination-by-design-2969,Netherlands,22
+1416,approach-document-for-india-part-2-operationalizing-principles-for-responsible-ai-7138,India,3
+1417,approach-document-for-india-part-1-principles-for-responsible-ai-1454,India,3
+1418,national-ai-initiative-office-6818,United States,9
+1419,us-eu-trade-and-technology-council-2612,United States,5
+1420,national-ai-strategy-3274,Peru,5
+1421,report-no-22-20202021-to-the-storting-data-as-a-resource-the-data-driven-economy-and-innovation-8465,Norway,4
+1422,strategy-for-the-digital-transformation-of-public-administration-8463,Portugal,17
+1423,norwegian-participation-in-horizon-europe-7317,Norway,6
+1424,norwegian-participation-in-digital-europe-programme-3724,Norway,6
+1425,governance-innovation-ver-2-a-guide-to-designing-and-implementing-agile-governance-3996,Japan,22
+1426,computational-data-analysis-exception-of-the-copyright-act-2021-1740,Singapore,25
+1427,ai-in-healthcare-guidelines-6651,Singapore,2
+1428,mso-oneservice-chatbot-4641,Singapore,0
+1429,non-formal-ai-coordination-network-7305,Latvia,9
+1430,digital-transformation-guidelines-5065,Latvia,26
+1431,ai-governance-guidelines-for-implementation-of-ai-principles-ver-11-4153,Japan,3
+1432,guidebook-on-introducing-ai-to-smes-8566,Japan,19
+1433,quad-principles-on-technology-design-development-governance-and-use-4265,Japan,6
+1434,national-center-for-innovation-and-artificial-intelligence-7427,Peru,9
+1435,ethical-norms-for-new-generation-ai-6455,China (People’s Republic of),3
+1436,white-paper-on-trustworthy-ai-5523,China (People’s Republic of),3
+1437,trustworthy-facial-recognition-applications-and-protections-plan-5044,China (People’s Republic of),9
+1438,guiding-opinions-on-strengthening-overall-governance-of-internet-information-service-algorithms-9876,China (People’s Republic of),22
+1439,guiding-opinions-on-strengthening-ethical-governance-of-science-and-technology-3825,China (People’s Republic of),34
+1440,armenia-digital-agenda-2030-5332,Armenia,17
+1441,plans-for-regional-diffusion-of-ai-2907,Korea,8
+1442,implementation-strategy-for-trustworthy-ai-1266,Korea,3
+1443,strategy-for-developing-an-ai-ecosystem-8061,Morocco,9
+1444,national-ai-research-resource-task-force-9805,United States,9
+1445,nsf-program-on-fairness-in-ai-4480,United States,22
+1446,quad-principles-on-technology-design-development-governance-and-use-4070,United States,6
+1447,national-defense-authorization-act-for-fiscal-year-2021-2186,United States,9
+1448,request-for-information-and-comment-on-financial-institutions-use-of-ai-including-ml-4170,United States,3
+1449,nitrd-naiio-supplement-to-the-presidents-fy2022-budget-7829,United States,9
+1450,artificial-intelligence-and-algorithmic-fairness-initiative-9507,United States,22
+1451,ai-training-for-the-acquisition-workforce-act-bill-s-2551-6441,United States,9
+1452,federal-trade-commission-consumer-protection-and-competition-investigations-bias-in-algorithms-and-biometrics-9717,United States,22
+1453,aiml-based-software-as-a-medical-device-action-plan-7827,United States,2
+1454,intellectual-property-policy-for-ai-4703,Tunisia,25
+1455,human-centred-artificial-intelligence-for-human-resources-a-toolkit-for-human-resources-professionals-7672,Türkiye,0
+1456,action-plan-on-human-rights-3464,Türkiye,22
+1457,national-ai-strategy-6021,Türkiye,8
+1458,personal-data-protection-law-5883,Saudi Arabia,16
+1459,public-procurement-for-innovation-2940,Tunisia,6
+1460,tunisia-ai-roadmap-1825,Tunisia,5
+1461,autonomous-driving-standards-8966,China (People’s Republic of),21
+1462,ethics-guidelines-for-ai-4742,Thailand,3
+1463,ai-governance-guideline-for-executives-8517,Thailand,3
+1464,swiss-supercomputer-7420,Switzerland,10
+1465,interministerial-working-group-for-ai-regulation-9621,Slovenia,8
+1466,slovenian-ai-observatory-1366,Slovenia,5
+1467,national-ai-programme-of-slovenia-3004,Slovenia,5
+1468,resolution-about-measures-for-creation-of-conditions-for-the-accelerated-implementation-of-technologies-of-ai-9117,Uzbekistan,8
+1469,research-institute-for-the-development-of-digital-technologies-and-ai-2885,Uzbekistan,7
+1470,taxonomy-of-driving-automation-for-vehicles-2726,China (People’s Republic of),21
+1471,scotlands-national-ai-strategy-formal-consultations-8182,United Kingdom,5
+1472,algorithmic-transparency-recording-standard-2373,United Kingdom,22
+1473,hartree-national-centre-for-digital-innovation-4197,United Kingdom,11
+1474,national-strategy-on-rd-and-application-of-ai-9280,Viet Nam,5
+1475,atos-graphcore-partnership-in-advanced-ai-hpc-solutions-9654,United Kingdom,18
+1476,national-plan-for-digital-skills-9773,Spain,1
+1477,ai-council-ai-roadmap-8094,United Kingdom,9
+1478,strategy-for-science-technology-and-innovation-5806,Spain,6
+1479,royal-decree-law-92021-5433,Spain,22
+1480,unique-scientific-technical-infrastructures-4396,Spain,10
+1481,easy-export-platform-centre-of-excellence-of-data-analytics-8490,Türkiye,13
+1482,recovery-transformation-and-resilience-plan-2678,Spain,17
+1483,digital-rights-charter-4059,Spain,17
+1484,national-ai-strategy-5813,United Kingdom,5
+1485,plan-for-the-digitalisation-of-public-administration-3526,Spain,17
+1486,ai-education-and-awareness-project-1916,Türkiye,1
+1487,national-ai-platform-5698,Serbia,7
+1488,eurohpc-ju-marenostrum5-supercomputer-6123,Türkiye,10
+1489,pioneer-centre-for-artificial-intelligence-9741,Denmark,7
+1490,"start-in-poland,-edition-ii-acceleration-programs",Poland,14
+1491,language-strategic-project-for-the-economic-recovery-and-transformation-1709,Spain,20
+1492,justice-govtech-strategy-8524,Portugal,27
+1493,malta-digital-innovation-authoritys-technology-assurance-sandbox-8999,Malta,28
+1494,the-pathfinder-mdia-digital-scholarship-9248,Malta,1
+1495,mdia-applied-research-grant-5487,Malta,6
+1496,meluxina-supercomputer-5287,Luxembourg,10
+1497,cloud-strategy-infrastructures-for-the-data-and-ai-economy-4104,France,33
+1498,centre-of-excellence-in-the-areas-of-digitalisation-and-ai-1282,Rwanda,7
+1499,national-program-for-artificial-intelligence-4541,Israel,8
+1500,aigov-website-9707,Colombia,8
+1501,strategic-plan-for-knowledge-transfer-in-ai-5410,Colombia,7
+1502,dashboard-for-the-implementation-of-ai-ethical-principles-9260,Colombia,8
+1503,standards-for-the-implementation-of-inclusive-ai-systems-5422,Colombia,5
+1504,draft-federal-data-protection-law-2612,United Arab Emirates,16
+1505,national-ai-policy-stakeholder-workshops-2538,Rwanda,3
+1506,data-protection-law-6692,Rwanda,16
+1507,ai-ecosystem-survey-summary-report-informing-the-national-ai-strategy-2639,United Kingdom,9
+1508,national-competition-for-ai,Austria,1
+1509,laboria,France,1
+1510,call-for-expressions-of-interest-for-skills-and-professions-of-the-future,France,1
+1511,re-and-up-skilling-initiatives,Finland,1
+1512,adult-education-act-implementation-programme,Croatia,1
+1513,nrrp-labour-market-and-social-protection-component,Croatia,1
+1514,operation-new-skills,Bulgaria,1
+1515,gates-internship-programme,Bulgaria,30
+1516,ai-programmer-vocational-education,Bulgaria,1
+1517,women-in-digital,Belgium,1
+1518,priority-1-of-the-eu-funds-for-smart-economy-2021-2027,Poland,6
+1519,edge-learning-lab-of-ai-sweden,Sweden,36
+1520,initiatives-to-help-smes-adopt-digital-or-novel-technologies-including-ai,Spain,29
+1521,high-tech-equity-financing-programme,Slovenia,14
+1522,p4d-grants-for-digital-transformation,Slovenia,29
+1523,digital-transformation-incentives-programme-of-the-slovene-enterprise-fund,Slovenia,29
+1524,aid-scheme-for-the-digitalisation-of-sme,Romania,29
+1525,european-digital-innovation-hubs-edihs,Romania,11
+1526,national-digital-innovation-hubs-dihs-network,Portugal,11
+1527,european-digital-innovation-hubs,Poland,11
+1528,innoair,Bulgaria,15
+1529,innocities,Finland,6
+1530,digitisation-of-railway-and-road-infrastructure-digitisation-of-road-traffic,Slovenia,15
+1531,advanced-digital-skills-training-program-for-civil-servants,Romania,0
+1532,planapp-project,Portugal,0
+1533,national-strategy-for-research-data-management,Denmark,4
+1534,solidlab-flanders,Belgium,4
+1535,autonomous-mobility-projects-prissma-project-research-and-investment-platform-for-the-safety-and-security-of-autonomous-mobility,France,15
+1536,future-mobility-finland,Finland,15
+1537,ai-applications-in-mobility-and-logistics,Germany,15
+1538,konrad-zuse-schools-of-excellence-in-ai,Germany,30
+1539,quantum-austria,Austria,32
+1540,national-it-academy-project-on-the-creation-of-study-materials-for-new-and-innovative-subjects-in-the-field-of-artificial-intelligence,Slovakia,1
+1541,agraria-ai-applied-to-the-value-chain-​​of-agricultural-production-2050,Spain,12
+1542,area-monitoring-system-ams,Slovenia,12
+1543,action-plan-for-the-sustainable-bioeconomy,Portugal,13
+1544,compete-2030-program,Portugal,12
+1545,satellite-crop-monitoring-system,Poland,12
+1546,skillnet-ireland,Ireland,1
+1547,ai-in-schools-various-initiatives,Ireland,1
+1548,ai-and-data-accelerator-in-the-field-of-food-and-agriculture,Germany,12
+1549,various-projects-on-decryption-of-logging-sites,Lithuania,31
+1550,high-and-highest-performance-computing-for-the-digital-age,Germany,10
+1551,smart-and-social-home-care,Belgium,2
+1552,microelectronics-trustworthy-and-sustainable-for-germany-und-europe,Germany,24
+1553,p-net-competence-center,Greece,7
+1554,projects-under-food-vision-2030,Ireland,12
+1555,archimedes-unit-at-the-athena-research-center,Greece,7
+1556,national-high-performance-computing-at-universities,Germany,18
+1557,methodological-guidelines-for-cloud-services,Slovakia,23
+1558,satgrass,Austria,12
+1559,intelligent-digital-economy-algorithms-ideas-ncbr,Poland,7
+1560,national-concept-of-public-administration-informatization-nkivs,Slovakia,23
+1561,eu4health-program-2021-2027,Romania,2
+1562,xplain-ai,Austria,2
+1563,cultural-ai-lab,Netherlands,3
+1564,interministerial-framework-for-data-administration,France,4
+1565,application-hub-for-a-circular-economy-for-plastic-packaging-through-ai-methods,Germany,13
+1566,ai4t,Luxembourg,1
+1567,ai-programmes-in-business-finlands-digital-native-finland-mission,Finland,19
+1568,data-an-underutilized-resource-for-sweden,Sweden,4
+1569,high-performance-computer,Malta,10
+1570,a-campaign-promoting-the-use-of-health-data,Hungary,2
+1571,the-hellenic-digital-health-cluster-hdhc-veles-excellence-hub,Greece,2
+1572,neic-heilsa,Sweden,2
+1573,sunet-data-center-dc-orion-in-kalix-eosc-data-storage,Sweden,23
+1574,impact,Spain,2
+1575,making-repositories-and-ai-systems-usable-in-everyday-nursing-care,Germany,2
+1576,advanced-digitalisation-future-solutions-in-swedish-industry,Sweden,11
+1577,secure-and-cost-effective-it-operations,Sweden,23
+1578,i-nergy,Latvia,13
+1579,ai-based-assistance-systems-for-in-process-healthcare-applications,Germany,2
+1580,data-dissemination-and-management-platform-dagr,Latvia,4
+1581,parisante-campus,France,2
+1582,ai-priority-research-program-and-equipment-pepr,France,7
+1583,important-project-of-common-european-interest-next-generation-cloud-infrastructure-and-services-ipcei-cis,Germany,33
+1584,"member-of-ipcei-microelectronics,-ipcei-cloud-data,-and-ipcei-health",Latvia,24
+1585,ained,Netherlands,7
+1586,ained-ai-for-energy-and-sustainability,Netherlands,13
+1587,irish-centre-for-high-end-computing-ichec,Ireland,32
+1588,digital-academy-for-citizens,Greece,1
+1589,innoviris,Belgium,7
+1590,fari-institute,Belgium,7
+1591,france-2030-digital-health-acceleration-strategy,France,2
+1592,ipcei-cloud,Italy,33
+1593,development-of-ai-solutions-for-patient-triage,Croatia,2
+1594,c23-r3-i4-consolidation-of-the-cezih-health-information-infrastructure-system-central-health-information-system-of-the-republic-of-croatia,Croatia,2
+1595,eurohpc-ju-1,Romania,18
+1596,education-and-employment-programme,Romania,1
+1597,ai-triage-for-general-practitioners,Netherlands,2
+1598,international-patient-summary-ips-and-eprescriptionedispensation-services-through-myhealtheu,Portugal,2
+1599,national-strategy-for-smes-2021-2027,Bulgaria,26
+1600,national-roadmap-for-research-infrastructure-2021-2027,Bulgaria,10
+1601,centre-for-artificial-intelligence-in-public-health-research-zki-ph,Germany,2
+1602,polish-cloud-support-fund,Poland,33
+1603,data-opening-programme,Poland,4
+1604,ipcei-cloud-infrastructure-and-services-cis,Netherlands,33
+1605,gaia-x-hub-netherlands,Netherlands,33
+1606,national-artificial-intelligence-phd-programme,Italy,30
+1607,master-in-artificial-intelligence-for-industry-40,Malta,1
+1608,pilots-for-the-impact-assessment-human-rights-and-algorithms,Netherlands,22
+1609,cambodia-digital-economy-and-society-policy-framework-2021-2035,Cambodia,26
+1610,"personal-data-protection-act-pdpa,-section-26-transfer-limitation-obligation-and-personal-data-protection-regulations-2021",Singapore,16
+1611,ai-for-thai-thai-ai-service-platform,Thailand,20
+1612,national-programme-on-artificial-intelligence,Slovenia,8
+1613,national-artificial-intelligence-roadmap-ai‑rmap,Malaysia,9
+1614,ai4youth,Poland,1
+1615,ina-training-programs,Portugal,0
+1616,ai-centre-lipik,Croatia,14
+1617,datalabs,Germany,0
+1618,academy-of-innovative-applications-of-digital-technologies-ai-tech,Poland,1
+1619,cloud-strategy,Italy,23
+1620,ai-virtual-assistantchatbot-network,Latvia,0
+1621,edih-adria,Croatia,11
+1622,investeu-guarantee-programme,Bulgaria,29
+1623,competitiveness-and-innovation-in-enterprises-programme,Bulgaria,11
+1624,rait-radiological-ai-test-center,Denmark,2
+1625,danish-centre-for-clinical-artificial-intelligence-cai-x,Denmark,2
+1626,shared-government-data-centre,Ireland,23
+1628,060-webchat-ai‑based-citizen-assistance-service,Spain,0
+1629,ethical-principles-for-promoting-national-artificial-intelligence-projects-of-nia,Korea,3
+1630,detecting-tax-evasion-using-artificial-intelligence,Serbia,27
+1631,dx-investment-promotion-tax-incentive,Japan,35
+1632,nhr-alliance-national-high-performance-computing,Germany,10
+1633,white-paper-on-artificial-intelligence-6844,European Union,3
+1634,govtech-ecosystem-for-ai-implementation-2419,Colombia,8
+1635,digital-education-action-plan-5132,European Union,1
+1636,4ir-technologies-for-agriculture-in-progress-6385,Colombia,12
+1637,funding-and-grants-for-ai-research-5706,Colombia,6
+1638,data-sandbox-platform-5093,Colombia,4
+1639,ethical-framework-for-artificial-intelligence-in-colombia-7590,Colombia,3
+1640,forecasting-the-impact-of-automation-and-the-technologies-of-the-fourth-industrial-revolution-4ri-8519,Colombia,8
+1641,data-marketplace-and-data-infrastructure-moonshot-2188,Colombia,4
+1642,building-a-regulatory-ecosystem-for-ai-2734,Colombia,3
+1643,co-ordination-bodies-for-ai-policy-implementation-5744,Colombia,26
+1644,ai-covid-19-response-1257,Colombia,2
+1645,closing-the-digital-gender-gap-womens-participation-in-the-digital-economy-3549,European Union,26
+1646,ai-40-6401,Finland,5
+1647,finland-ai-enforcement-and-case-law-in-employment-2557,Finland,22
+1648,ai-register-2737,Finland,0
+1649,special-committee-on-artificial-intelligence-in-the-digital-age-aida-8970,European Union,9
+1650,financing-of-artificial-intelligence-and-blockchain-technologies-8394,European Union,11
+1651,horizon-europe-4608,European Union,6
+1652,framework-of-ethical-aspects-of-artificial-intelligence-robotics-and-related-technologies-3314,European Union,25
+1653,civil-liability-regime-for-artificial-intelligence-8357,European Union,25
+1654,juri-reports-on-making-ai-european-6010,European Union,3
+1655,ai-in-education-culture-and-the-audiovisual-sector-1222,European Union,1
+1656,shaping-digital-education-policy-3564,European Union,1
+1657,the-robustness-and-explainability-of-artificial-intelligence-7986,European Union,3
+1658,big-data-national-observatory-5572,Argentina,4
+1659,ai-task-force-1006,Colombia,8
+1660,european-strategy-for-data-4815,European Union,4
+1661,report-on-safety-and-liability-implications-of-artificial-intelligence-the-internet-of-things-and-robotics-6614,European Union,3
+1662,technological-free-zones-1153,Portugal,15
+1663,financial-support-instruments-9107,Greece,14
+1664,ai-projects-in-greece-5723,Greece,11
+1665,national-programme-for-government-schools-responsible-ai-for-youth-5596,India,1
+1666,brazilian-ai-bill-n-212020-8557,Brazil,28
+1667,ki4kl-3212,Germany,7
+1668,real-world-test-field-for-digital-mobility-8564,Germany,15
+1669,funding-priority-digital-innovations-for-the-improvement-of-patient-centred-care-in-healthcare-7625,Germany,2
+1670,euro-hpc-supercomputer-2356,Portugal,10
+1671,teleworking-the-rules-and-best-practices-to-follow-7779,France,16
+1672,general-law-on-protection-of-personal-data-2868,Brazil,16
+1673,applied-artificial-intelligence-research-centers-6682,Brazil,7
+1674,regulatory-technology-innovation-challenges-7098,Australia,6
+1675,knowledge-economy-initiatives-6096,Argentina,11
+1676,the-ethics-of-ai-as-a-unesco-recommendation-2311,Argentina,3
+1677,business-diagnosis-and-networking-in-40-technologies-7951,Argentina,34
+1678,ai-covid-19-response-5367,Argentina,2
+1679,ai-sandbox-program-of-the-national-data-protection-authority-9367,France,22
+1680,national-laboratory-for-ai-3829,Costa Rica,9
+1681,concept-for-the-development-of-ai-in-bulgaria-until-2030-4622,Bulgaria,5
+1682,ai-use-cases-in-the-public-sector-6852,Chile,0
+1683,digital-economy-partnership-agreement-9554,Chile,26
+1684,data-observatory-9777,Chile,4
+1685,phd-scholarships-for-technological-revolution-and-digital-transformation-7330,Chile,30
+1686,dutch-digitalisation-strategy-2020-8154,Netherlands,26
+1687,knowledge-and-innovation-covenant-8344,Netherlands,6
+1688,indiaai-portal-national-ai-portal-6777,India,7
+1689,national-plan-for-the-development-of-ai-2008,Croatia,8
+1690,quebec-ai-forum-7698,Canada,8
+1691,india-urban-data-exchange-3792,India,4
+1692,data-market-platform-2768,Hungary,4
+1693,space-infrastructure-fund-robotics-automation-and-ai-command-and-control-centre-2980,Australia,7
+1694,ai-regulation-and-ethics-knowledge-centre-7275,Hungary,3
+1695,public-data-portal-6025,Hungary,4
+1696,automated-administrative-procedures-in-hungarian-7447,Hungary,0
+1697,national-laboratory-for-autonomous-vehicles-3757,Hungary,21
+1698,national-data-assets-agency-4664,Hungary,4
+1699,ai-action-plan-5870,Hungary,5
+1700,ai-strategy-recommendations-by-telem-the-national-governmental-forum-for-rd-infrastructure-9199,Israel,4
+1701,guide-to-job-redesign-in-the-age-of-ai-4049,Singapore,3
+1702,latvias-national-ai-strategy-4180,Latvia,5
+1703,kenyas-digital-economy-strategy-1882,Kenya,26
+1704,ml-quality-management-guideline-3100,Japan,3
+1705,guidelines-on-assessment-of-ai-reliability-in-the-field-of-plant-safety-2353,Japan,3
+1706,global-communication-plan-2025-1013,Japan,20
+1707,road-traffic-act-2171,Japan,21
+1708,national-initiative-for-secured-intelligence-systems-9745,Israel,5
+1709,ai-observatory-and-forum-5666,Czechia,3
+1710,ai-use-cases-in-the-public-sector-8081,Estonia,0
+1711,burokratt-government-ai-virtual-assisstant-1627,Estonia,0
+1712,ai-covid-19-response-9278,Estonia,0
+1713,open-source-ai-components-7789,Estonia,20
+1714,personal-data-protection-law-7461,Egypt,16
+1715,applied-innovation-center-8245,Egypt,7
+1716,digital-platform-sprogteknologidk-5627,Denmark,20
+1717,catalogue-of-autonomous-vehicle-testing-areas-on-public-roads-4049,Czechia,21
+1718,chilean-participation-process-on-ai-5203,Chile,5
+1719,guidelines-for-unbiased-algorithms-7870,Lithuania,22
+1720,changes-in-the-health-register-act-8050,Norway,2
+1721,norwegian-resource-centre-for-sharing-data-3490,Norway,4
+1722,national-strategy-for-ai-9591,Norway,5
+1723,artificial-intelligence-in-incentive-verification-8333,Portugal,27
+1724,analysis-of-tourism-information-4844,Portugal,0
+1725,digital-economy-partnership-agreement-new-zealand-singapore-chile-and-south-korea-3891,New Zealand,26
+1726,chartered-ai-engineer-tm-7127,Singapore,1
+1727,portugal-guidelines-on-telework-monitoring-4186,Portugal,16
+1728,ltai-fostering-ai-and-the-creation-of-lithuanian-language-technological-resources-for-ai-5143,Lithuania,5
+1729,implementation-and-self-assessment-guide-for-organisations-3014,Singapore,3
+1730,compendium-of-ai-use-cases-3725,Singapore,0
+1731,guideline-for-the-elaboration-of-privacy-impact-assessments-7662,Mexico,16
+1732,website-for-personal-data-protection-impact-assessments-6281,Mexico,16
+1733,bilateral-ai-collaborations-1427,Singapore,9
+1734,the-digital-skills-for-artificial-intelligence-7420,Malta,1
+1735,maryland-facial-recognition-law-3060,United States,16
+1736,human-centered-national-guidelines-for-ai-ethics-6671,Korea,3
+1737,korean-new-deal-7846,Korea,6
+1738,digital-trust-framework-approved-by-urgent-decree-n-007-2020-4468,Peru,3
+1739,us-patent-and-trademark-office-report-on-public-views-on-ai-and-intellectual-property-policy-2488,United States,25
+1740,nist-principles-for-explainable-ai-8068,United States,0
+1741,government-by-algorithm-ai-in-federal-administrative-agencies-1802,United States,0
+1742,us-ai-covid-19-response-8743,United States,5
+1743,national-ai-initiative-act-of-2020-1421,United States,9
+1744,national-data-catalogue-2478,Norway,4
+1745,illinois-artificial-intelligence-video-interview-act-6874,United States,16
+1746,declaration-of-us-uk-co-operation-in-ai-rd-5236,United States,5
+1747,state-department-guidance-on-products-or-services-with-surveillance-capabilities-7753,United States,16
+1748,executive-order-on-promoting-the-use-of-trustworthy-ai-in-federal-government-1178,United States,0
+1749,national-ai-research-institutes-6098,United States,7
+1750,national-ai-advisory-committees-subcommittee-on-law-enforcement-1228,United States,16
+1751,national-ai-advisory-committee-4548,United States,3
+1752,national-strategy-for-critical-and-emerging-technologies-6842,United States,6
+1753,regulatory-sandbox-on-ai-5037,Norway,28
+1754,ai-in-primary-education-8251,Serbia,1
+1755,humane-ai-net-2377,Türkiye,7
+1756,open-data-project-5676,Türkiye,4
+1757,safe-schooling-and-distance-education-project-4488,Türkiye,1
+1758,national-strategy-for-research-innovation-and-smart-specialisation-2021-2027-8981,Romania,6
+1759,education-information-network-1337,Türkiye,1
+1760,centre-for-fourth-industrial-revolution-türkiye-9004,Türkiye,6
+1761,the-national-guidelines-for-ai-ethics-6636,Korea,3
+1762,guidelines-on-ai-3298,Switzerland,8
+1763,digital-switzerland-strategy-1055,Switzerland,26
+1764,international-research-centre-for-ai-under-the-auspices-of-unesco-3360,Slovenia,9
+1765,digital-uzbekistan-2030-3968,Uzbekistan,8
+1766,national-centre-for-ai-and-robotics-9390,Nigeria,7
+1767,national-ai-strategy-4627,Indonesia,5
+1768,spanish-data-protection-agency-1785,Spain,22
+1769,data-ethics-and-ai-guidance-landscape-6792,United Kingdom,3
+1770,uk-us-declaration-on-co-operation-in-ai-rd-4499,United Kingdom,36
+1771,cambridge-1-6887,United Kingdom,2
+1772,initiative-for-the-start-up-ecosystem-in-vietnam-9216,Viet Nam,14
+1773,strategy-for-the-development-of-ai-in-the-republic-of-serbia-for-the-period-2020-2025-3461,Serbia,7
+1774,guidance-on-ai-and-data-protection-9521,United Kingdom,22
+1775,ram-for-the-development-of-projects-in-the-area-of-ai-3046,Serbia,7
+1776,international-cooperation-korea-serbia-digital-government-cooperation-centre-6005,Serbia,23
+1777,turkish-natural-language-processing-project-2250,Türkiye,20
+1778,national-data-strategy-6020,United Kingdom,4
+1779,ai-master-programmes-6908,Serbia,1
+1780,turkish-brain-project-2031,Türkiye,2
+1781,covid-19-detection-with-ai-2463,Türkiye,2
+1782,breast-cancer-detection-with-ai-4530,Türkiye,2
+1783,türkiye-open-source-platform-6629,Türkiye,6
+1784,national-data-and-ai-strategy-9964,Saudi Arabia,4
+1785,sandbox-on-privacy-by-design-and-default-in-ai-3287,Colombia,22
+1786,lumi-supercomputer-2493,Finland,10
+1787,hpc-supercomputer-7254,Bulgaria,10
+1788,resolution-on-automated-decision-making-processes-9150,European Union,16
+1789,council-conclusions-on-regulatory-sandboxes-6753,European Union,28
+1790,law-for-the-promotion-of-ai-technology-and-entrepreneurship-9101,Colombia,14
+1791,resolution-on-intellectual-property-rights-for-the-development-of-ai-technologies-7212,European Union,25
+1792,cybersecurity-policy-for-ai-deployment-5387,Colombia,8
+1793,resolution-on-ai-questions-of-interpretation-and-application-of-international-law-5609,European Union,16
+1794,lawtech-sandbox-9898,United Kingdom,28
+1795,review-into-bias-in-algorithmic-decision-making-4429,United Kingdom,22
+1796,welsh-language-technology-action-plan-5292,United Kingdom,1
+1797,cdei-snapshot-paper-facial-recognition-technology-7461,United Kingdom,3
+1798,regulatory-framework-for-automated-vehicles-3140,United Kingdom,21
+1799,fast-track,Poland,14
+1800,eurocc-belgium,Belgium,10
+1801,mistra-digital-forest,Sweden,31
+1802,clean-forest-project,Portugal,31
+1803,mei-weed,Luxembourg,12
+1804,solas-skills-to-advance-and-ecollege-ict-development-pathways,Ireland,1
+1805,regeneration-initiative,Greece,1
+1806,digital-pact-for-schools,Germany,1
+1807,prgai-minor,Czechia,1
+1808,rnca-supercomputers-and-cloud-access,Portugal,10
+1809,research-on-ai-technologies-in-agriculture-health-nutrition-food-chain-and-rural-areas-6272,Germany,12
+1810,infostrateg,Poland,5
+1811,artificial-intelligence-and-data-analysis-centre-aida,Poland,0
+1812,rd-programme-on-data-science-and-ai-in-public-administration-9487,Portugal,0
+1813,amsterdams-ai-register-8123,Netherlands,5
+1814,leonardo-supercomputer-1347,Italy,10
+1815,italian-institute-for-ai-7831,Italy,11
+1816,national-ai-laboratory-9609,Hungary,9
+1817,german-mobility-data-space-6419,Germany,4
+1818,automated-and-connected-driving-6258,Germany,21
+1819,european-master-for-high-performance-computing-eumaster4hpc,Luxembourg,10
+1820,oceania-challenge,France,13
+1821,signature-projects,Denmark,13
+1822,weedbot,Latvia,12
+1823,administrative-cloud-strategy-dvs,Germany,23
+1824,t2o2-regulation,Germany,13
+1825,ai-professorships,Germany,30
+1826,ai-for-smes-grants-ki4kmu,Germany,19
+1827,bura-supercomputer,Croatia,10
+1828,national-competence-center-for-hpc-eurocc,Croatia,10
+1829,ethics-commission-for-the-assessment-of-automated-and-autonomous-vehicles,Czechia,21
+1830,climate-change-cockpit,Austria,13
+1831,ai-hub-tampere,Finland,7
+1832,ai-for-traffic-management-pilot-project,Malta,15
+1833,dublin-city-councils-smart-dublin-initiative-project-on-using-ai-enabled-cameras-to-understand-vehicular-flows,Ireland,15
+1834,social-security-chatbot,Portugal,0
+1835,digital-research-centre-denmark-direc,Denmark,11
+1836,bulgarian-portal-for-open-science-bpos,Bulgaria,10
+1837,govcloud,Denmark,23
+1838,silicon-economy-ecosystem,Germany,11
+1839,working-group-on-artificial-intelligence,Poland,7
+1840,unified-state-web-portal-of-digital-education-diiaeducation,Ukraine,1
+1841,centre-for-ai-and-cybersecurity,Croatia,7
+1842,european-digital-innovation-hubs-edihs-5,Bulgaria,11
+1843,ai-cluster-bulgaria,Bulgaria,11
+1844,trail-trusted-ai-labs,Belgium,3
+1845,ai-in-updating-cadastral-data,Latvia,0
+1846,public-sector-innovation-hub,Luxembourg,11
+1847,guidelines-for-the-responsible-use-of-generative-ai,Finland,0
+1848,national-and-european-digital-innovation-hubs,Austria,11
+1849,wingo-deposit,Latvia,13
+1850,national-research-and-innovation-strategy,Luxembourg,5
+1851,greek-national-data-strategy,Greece,4
+1852,flemish-participation-in-eurohpc-infrastructure-projects,Belgium,10
+1853,flemish-ai-academy,Belgium,1
+1854,sunet-drive-collaborative-data-space-for-research-data,Sweden,10
+1855,public-administration-cloud-strategy,Portugal,23
+1856,centre-of-excellence-for-data-sharing-and-cloud-coe-dsc,Netherlands,4
+1857,invest-nl,Netherlands,14
+1858,national-competence-centre-sling,Slovenia,10
+1859,concept-for-the-development-of-artificial-intelligence,Ukraine,8
+1860,ulysses-legislative-demand-router,Brazil,0
+1861,open-innovation-promotion-tax-system,Japan,35
+1862,randd-and-innovation-tax-credit-40,Italy,35
+1863,ai-assist-irap,Canada,19
+1864,skills-bootcamps-ai-and-digital,United Kingdom,1
+1865,randd-tax-allowance,Germany,35
+1866,guidelines-for-ai-procurement,United Kingdom,0
+1867,action-plan-for-the-implementation-of-the-concept-for-the-development-of-artificial-intelligence-in-ukraine-for-2021-2024,Ukraine,0
+1868,open-data-directive-7831,European Union,4
+1869,policy-and-investment-recommendations-for-trustworthy-artificial-intelligence-2153,European Union,3
+1870,advanced-technologies-for-industry-1336,European Union,11
+1871,digital-europe-programme-5086,European Union,24
+1872,european-high-performance-computing-joint-undertaking-eurohpc-ju-5594,European Union,10
+1873,ai-national-plan-6774,Argentina,8
+1874,ai-watch-8613,European Union,5
+1875,common-european-data-space-5837,European Union,4
+1876,science-and-technology-options-assessment-stoa-panel-centre-for-ai-5402,European Union,9
+1877,nstda-supercomputer-5952,Thailand,10
+1878,data-sharing-commons-2136,France,15
+1879,fair-forward-ai-for-all-3535,Germany,4
+1880,funding-initiative-international-future-labs-for-ai-5418,Germany,32
+1881,police-ai-strategy-kipolizei-4153,Germany,0
+1882,artificial-intelligence-for-law-enforcement-and-community-safety-ailecs-lab-1646,Australia,0
+1883,law-on-mobility-orientation-9337,France,15
+1884,addressing-human-rights-concerns-arising-from-facial-recognition-technology-4827,France,3
+1885,ai-challenges-4816,France,9
+1886,trilateral-french-japanese-german-research-projects-on-ai-2212,France,7
+1887,regulation-and-standardisation-of-technology-acquisitions-andor-development-of-management-support-computer-systems-4097,Costa Rica,17
+1888,european-network-for-ai-excellence-centres-3865,European Union,7
+1889,etalab-6582,France,4
+1890,network-of-the-interdisciplinary-institutes-for-ai-7052,France,7
+1891,labour-ai-centre-of-expertise-of-the-global-partnership-on-ai-7354,France,8
+1892,health-data-hub-4943,France,2
+1893,finlands-fit-for-digital-program-fifi4digi-1032,Finland,11
+1894,aurora-ai-6862,Finland,8
+1895,leading-the-way-into-the-age-of-ai-3314,Finland,5
+1896,ai4eu-consortium-4759,European Union,7
+1897,manufacturing-modernisation-fund-3409,Australia,14
+1898,campaigns-and-projects-for-the-dissemination-of-knowledge-5639,Belgium,19
+1899,action-plan-ai-7865,Belgium,5
+1900,knowledge-centre-for-data-and-society-3649,Belgium,11
+1901,ai-4-belgium-3862,Belgium,5
+1902,australian-identity-matching-services-bill-8428,Australia,21
+1903,standards-australia-ai-roadmap-3157,Australia,5
+1904,ai-phd-scholarships-9370,Australia,30
+1905,national-internet-of-things-plan-decree-n-9854-3271,Brazil,6
+1906,ai-centre-of-excellence-2858,Greece,9
+1907,human-rights-and-technology-discussion-paper-2584,Australia,3
+1908,public-consultation-for-the-brazilian-ai-strategy-8535,Brazil,8
+1909,applied-technology-centres-for-urban-efficiency-7531,Brazil,15
+1910,funding-initiative-in-the-field-of-ai-6977,Germany,30
+1911,special-program-autonomous-performing-arts-and-ai-4552,Germany,30
+1912,trilateral-french-japanese-german-research-projects-on-ai-2910,Germany,7
+1913,reality-lab-for-ai-in-civil-protection-3446,Germany,0
+1914,biological-data-storage-access-and-sharing-policy-of-india-6335,India,2
+1915,innovation-strategy-of-the-czech-republic-6565,Czechia,6
+1916,digital-talent-8623,Chile,1
+1917,ai-national-policy-1883,Chile,8
+1918,strategic-action-plan-for-ai-1177,Netherlands,9
+1919,national-guidelines-for-gene-therapy-product-development-and-clinical-trials-3702,India,2
+1920,experimental-law-on-self-driving-vehicles-7369,Netherlands,21
+1921,ai-coalition-of-the-netherlands-3341,Netherlands,5
+1922,egypt-national-ai-strategy-5294,Egypt,5
+1923,framework-on-ethical-guidelines-4869,Belgium,34
+1924,national-ai-strategy-key-action-for-promoting-the-integration-and-development-of-ai-in-cyprus-8347,Cyprus,9
+1925,national-artificial-intelligence-resource-portal-9807,India,9
+1926,canadas-directive-on-automated-decision-making-2736,Canada,0
+1927,ai-source-list-9122,Canada,0
+1928,canadas-digital-charter-9763,Canada,26
+1929,algorithmic-impact-assessment-3711,Canada,0
+1930,canada-us-innovation-partnership-6909,Canada,34
+1931,national-research-council-of-canadas-ai-for-design-and-scientific-discovery-challenge-program-9856,Canada,34
+1932,advisory-council-on-ai-9958,Canada,5
+1933,declaration-on-ai-in-the-nordic-baltic-region-1590,Estonia,5
+1934,governance-innovation-redesigning-law-and-architecture-for-society-50-5444,Japan,17
+1935,social-principles-of-human-centric-ai-4064,Japan,3
+1936,contract-guidelines-on-utilizing-ai-and-data-version-11-8333,Japan,3
+1937,trilateral-french-japanese-german-research-projects-on-artificial-intelligence-1023,Japan,7
+1938,ai-japan-rd-network-6662,Japan,7
+1939,ai-strategy-of-japan-7714,Japan,5
+1940,support-program-for-emerging-technologies-based-on-5g-9830,Italy,11
+1941,future-jobs-ireland-5611,Ireland,6
+1942,data-sharing-and-governance-act-2906,Ireland,4
+1943,danish-data-ethics-council-1048,Denmark,3
+1944,estonian-open-data-portal-2937,Estonia,4
+1945,ai-task-force-report-2075,Estonia,8
+1946,research-integrity-working-group-6238,Estonia,34
+1947,estonias-ai-task-force-2988,Estonia,5
+1948,national-ai-strategy-10-9801,Estonia,5
+1949,national-council-for-ai-7553,Egypt,5
+1950,african-working-group-on-ai-5730,Egypt,5
+1951,arab-ai-working-group-6814,Egypt,5
+1952,national-ai-strategy-10-3320,Singapore,8
+1953,national-ecosystem-of-open-innovation-7768,Mexico,6
+1954,taxpayer-characterization-model-taxpayers-perspective-8393,Portugal,27
+1955,action-plan-for-digital-transformation-of-slovakia-5360,Slovakia,26
+1956,data-ethics-advisory-group-8186,New Zealand,3
+1957,self-service-dashboard-for-city-councils-6110,Portugal,0
+1958,accelerated-initiative-for-artificial-intelligence-6038,Singapore,9
+1959,model-ai-governance-framework-1337,Singapore,3
+1960,lithuanian-artificial-intelligence-strategy-a-vision-of-the-future-3808,Lithuania,5
+1961,general-recommendations-for-data-processing-in-ai-of-the-ibero-american-data-protection-network-3940,Mexico,22
+1962,specific-guidelines-for-compliance-with-the-principles-and-rights-that-govern-the-protection-of-personal-data-in-artificial-intelligence-projects-9422,Mexico,22
+1963,ai-utilisation-guidelines-9214,Japan,3
+1964,towards-trustworthy-ai-maltas-ethical-ai-framework-2019-7486,Malta,3
+1965,ai-certification-programme-5194,Malta,3
+1966,national-ai-programme-in-health-2624,Singapore,2
+1967,the-ultimate-ai-launchpad-a-strategy-and-vision-for-artificial-intelligence-in-malta-2030-2591,Malta,8
+1968,information-report-on-the-development-of-artificial-intelligence-solutions-project-1247,Latvia,8
+1969,declaration-on-ai-in-the-nordic-baltic-region-4815,Latvia,5
+1970,kenyas-digital-economy-blueprint-1532,Kenya,26
+1971,emerging-digital-technologies-for-kenya-exploration-and-analysis-4189,Kenya,11
+1972,federal-data-strategy-2044,United States,4
+1973,defense-innovation-board-ai-principles-6289,United States,9
+1974,request-for-information-for-identifying-priority-access-or-quality-improvements-for-federal-data-and-models-for-ai-rd-and-testing-4535,United States,9
+1975,local-state-and-federal-regulations-on-facial-recognition-technologies-6608,United States,5
+1976,executive-order-on-maintaining-american-leadership-in-ai-6143,United States,9
+1977,rd-workforce-training-6816,United States,1
+1978,addition-of-software-specially-designed-to-automate-the-analysis-of-geospatial-imagery-to-the-export-control-classification-number-0y521-series-2805,United States,13
+1979,strategy-for-augmenting-intelligence-using-machines-2289,United States,9
+1980,department-of-energy-ai-and-technology-office-4212,United States,9
+1981,american-workforce-policy-advisory-board-4323,United States,1
+1982,ai-and-privacy-report-4673,Norway,22
+1983,ai-portugal-2030-national-strategy-for-ai-1250,Portugal,5
+1984,data-factory-7576,Sweden,4
+1985,algorithm-charter-for-aotearoa-new-zealand-2305,New Zealand,0
+1986,mid-to-long-term-government-rd-investment-strategy-8249,Korea,6
+1987,artificial-intelligence-research-and-development-support-fund-8360,Kazakhstan,34
+1988,implementation-of-accessible-websites-in-the-costa-rican-public-sector-9429,Costa Rica,17
+1989,governance-principles-for-new-generation-ai-developing-responsible-ai-6865,China (People’s Republic of),3
+1990,beijing-consensus-on-ai-and-education-9607,China (People’s Republic of),1
+1991,national-new-generation-ai-innovation-and-development-pilot-zone-5786,China (People’s Republic of),6
+1992,national-new-generation-ai-governance-specialist-committee-7895,China (People’s Republic of),3
+1993,national-governance-committee-for-new-generation-ai-5027,China (People’s Republic of),3
+1994,regulatory-sandbox-2970,Korea,28
+1995,memorandum-to-heads-of-agencies-on-regulatory-and-non-regulatory-approaches-to-ai-5255,United States,3
+1996,data-ai-driven-economy-promotion-plan-6991,Korea,4
+1997,al-khwarizmi-program-4896,Morocco,6
+1998,check-your-plan-telecommunication-services-price-comparison-tool-4088,Peru,0
+1999,punku-open-data-portal-2016,Peru,4
+2000,national-ai-rd-strategic-plan-2019-update-5256,United States,9
+2001,proposed-regulatory-framework-for-modifications-to-aiml-based-software-as-a-medical-device-5354,United States,2
+2002,white-house-summit-on-ai-in-government-3710,United States,0
+2003,plan-for-federal-engagement-in-developing-technical-standards-and-related-tools-6557,United States,9
+2004,nitrd-supplement-to-the-presidents-fy2020-budget-9077,United States,9
+2005,bangkok-statement-on-the-ethics-of-science-and-technology-and-sustainable-development-8982,Thailand,34
+2006,kobigel-sme-development-support-programme-9535,Türkiye,11
+2007,turkish-academy-of-sciences-information-technologies-and-communication-working-group-5433,Türkiye,32
+2008,national-data-dictionary-2480,Türkiye,4
+2009,focus-group-on-ai-assembly-of-turkish-scientist-abroad-2545,Türkiye,7
+2010,2023-industry-and-technology-strategy-5539,Türkiye,6
+2011,vision-2030-program-6108,Saudi Arabia,6
+2012,he-impact-of-ict-and-ai-on-the-evolution-of-man-and-society-4096,Romania,3
+2013,ai-use-cases-in-the-public-sector-8148,Tunisia,0
+2014,open-data-policy-2843,Tunisia,4
+2015,centre-for-the-fourth-industrial-revolution-south-africa-6126,South Africa,6
+2016,national-centre-for-ai-7060,Saudi Arabia,7
+2017,saudi-data-and-ai-authority-5964,Saudi Arabia,4
+2018,national-data-management-office-ndmo-4619,Saudi Arabia,4
+2019,vega-hpc-super-computer-5025,Slovenia,10
+2020,data-science-and-ml-roadmap-8125,Uruguay,4
+2021,ai-strategy-for-the-digital-government-6765,Uruguay,0
+2022,government-of-uganda-huawei-facial-recognition-system-2230,Uganda,5
+2023,expert-national-task-force-on-the-fourth-industrial-revolution-2910,Uganda,6
+2024,presidential-commission-on-the-fourth-industrial-revolution-3441,South Africa,6
+2025,online-harms-white-paper-and-bill-6709,United Kingdom,3
+2026,project-explain-4712,United Kingdom,22
+2027,report-on-addressing-trust-in-public-sector-data-use-4494,United Kingdom,4
+2028,cdei-snapshot-paper-smart-speakers-and-voice-assistants-4782,United Kingdom,3
+2029,cdei-snapshot-paper-deepfakes-and-audio-visual-disinformation-6703,United Kingdom,3
+2030,cdei-snapshot-paper-ai-and-personal-insurance-1420,United Kingdom,3
+2031,ai-barometer-1025,United Kingdom,8
+2032,nhs-ai-lab-6807,United Kingdom,2
+2033,eleventh-development-plan-8628,Türkiye,8
+2034,uk-governments-guidelines-for-ai-procurement-2129,United Kingdom,0
+2035,trialling-automated-vehicle-technologies-in-public-8114,United Kingdom,21
+2036,viet-nam-ai-day-1581,Viet Nam,17
+2037,a-guide-to-using-ai-in-the-public-sector-9849,United Kingdom,0
+2038,industrial-masters-courses-6862,United Kingdom,1
+2039,spanish-rdi-strategy-in-ai-5467,Spain,5
+2040,ai-council-5545,United Kingdom,9
+2041,chamber-of-commerce-and-industry-of-serbia-centre-for-digital-transformation-national-project-for-digital-transformation-of-business-2206,Serbia,26
+2042,government-technology-innovation-strategy-2567,United Kingdom,0
+2043,digitalwallonia4ai-5659,Belgium,4
+2044,start-up-hub-portal,Portugal,14
+2045,pfr-ventures,Poland,14
+2046,advanced-computing-portugal-2030-4047,Portugal,10
+2047,ai-a-strategic-vision-for-luxembourg-7943,Luxembourg,5
+2048,lighthouses-of-ai-for-environment-climate-nature-and-resources-1047,Germany,13
+2049,gaia-x-7134,Germany,33
+2050,gaia-x-5923,France,33
+2051,jean-zay-supercomputer-and-support-team-6609,France,18
+2052,gate-big-data-for-smart-society-1543,Bulgaria,8
+2053,ai-principles-and-ethics-for-the-emirate-of-dubai-5969,United Arab Emirates,3
+2054,flemish-policy-plan-ai-7002,Belgium,5
+2055,ai-mission-austria-2030-2791,Austria,5
+2056,ai-start-up-hub-3167,Colombia,14
+2057,european-coordinated-plan-on-artificial-intelligence-4803,European Union,7
+2058,centre-for-the-fourth-industrial-revolution-c4ir-network-1246,Colombia,6
+2059,resolution-on-a-comprehensive-european-industrial-policy-on-artificial-intelligence-and-robotics-3227,European Union,3
+2060,autonomous-driving-in-european-transport-3626,European Union,21
+2061,scientific-advice-to-european-policy-in-a-complex-world-8703,European Union,34
+2062,company-level-spaces-for-learning-and-experimentation-with-ai-ki-lern-und-experimentierraume,Germany,19
+2063,"polands-public-data-opening-programme,-part-of-the-programme-of-integrated-informatisation-of-the-state-pzip",Poland,4
+2064,dutch-vision-on-data-sharing-between-companies,Netherlands,4
+2065,g-cloud,Greece,23
+2066,data-driven-innovation-strategy-for-the-development-of-a-trusted-and-sustainable-economy-in-luxembourg,Luxembourg,4
+2067,digital-pilot-farms,Luxembourg,12
+2068,flemish-ai-action-plan-1,Belgium,5
+2069,optimization-of-data-collection-and-control-technology-for-biomass-combustion-systems,Germany,31
+2070,"synergies-between-digital-agricultural-strategy,-ai-strategy,-and-the-digital-food-strategy",Hungary,12
+2071,digital-innovation-hub-slovenia,Slovenia,11
+2072,ai-innovation-competition,Germany,19
+2073,prognostic-health-management-and-improving-energy-production-of-wind-turbine-parks,Belgium,13
+2074,cooperative-streets-project,Portugal,15
+2075,cloud-strategy-for-the-flemish-administration,Belgium,23
+2076,ai-in-animal-and-terrestrial-systems-wur,Netherlands,12
+2077,funding-programme-for-female-ai-junior-scientisits,Germany,1
+2078,technology-comprehension-in-traditional-subjects,Denmark,1
+2079,croatian-association-for-artificial-intelligence-croai,Croatia,7
+2080,start-your-ai-journey,Sweden,19
+2081,ama-academy,Portugal,1
+2082,council-on-social-principles-of-human-centric-ai,Japan,3
+2083,ai-strategic-headquarters,Japan,8
+2084,kb-lab,Sweden,20
+2085,nuova-sabatini-digital,Italy,14
+2086,bdc-data-to-ai-program,Canada,19
+2087,sub-decree-64-on-organization-and-function-of-ministry-of-post-and-telecommunications-cambodia-mptc,Cambodia,17
+2088,personal-data-anonymisation-module-in-the-unified-state-register-of-court-decisions,Ukraine,27
+2089,expert-committee-on-the-development-of-artificial-intelligence-in-ukraine-under-the-ministry-of-digital-transformation-of-ukraine,Ukraine,3
+2090,parliamentary-committee-on-digital-transformation-of-the-verkhovna-rada,Ukraine,17
+2091,giap-intelligent-solution-for-face-to-face-service,Portugal,0
+2092,centre-for-artificial-intelligence-cai,Croatia,7
+2093,public-service-data-strategy,Ireland,4
+2094,ai-for-healthcare-pilot-project-forecasting-application,Malta,2
+2095,flanders-ai-research-programme,Belgium,7
+2096,research-ireland-centres-for-research-training-crt,Ireland,30
+2097,common-state-it-infrastructure-programme,Poland,23
+2098,big-data-policy-data-governance-framework-1759,Colombia,4
+2099,the-european-alliance-3823,European Union,5
+2100,finlands-ai-accelerator-9377,Finland,36
+2101,ai-use-cases-in-the-public-sector-4720,Argentina,0
+2102,bio-ethics-law-project-1958,France,27
+2103,creation-of-a-high-level-commission-for-digital-government-6566,Costa Rica,17
+2104,confianceai-program-5279,France,3
+2105,improvements-in-the-efficiency-of-public-spending-through-the-appropiate-use-of-digital-technologies-in-the-costa-rican-public-sector-2890,Costa Rica,17
+2106,the-development-of-the-digital-government-of-the-bicentenary-4035,Costa Rica,17
+2107,national-strategy-on-ai-5864,France,6
+2108,international-panel-on-ai-7618,France,9
+2109,ai-business-program-1080,Finland,19
+2110,policy-on-research-ethics-bioethics-and-scientific-integrity-4873,Colombia,34
+2111,high-level-expert-group-on-artificial-intelligence-hleg-ai-2973,European Union,3
+2112,general-data-protection-regulation-gdpr-8856,European Union,16
+2113,ethics-guidelines-on-artificial-intelligence-2126,European Union,3
+2114,educar-2140,Argentina,1
+2115,ai-in-the-public-sector-7992,Colombia,0
+2116,eu-strategy-for-artificial-intelligence-9694,European Union,5
+2117,jaque-and-services-guide-9616,Brazil,0
+2118,ai-capability-fund-9083,Australia,6
+2119,ml-and-ai-future-science-platform-8718,Australia,7
+2120,csiro-ml-and-ai-future-science-platform-3881,Australia,7
+2121,aus4innovation-australia-and-vietnam-9535,Australia,6
+2122,industry-40-testlab-for-australia-pilot-program-6245,Australia,6
+2123,hungarys-ai-coalition-9148,Hungary,5
+2124,supporting-ai-in-schools-1647,Australia,1
+2125,ai-standardisation-committee-2677,India,3
+2126,australias-ai-ethics-framework-8225,Australia,3
+2127,australias-tech-future-5297,Australia,26
+2128,regulatory-sandboxes-enabling-innovation-and-advancing-regulation-9592,Germany,28
+2129,mobilizing-program-to-foster-ai-in-the-public-administration-9191,Portugal,0
+2130,action-plan-for-digitalisation-and-ai-in-mobility-4536,Germany,15
+2131,data-ethics-commission-2089,Germany,3
+2132,ai-technology-roadmap-1705,Australia,5
+2133,intellectual-property-laws-amendment-act-9710,Australia,25
+2134,advisory-council-on-the-ethical-use-of-ai-and-data-3531,Singapore,3
+2135,malta-digital-innovation-authority-7991,Malta,11
+2136,blockchain-and-ai-task-force-5334,Kenya,8
+2137,ai-bridging-cloud-infrastructure-abci-7996,Japan,18
+2138,data-science-initiative-3851,Israel,4
+2139,estonian-catalogue-of-public-sector-information-systems-7234,Estonia,4
+2140,ai-for-industry-3726,Singapore,4
+2141,ai-for-everyone-9943,Singapore,34
+2142,smedigital-3882,Denmark,29
+2143,digital-hub-denmark-5621,Denmark,11
+2144,digital-czech-republic-6985,Czechia,26
+2145,national-challenges-7792,Chile,6
+2146,national-digital-languages-plan-7509,Chile,1
+2147,national-strategy-on-artificial-intelligence-3077,India,8
+2148,knowledge-and-innovation-agenda-7683,Netherlands,6
+2149,ai-for-the-netherlands-7859,Netherlands,5
+2150,brussels-region-ai-policy-3265,Belgium,7
+2151,declaration-on-ai-in-the-nordic-baltic-region-8980,Iceland,5
+2152,principles-to-promote-fairness-ethics-accountability-and-transparency-in-the-use-of-artificial-intelligence-and-data-analytics-in-singapores-financial-sector-3706,Singapore,3
+2153,high-level-committee-by-a-digital-innovative-and-competitive-peru-6092,Peru,17
+2154,fee-for-illegal-storage-and-use-of-employee-ip-addresses-2068,Norway,16
+2155,research-council-of-norways-ict-research-programmes-2197,Norway,7
+2156,inter-ministerial-working-party-on-ai-6343,Norway,9
+2157,principles-for-safe-and-effective-use-of-data-and-analytics-1616,New Zealand,16
+2158,analysis-of-mortality-patterns-in-portugal-6622,Portugal,2
+2159,ai-research-programme-5828,Singapore,9
+2160,100-experiments-9135,Singapore,18
+2161,tax-credit-on-higher-educational-qualifications-1528,Malta,1
+2162,the-administrative-provisions-of-a-general-nature-for-the-preparation-submission-and-assessment-of-impact-assessments-on-the-protection-of-personal-data-1334,Mexico,16
+2163,ai-use-cases-in-the-public-sector-8989,Mexico,0
+2164,towards-an-ai-strategy-in-mexico-harnessing-the-ai-revolution-5146,Mexico,5
+2165,principles-and-impact-analysis-guide-for-the-development-and-use-of-systems-based-on-artificial-intelligence-in-the-federal-public-administration-8462,Mexico,0
+2166,services-digital-economy-technology-roadmap-and-services-40-9587,Singapore,26
+2167,digital-economy-framework-for-action-4918,Singapore,26
+2168,program-for-the-development-of-the-software-industry-and-innovation-7850,Mexico,11
+2169,mexican-national-ai-agenda-8358,Mexico,5
+2170,research-programme-on-governance-of-ai-and-data-use-8227,Singapore,8
+2171,joint-ai-center-2366,United States,9
+2172,digital-transformation-strategy-the-bicentennial-of-costa-rica-1900,Costa Rica,17
+2173,national-standards-for-autonomous-vehicle-testing-7343,China (People’s Republic of),21
+2174,ai-innovation-action-plan-for-institutions-of-higher-education-4972,China (People’s Republic of),30
+2175,6th-national-informatisation-master-plan-for-an-intelligent-information-society-5831,Korea,8
+2176,plan-to-respond-to-the-fourth-industrial-revolution-for-innovative-growth-i-korea-40-4537,Korea,6
+2177,ai-next-campaign-8262,United States,9
+2178,white-house-summit-on-ai-for-american-industry-2568,United States,9
+2179,national-security-commission-on-ai-3915,United States,9
+2180,protecting-the-us-advantage-in-ai-and-related-critical-technologies-5532,United States,8
+2181,department-of-defense-ai-strategy-9798,United States,9
+2182,next-generation-non-surgical-neurotechnology-programme-4698,United States,36
+2183,explainable-ai-program-8021,United States,3
+2184,federal-5-year-stem-education-strategic-plan-7201,United States,1
+2185,nsf-funding-opportunities-with-special-emphasis-on-ai-3738,United States,9
+2186,policies-that-regulate-fintech-innovation-7776,United States,28
+2187,ai-rd-interagency-working-group-3702,United States,9
+2188,select-committee-on-ai-4810,United States,9
+2189,ml-and-ai-subcommittee-5819,United States,9
+2190,maker-labs-deneyap-6105,Türkiye,1
+2191,developing-the-next-generation-of-ai-talent-9362,United Kingdom,1
+2192,ai-sector-deal-4034,United Kingdom,5
+2193,digital-pathology-and-radiology-programme-7449,United Kingdom,2
+2194,national-centre-for-computing-education-8503,United Kingdom,26
+2195,office-for-ai-4522,United Kingdom,8
+2196,centre-for-data-ethics-and-innovation-3392,United Kingdom,3
+2197,responsible-technology-adoption-unit-9318,United Kingdom,3
+2198,teknofest-aerospace-and-technology-festival-6378,Türkiye,1
+2199,creation-of-a-high-level-commission-for-digital-government-of-the-bicentennial-8129,Costa Rica,17
+2200,start-up-act-5584,Tunisia,14
+2201,national-ethics-committee-of-science-and-technology-5390,Thailand,34
+2202,ai-use-cases-in-the-public-sector-9643,Uruguay,0
+2203,data-policy-and-strategy-for-digital-transformation-4822,Uruguay,4
+2204,mauritius-artificial-intelligence-ai-strategy-7829,Mauritius,5
+2205,digital-kazakhstan-government-programme-8248,Kazakhstan,26
+2206,smart-data-ukimet-4253,Kazakhstan,4
+2207,improvements-in-the-efficiency-of-public-spending-through-the-appropriate-use-of-digital-technologies-in-the-costa-rican-public-sector-7425,Costa Rica,17
+2208,the-development-of-the-digital-government-of-the-bicentenary-3228,Costa Rica,17
+2209,uae-council-for-ai-4520,United Arab Emirates,5
+2210,slovak-center-for-artificial-intelligence-research-aislovakia,Slovakia,7
+2211,ai-competence-for-sweden-3151,Sweden,1
+2212,skills-development-1473,Malta,1
+2213,proposals-and-report-for-an-italian-strategy-on-ai-7315,Italy,8
+2214,ai-use-cases-in-the-public-sector-in-ireland-4879,Ireland,0
+2215,centres-of-excellence-for-ai-research-3023,Germany,7
+2216,finnish-centre-for-ai-fcai-7654,Finland,5
+2217,communication-artificial-intelligence-for-europe-6855,European Union,5
+2218,declaration-of-cooperation-on-ai-5198,European Union,5
+2219,decision-about-plan-for-ai-rd-8137,Viet Nam,6
+2220,code-of-practice-testing-of-automated-driving-on-public-roads-4932,Austria,21
+2221,ai-procurement-in-a-box-3919,United Kingdom,3
+2222,welsh-language-technology-action-plan-3717,United Kingdom,20
+2223,cdei-review-of-online-targeting-5066,United Kingdom,3
+2224,data-trusts-4048,United Kingdom,4
+2225,ico-regulatory-sandbox-4030,United Kingdom,28
+2226,government-data-science-partnership-9961,United Kingdom,4
+2227,automated-and-electric-vehicles-bill-6754,United Kingdom,21
+2228,aus4innovation-8702,Viet Nam,6
+2229,data-sandbox,Malta,28
+2230,e-prescriptions,Czechia,2
+2231,etalon-of-national-interpreted-genome-map-in-czech-republic-enigma,Czechia,2
+2232,ai-usage-in-the-flemish-public-employment-service-vdab,Belgium,12
+2233,national-rescue-service,Hungary,13
+2234,development-of-the-state-cloud-ict-infrastructure,Lithuania,23
+2235,smes-innovative-medical-technology,Germany,29
+2236,pladenj-system-for-standardized-execution-of-electronic-data-queries,Slovenia,4
+2237,innovation-center-for-artificial-intelligence-icai,Netherlands,7
+2238,innovet,Belgium,1
+2239,disruptive-technologies-innovation-fund-dtif,Ireland,6
+2240,"crop-optimisation-through-sensing,-understanding-and-visualisation-consus",Ireland,12
+2241,dublin-city-councils-smart-dublin-initiative-project-on-delivery-robots-using-ai-enabled-computer-vision-to-solve-issues-regarding-last-mile-delivery,Ireland,15
+2242,open-data-policy-open-data-portal,Croatia,4
+2243,school-of-computational-thinking-and-artificial-intelligence-epcia,Spain,1
+2244,data-intelligence-offensive,Austria,4
+2245,testbed-digitalized-agriculture,Sweden,12
+2246,national-living-lab-for-precision-agriculture-nppl,Netherlands,12
+2247,women-award-in-technology-and-science,Belgium,1
+2248,capital-investment-fund-cif,Bulgaria,14
+2249,enterprise-azerbaijan,Azerbaijan,14
+2250,integrated-innovation-strategy,Japan,6
+2251,estishraf,Saudi Arabia,0
+2252,farmpredict,Australia,12
+2253,innovative-solutions-canada-isc,Canada,29
+2254,scale-ai-supercluster-supply-chains-and-logistics-excellence-ai,Canada,19
+2255,nsf-sbirsttr-ai-topic,United States,9
+2256,france-num,France,11
+2257,technovation-girls,Portugal,1
+2258,leuvenai,Belgium,30
+2259,robotics-for-a-safer-world-4379,United Kingdom,7
+2260,prosperity-through-innovation-2936,Australia,6
+2261,automated-vehicles-bill-in-the-road-traffic-act-9208,Germany,21
+2262,funding-initiatives-on-ai-and-machine-learning-3378,Germany,9
+2263,digital-hub-initiative-9597,Germany,11
+2264,doctoral-graduates-employment-9704,Portugal,30
+2265,australias-national-enforcement-guidelines-for-automated-vehicles-8245,Australia,21
+2266,france-ai-8847,France,5
+2267,ai-programme-4522,Finland,5
+2268,ai-use-cases-in-the-public-sector-8443,Kenya,0
+2269,health-data-programme-3129,Norway,2
+2270,ai-grand-challenges-9813,Singapore,9
+2271,ai-apprenticeship-programme-7433,Singapore,1
+2272,road-traffic-autonomous-motor-vehicles-rules-2017-7515,Singapore,21
+2273,law-on-road-traffic-safety-self-driving-cars-9706,Lithuania,21
+2274,ai-singapore-6882,Singapore,6
+2275,get-qualified-scheme-6843,Malta,1
+2276,tech-skills-accelerator-initiatives-8993,Singapore,1
+2277,artificial-intelligence-task-force-for-indias-economic-transformation-7319,India,8
+2278,ai-rd-guidelines-8479,Japan,3
+2279,danish-road-directorate-5828,Denmark,21
+2280,national-ethical-guidelines-for-biomedical-and-health-research-involving-human-participants-2009,India,34
+2281,innovation-superclusters-initiative-6709,Canada,6
+2282,plan-next-tech-brussels-6905,Belgium,26
+2283,joint-rd-project-5994,Belgium,6
+2284,open-data-portal-7780,Belgium,2
+2285,open-data-initiatives-datagovbe-and-statbels-open-data-6931,Belgium,4
+2286,ai-use-cases-in-the-portuguese-public-sector-6663,Portugal,0
+2287,12th-national-economic-and-social-development-plan-5724,Thailand,6
+2288,ai-review-growing-the-ai-industry-in-the-uk-2933,United Kingdom,5
+2289,industrial-strategy-challenge-fund-9587,United Kingdom,6
+2290,ho-chi-minh-smart-city-9346,Viet Nam,6
+2291,office-for-it-and-e-government-2165,Serbia,2
+2292,office-for-it-and-egovernment-7664,Serbia,2
+2293,state-data-center-2673,Serbia,8
+2294,industrial-strategy-building-a-britain-fit-for-the-future-white-paper-4186,United Kingdom,6
+2295,safir-depo-cloud-storage-software-6583,Türkiye,23
+2296,yk-1002000-phd-scholarship-5587,Türkiye,30
+2297,act-on-testing-self-driving-vehicles-4771,Norway,21
+2298,interdepartmental-working-group-on-ai-5087,Switzerland,8
+2299,pilot-project-on-ai-for-cancer-treatment-3421,Kazakhstan,2
+2300,national-engineering-laboratory-for-deep-learning-7006,China (People’s Republic of),36
+2301,national-new-generation-ai-promotion-office-9459,China (People’s Republic of),9
+2302,national-new-generation-ai-plan-3925,China (People’s Republic of),5
+2303,ai-open-innovation-hub-1199,Korea,10
+2304,presidential-committee-on-the-fourth-industrial-revolution-6528,Korea,6
+2305,unmanned-aircraft-systems-integration-pilot-program-9387,United States,0
+2306,automated-vehicles-30-preparing-for-the-future-of-transportation-2408,United States,21
+2307,"operation-programme-research,-development-and-education",Czechia,7
+2308,sub-decree-110-on-ict-licensing-regime,Cambodia,17
+2309,council-for-artificial-intelligence-and-digital-technology,France,9
+2310,ai-hub,Korea,9
+2311,engineers-for-1-day,Portugal,1
+2312,happy-code,Portugal,1
+2313,the-croris-project-a-national-cris-in-croatia,Croatia,7
+2314,ugentai-institute,Belgium,3
+2315,coordinated-and-secure-government-it-operations,Sweden,23
+2316,community-of-professional-educators-cope-sessions,Malta,1
+2317,belgiums-participation-in-eurohpc-joint-undertaking,Belgium,10
+2318,choose-france-programme,France,7
+2319,"strategic-materials-of-the-ministry-of-investment,-regional-development-and-informatisation-of-the-slovak-republic-mirri",Slovakia,11
+2320,european-digital-innovation-hubs-edihs-in-greece-8523,Greece,11
+2321,plattform-lernende-systeme-germanys-platform-for-ai-9256,Germany,2
+2322,prospective-research-programme-1713,Belgium,6
+2323,resolution-on-civil-law-rules-on-robotics-and-ai-5844,European Union,3
+2324,digitising-european-industry-2480,European Union,11
+2325,uae-national-strategy-for-ai-8711,United Arab Emirates,5
+2326,vendor-innovation-program-vip-canada-health-infoway,Canada,2
+2327,knowledge-and-innovation-agenda-ict-5648,Netherlands,6
+2328,big-data-to-knowledge-7767,United States,2
+2329,federal-automated-vehicles-policy-2480,United States,21
+2330,council-for-information-and-communication-technologies-in-public-administration-8139,Portugal,17
+2331,luxembourg-future-fund-3380,Luxembourg,14
+2332,spaceresourceslu-3441,Luxembourg,6
+2333,key-employee-initiative-3869,Malta,14
+2334,advanced-integrated-intelligence-platform-project-1459,Japan,30
+2335,the-conference-toward-ai-network-society-4180,Japan,3
+2336,32nd-amendment-to-the-austrian-motor-vehicles-act-7923,Austria,21
+2337,stem-cell-network-4622,Canada,6
+2338,autonomous-vehicles-code-of-practice-for-testing-in-belgium-4629,Belgium,21
+2339,next-generation-technologies-fund-7498,Australia,6
+2340,medical-research-future-fund-4809,Australia,6
+2341,csiro-innovation-fund-managed-by-main-sequence-ventures-3215,Australia,14
+2342,ethical-guidelines-for-self-driving-cars-7788,Germany,21
+2343,mfund-8296,Germany,14
+2344,digital-republic-bill-9652,France,17
+2345,european-digital-innovation-hubs-edih-1996,European Union,11
+2346,eu-cloud-initiative-3576,European Union,33
+2347,technology-voucher-programme-for-enterprises,Hungary,29
+2348,luxembourg-tech-school-lts,Luxembourg,1
+2349,open-data-government-strategy-laws,France,4
+2350,national-real-time-water-management-system,Bulgaria,13
+2351,women-go-tech,Lithuania,1
+2352,ricaip-research-and-innovation-centre-on-advanced-industrial-production,Czechia,11
+2353,bridge-vc-tdj-pitango-ventures-fund,Poland,14
+2354,research-institutes-of-sweden-rise-7006,Sweden,7
+2355,digital-tech-fund-8359,Luxembourg,14
+2356,national-ai-rd-strategic-plan-1078,United States,9
+2357,dubai-future-accelerators-2322,United Arab Emirates,6
+2358,notice-16-tv89-notice-on-automatic-parking-systems-5841,Spain,21
+2359,law-on-protection-of-personal-data-3345,Türkiye,16
+2360,digital-society-initiative-1181,Switzerland,17
+2361,consensus-study-on-the-ethical-legal-and-social-implications-of-genetics-and-genomics-in-south-africa-3800,South Africa,2
+2362,road-map-focused-on-the-development-of-competencies-5562,Kazakhstan,7
+2363,phd-research-and-training-grant-program-1813,Kazakhstan,30
+2364,project-on-fostering-productive-innovation-7784,Kazakhstan,6
+2365,three-year-guidance-for-internet-plus-ai-plan-6769,China (People’s Republic of),5
+2366,ai-use-case-tax-time-nudging,Australia,27
+2367,strategic-framework-of-national-cloud-computing,Czechia,23
+2368,innovation-centre-nikola-tesla,Croatia,7
+2369,myfab,Sweden,24
+2370,national-plan-for-the-advancement-of-language-technologies-3369,Spain,20
+2371,open-data-portal-public-sector-data,Bulgaria,4
+2372,"wallenberg-ai,-autonomous-systems-and-software-program",Sweden,7
+2373,society-for-measurement-automation-and-robotics-1738,Austria,7
+2374,platform-industry-40-austria-5348,Austria,5
+2375,strategy-for-connected-industry-40-9046,Spain,6
+2376,kenya-education-network-kenet-6824,Kenya,1
+2377,alan-turing-institute-8340,United Kingdom,4
+2378,pulse-lab-kampala-3562,Uganda,6
+2379,national-open-data-platform-4570,Peru,4
+2380,digital-agenda-for-norway-5690,Norway,26
+2381,qualifying-employment-in-innovation-creativity-personal-tax-1678,Malta,1
+2382,rd-competitiveness-and-excellence-co-operation-programmes-6764,Hungary,6
+2383,centre-of-excellence-for-ai-internet-of-things-iot-ai-2573,India,7
+2384,aris-infrastucture-3050,Greece,10
+2385,platform-industry-40-6406,Germany,5
+2386,drive-sweden,Sweden,15
+2387,science-and-technology-parks-as-ai-innovation-infrastructure,Serbia,14
+2388,ubbu-project,Portugal,1
+2389,wallonian-digital-agency,Belgium,11
+2390,aris-advanced-research-information-system,Greece,10
+2391,human-capital-agenda-ict,Netherlands,1
+2392,the-national-traffic-management-centre-ntmc,Slovenia,15
+2393,accelerating-medicines-partnership-7542,United States,2
+2394,agricultural-research-and-innovation-hub-agrihub,Malta,12
+2395,hybrid-cloud-enabling-infrastructure,Malta,23
+2396,public-private-partnership-on-data-3825,European Union,4
+2397,digital-luxembourg-4942,Luxembourg,26
+2398,masters-in-artificial-intelligence-7219,Malta,1
+2399,atmosys-air-quality-management-system,Croatia,13
+2400,takeoff-seed-fund-award,Malta,14
+2401,innovation-fund-denmark-6685,Denmark,6
+2402,national-open-data-portal-8957,Cyprus,4
+2403,robotics-public-private-partnership-in-horizon-2020-8405,European Union,7
+2404,british-business-bank-bbb-sme-finance-and-ai-adoption-support,United Kingdom,14
+2405,horizon-2020-8961,European Union,6
+2406,data-public-innovation-center-1018,Colombia,4
+2407,patent-box,United Kingdom,35
+2408,protection-of-personal-information-act-popia,South Africa,16
+2409,govdata-the-data-portal-for-germany,Germany,4
+2410,open-government-data-portal,Korea,4
+2411,"czech-institute-of-informatics,-robotics-and-cybernetics",Czechia,7
+2412,it4innovations-supercomputing-centre,Czechia,32
+2413,regional-centre-of-excellence-for-robotics-crta,Croatia,7
+2414,health-data-lab,Germany,2
+2415,fet-flagship-human-brain-project-6790,European Union,36
+2416,digital-catapult-4257,United Kingdom,11
+2417,cloud-computing-and-big-data-research-laboratory-6106,Türkiye,23
+2418,national-network-of-open-access-digital-repositories-of-science-technology-and-innovation-1477,Peru,10
+2419,centers-of-excellence-in-regulatory-science-and-innovation-9264,United States,6
+2420,callaghan-innovation-9042,New Zealand,19
+2421,kenyas-digital-literacy-programme-digischool-8999,Kenya,1
+2422,sfi-research-centres-and-spokes-programme-9259,Ireland,6
+2423,tubitaks-rdi-support-in-ai-2020,Türkiye,7
+2424,poland-taiwan-scientific-co-operation-2840,Poland,6
+2425,high-performance-computing-infrastructure-project-4305,Japan,10
+2426,danish-e-infrastructure-consortium-deic,Denmark,10
+2427,hansken,Netherlands,0
+2428,brazilian-open-data-portal,Brazil,4
+2429,research-ireland-centres,Ireland,7
+2430,irt-systemx,France,15
+2431,national-robotics-initiative-3118,United States,7
+2432,turkish-national-e-science-e-infrastructure-9454,Türkiye,10
+2433,innovation-fund-serbia-5579,Serbia,6
+2434,materials-genome-initiative-5544,United States,13
+2435,national-supercomputer-national-centre-it4innovations-7359,Czechia,10
+2436,biobankcy,Cyprus,2
+2437,institute-of-information-and-communication-technologies-iict-bas,Bulgaria,10
+2438,research-platforms-4656,Belgium,6
+2439,investments-for-the-future-programme-5745,France,8
+2440,"ai-specific-research-and-innovation-programme-administered-by-vinnova,-swedens-innovation-agency",Sweden,19
+2441,austrian-scientific-computing-previously-vienna-scientific-cluster,Austria,10
+2442,sweden-ffi-strategic-vehicle-research-and-innovation,Sweden,15
+2443,research-tax-credit,France,35
+2444,zim-central-innovation-programme-for-smes,Germany,35
+2445,gauss-centre-for-supercomputing,Germany,10
+2446,ai-research-investments-4039,New Zealand,9
+2447,sme‑innovation-information-and-communication-technologies-research,Germany,29
+2448,national-digital-research-centre-9386,Ireland,14
+2449,clusters-hubbrussels-4330,Belgium,6
+2450,scientific-and-technological-rd-tax-incentive-guidelines-7671,South Africa,35
+2451,centres-for-doctoral-training-6981,United Kingdom,30
+2452,the-wallenberg-ai-and-transformative-technologies-education-development-program,Denmark,36
+2453,state-rd-programs-state-rd-infrastructure-development-programs-and-srda-programs-8738,Slovakia,6
+2454,corallia-clusters-initiative,Greece,19
+2455,law-on-the-protection-of-personal-data-7069,Tunisia,16
+2456,eu-ai-office,European Union,3
+2457,"walloon-export-and-foreign-investment-agency-agence-wallonne-a-lexportation-et-aux-investissements-etrangers,-awex",Belgium,5
+2458,innovation-tax-credit-itc,France,35
+2459,tax-status-young-innovative-company-young-research-oriented-innovative-company,France,35
+2460,act-on-the-protection-of-personal-information-6198,Japan,16
+2461,"component-7,-reform-1-of-the-curriculum-reform-of-the-slovak-education-system",Slovakia,1
+2462,enterprise-incubator-foundation-3668,Armenia,14
+2463,national-committee-of-ethics-in-science-and-technology-7967,Argentina,34
+2464,bifap,Spain,2
+2465,delaware-electronic-monitoring-law-2930,United States,16
+2466,ipa-mitou-program,Japan,14
+2467,fondo-di-garanzia-pmi,Italy,14
+2468,the-public-attitudes-to-science-survey-7353,United Kingdom,34
+2469,face-recognition-vendor-test-9003,United States,20
+2470,genome-canada-8227,Canada,2
+2471,connecticut-electronic-monitoring-law-4410,United States,16
+2472,edih-ai-boost,Denmark,7
+2473,notice-15v-113-notice-on-the-authorization-to-test-automated-driving-systems-3726,Spain,21
+2474,exist-program,Germany,14
+2475,slovenian-ai-society-8895,Slovenia,7
+2476,norwegian-biotechnology-advisory-board-9262,Norway,6
+2477,co-operative-research-centers-program-6286,Australia,14
+2478,federal-office-for-information-security,Germany,19
+2479,european-group-on-ethics-in-science-and-new-technologies-ege-4832,European Union,34
+2480,norwegian-national-research-ethics-committees-6179,Norway,34
+2481,"ai-department-and-institute-of-digital-games,-university-of-malta",Malta,7
+2482,otp-emese,Hungary,20
+2483,greek-satellite-in-ai-matters,Greece,11
+2484,interface3,Belgium,1
+2485,rd-projects-experimental-development-8838,Belgium,6
+2486,rd-projects-industrial-research-3244,Belgium,6
+2487,surf,Netherlands,10
+2488,scientific-research-and-experimental-development-sranded-tax-credit,Canada,35
+2489,athena-magazine-5353,Belgium,7
+2490,imec-core-funding-1944,Belgium,7
+2491,austrian-society-for-artificial-intelligence-asai-6630,Austria,7
+2492,the-norwegian-data-inspectorate-5260,Norway,16
+2493,cineca-supercomputing-centre-8034,Italy,10
+2494,fraunhofer-society,Germany,7

@@ -1,0 +1,13 @@
+pattern,nato_tool,binding_default,rationale
+regulation|\blaw\b|\bact\b|legislation|decree|statute,authority,binding,Legal command; Hood and Margetts authority tool
+standard|certification|conformity,authority,non-binding,Rule-setting without statutory force unless the entry says binding
+oversight|regulator|supervis|enforcement|audit,authority,binding,Supervisory power
+principles|guidelines|framework|code of conduct|ethics,nodality,non-binding,Soft guidance that works by information
+strategy|plan|roadmap|vision|agenda,nodality,non-binding,Agenda-setting document
+awareness|campaign|dialogue|consultation|information,nodality,non-binding,Information-based tool
+grant|funding|fund|investment|subsid|loan|tax|procurement|prize|financ,treasure,non-binding,Spending or fiscal tool
+infrastructure|compute|data centre|data center|cloud|supercomput|dataset|data space,treasure,non-binding,Public provision of resources (spending)
+skills|education|training|curricul|scholarship|talent|fellowship,treasure,non-binding,Capacity spending on human capital
+agency|office|council|institute|centre|center|body|task force|committee|observatory|network,organization,non-binding,Creation of state organisation
+public sector|adoption in government|govtech|e-government|digital government,organization,non-binding,Direct state use of AI
+sandbox|testbed|pilot,authority,non-binding,Conditional regulatory relief (authority used permissively)

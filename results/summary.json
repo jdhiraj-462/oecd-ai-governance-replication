@@ -1,0 +1,1210 @@
+{
+ "run": {
+  "started": "2026-11-24 04:30:09",
+  "python": "3.13.18",
+  "embedding_backend": "sbert",
+  "fast_mode": false,
+  "config": "config/config.yaml",
+  "config_sha256": "8d679edaef6f1db86ee19ccfee86f108963a10dd143d7b164ba711ce7e499240",
+  "raw_sha256": "477c67b1bcf9068d9cb5cec25e64afa6cf5b7124fd2eed2499d4d72630ced51a",
+  "seconds": 676.9
+ },
+ "corpus": {
+  "n_docs": 2446,
+  "n_jurisdictions": 95,
+  "n_india": 33,
+  "n_eu": 73,
+  "n_us": 98,
+  "n_eu27_pooled": 1383,
+  "n_non_oecd_jurisdictions": 50,
+  "n_subnational_flagged": 49,
+  "n_subnational_india": 2,
+  "median_per_jurisdiction": 19.0,
+  "year_min": 1956.0,
+  "year_max": 2026.0,
+  "share_unclassified_instrument": 0.04251839738348324,
+  "share_status_known": 0.9394930498773508,
+  "log": [
+   "raw_rows=2675",
+   "column_map={\"id\": \"slug\", \"title\": \"Name\", \"description\": \"Initiative overview\", \"objectives\": null, \"jurisdiction\": \"Country\", \"category\": \"Category\", \"instrument\": \"Initiative type\", \"binding\": \"Binding\", \"status\": \"Status\", \"start_year\": \"Start Year\", \"target_sectors\": \"Target Sectors\", \"oecd_principles\": \"OECD AI Principles\", \"organisation\": \"Responsible organisation\"}",
+   "flagged_subnational=49",
+   "dropped_international=50",
+   "dropped_short=125",
+   "dropped_duplicates=4",
+   "dropped_non_english=1",
+   "masked_entities=4399 masked_list_terms=1939",
+   "final_docs=2495 jurisdictions=95",
+   "main_sample_docs=2446 (subnational excluded=True)"
+  ]
+ },
+ "length": {
+  "median_chars": {
+   "European Union": 1002.0,
+   "India": 624.0,
+   "United States": 614.0
+  },
+  "median_all": 924.0,
+  "kruskal_H": 6.842767338036368,
+  "kruskal_p": 0.03266720305647911
+ },
+ "missingness": {
+  "India": {
+   "m_binding": 0.152,
+   "m_status": 0.0,
+   "m_year": 0.0,
+   "m_instrument": 0.0,
+   "m_org": 0.091
+  },
+  "European Union": {
+   "m_binding": 0.178,
+   "m_status": 0.0,
+   "m_year": 0.0,
+   "m_instrument": 0.0,
+   "m_org": 1.0
+  },
+  "United States": {
+   "m_binding": 0.296,
+   "m_status": 0.0,
+   "m_year": 0.0,
+   "m_instrument": 0.0,
+   "m_org": 0.153
+  },
+  "ALL": {
+   "m_binding": 0.236,
+   "m_status": 0.0,
+   "m_year": 0.0,
+   "m_instrument": 0.0,
+   "m_org": 0.202
+  }
+ },
+ "bootstrap": {
+  "type": "cluster (responsible organisation)",
+  "n_clusters": 1938
+ },
+ "labels_file_sha256": "ba4af8ed1b04f78aa9cd3dd63720f57b322790968a6834b868b70f47ae02f466",
+ "labels_from_authors": true,
+ "roles_from_authors": true,
+ "bertopic": {
+  "n_topics": 37,
+  "outlier_share_before_reduction": 0.18152085036794766,
+  "c_v": 0.531694744370138,
+  "c_npmi": -0.030886859515414422,
+  "seed_ari_mean": 0.5929317158228617,
+  "seed_ari_min": 0.46016312587840064,
+  "seed_k_range": [
+   37,
+   48
+  ],
+  "seed_cos_eu": [
+   0.6287677132370129,
+   0.7029042596609104,
+   0.7999224209576319
+  ],
+  "seed_cos_us": [
+   0.32252400762197353,
+   0.3923366424724984,
+   0.4703409228083118
+  ],
+  "seed_same_ordering": 5,
+  "n_seeds": 5
+ },
+ "global_themes": [
+  {
+   "label": "AI in public administration and citizen services",
+   "share_of_jurisdictions": 0.6,
+   "share_of_initiatives": 0.12060506950122649,
+   "role": "promotion"
+  },
+  {
+   "label": "Strategy implementation and sectoral priorities",
+   "share_of_jurisdictions": 0.6,
+   "share_of_initiatives": 0.044971381847914965,
+   "role": "other"
+  },
+  {
+   "label": "National AI strategies and action plans",
+   "share_of_jurisdictions": 0.5684210526315789,
+   "share_of_initiatives": 0.04865085854456255,
+   "role": "other"
+  },
+  {
+   "label": "Ethics, risk, safety and standards",
+   "share_of_jurisdictions": 0.5368421052631579,
+   "share_of_initiatives": 0.07645134914145543,
+   "role": "control"
+  },
+  {
+   "label": "Industrial innovation and R&D",
+   "share_of_jurisdictions": 0.5157894736842106,
+   "share_of_initiatives": 0.04251839738348324,
+   "role": "development"
+  },
+  {
+   "label": "AI education and skills",
+   "share_of_jurisdictions": 0.5052631578947369,
+   "share_of_initiatives": 0.08871627146361406,
+   "role": "development"
+  },
+  {
+   "label": "Open data and data sharing",
+   "share_of_jurisdictions": 0.5052631578947369,
+   "share_of_initiatives": 0.044971381847914965,
+   "role": "development"
+  },
+  {
+   "label": "Health and medical AI",
+   "share_of_jurisdictions": 0.4842105263157895,
+   "share_of_initiatives": 0.05846279640228945,
+   "role": "promotion"
+  },
+  {
+   "label": "Research centres and excellence",
+   "share_of_jurisdictions": 0.4842105263157895,
+   "share_of_initiatives": 0.047424366312346686,
+   "role": "development"
+  },
+  {
+   "label": "Digital innovation hubs for firms",
+   "share_of_jurisdictions": 0.35789473684210527,
+   "share_of_initiatives": 0.0339329517579722,
+   "role": "promotion"
+  },
+  {
+   "label": "High-performance computing",
+   "share_of_jurisdictions": 0.3368421052631579,
+   "share_of_initiatives": 0.02698282910874898,
+   "role": "development"
+  },
+  {
+   "label": "Federal AI research coordination",
+   "share_of_jurisdictions": 0.30526315789473685,
+   "share_of_initiatives": 0.03188879803761243,
+   "role": "development"
+  },
+  {
+   "label": "Start-up financing",
+   "share_of_jurisdictions": 0.30526315789473685,
+   "share_of_initiatives": 0.022485690923957483,
+   "role": "promotion"
+  },
+  {
+   "label": "Agriculture and food",
+   "share_of_jurisdictions": 0.28421052631578947,
+   "share_of_initiatives": 0.02330335241210139,
+   "role": "promotion"
+  },
+  {
+   "label": "Environment, climate and energy",
+   "share_of_jurisdictions": 0.2631578947368421,
+   "share_of_initiatives": 0.022894521668029435,
+   "role": "promotion"
+  },
+  {
+   "label": "Digital economy agendas",
+   "share_of_jurisdictions": 0.2631578947368421,
+   "share_of_initiatives": 0.013900245298446443,
+   "role": "other"
+  },
+  {
+   "label": "Personal data protection",
+   "share_of_jurisdictions": 0.25263157894736843,
+   "share_of_initiatives": 0.019215044971381847,
+   "role": "control"
+  },
+  {
+   "label": "Government cloud services",
+   "share_of_jurisdictions": 0.23157894736842105,
+   "share_of_initiatives": 0.01349141455437449,
+   "role": "development"
+  },
+  {
+   "label": "SME support and business funding",
+   "share_of_jurisdictions": 0.22105263157894736,
+   "share_of_initiatives": 0.014309076042518397,
+   "role": "promotion"
+  },
+  {
+   "label": "Language technologies",
+   "share_of_jurisdictions": 0.22105263157894736,
+   "share_of_initiatives": 0.014717906786590351,
+   "role": "development"
+  },
+  {
+   "label": "Digital government and transformation agendas",
+   "share_of_jurisdictions": 0.22105263157894736,
+   "share_of_initiatives": 0.016762060506950123,
+   "role": "other"
+  },
+  {
+   "label": "Semiconductors",
+   "share_of_jurisdictions": 0.22105263157894736,
+   "share_of_initiatives": 0.013082583810302535,
+   "role": "development"
+  },
+  {
+   "label": "Sovereign compute infrastructure",
+   "share_of_jurisdictions": 0.21052631578947367,
+   "share_of_initiatives": 0.01757972199509403,
+   "role": "development"
+  },
+  {
+   "label": "Automated vehicles",
+   "share_of_jurisdictions": 0.2,
+   "share_of_initiatives": 0.013082583810302535,
+   "role": "promotion"
+  },
+  {
+   "label": "Transport and urban mobility",
+   "share_of_jurisdictions": 0.18947368421052632,
+   "share_of_initiatives": 0.022894521668029435,
+   "role": "promotion"
+  },
+  {
+   "label": "Algorithmic rights and data protection",
+   "share_of_jurisdictions": 0.18947368421052632,
+   "share_of_initiatives": 0.015944399018806215,
+   "role": "control"
+  },
+  {
+   "label": "AI in tax administration and justice",
+   "share_of_jurisdictions": 0.17894736842105263,
+   "share_of_initiatives": 0.009403107113654947,
+   "role": "promotion"
+  },
+  {
+   "label": "Doctoral training and scholarships",
+   "share_of_jurisdictions": 0.17894736842105263,
+   "share_of_initiatives": 0.010220768601798855,
+   "role": "development"
+  },
+  {
+   "label": "Regulatory sandboxes",
+   "share_of_jurisdictions": 0.16842105263157894,
+   "share_of_initiatives": 0.008994276369582993,
+   "role": "control"
+  },
+  {
+   "label": "Bioethics and science-ethics bodies",
+   "share_of_jurisdictions": 0.16842105263157894,
+   "share_of_initiatives": 0.008585445625511038,
+   "role": "control"
+  },
+  {
+   "label": "SME subsidy schemes",
+   "share_of_jurisdictions": 0.16842105263157894,
+   "share_of_initiatives": 0.01062959934587081,
+   "role": "promotion"
+  },
+  {
+   "label": "Copyright, intellectual property and AI law",
+   "share_of_jurisdictions": 0.15789473684210525,
+   "share_of_initiatives": 0.01062959934587081,
+   "role": "control"
+  },
+  {
+   "label": "Forestry and environmental monitoring",
+   "share_of_jurisdictions": 0.14736842105263157,
+   "share_of_initiatives": 0.006541291905151268,
+   "role": "promotion"
+  },
+  {
+   "label": "Quantum computing",
+   "share_of_jurisdictions": 0.1368421052631579,
+   "share_of_initiatives": 0.006950122649223222,
+   "role": "development"
+  },
+  {
+   "label": "Edge AI and neurotechnology research",
+   "share_of_jurisdictions": 0.11578947368421053,
+   "share_of_initiatives": 0.005723630417007359,
+   "role": "development"
+  },
+  {
+   "label": "Federated cloud infrastructure",
+   "share_of_jurisdictions": 0.10526315789473684,
+   "share_of_initiatives": 0.006950122649223222,
+   "role": "development"
+  },
+  {
+   "label": "R&D tax credits",
+   "share_of_jurisdictions": 0.07368421052631578,
+   "share_of_initiatives": 0.006132461161079314,
+   "role": "promotion"
+  }
+ ],
+ "global_role_shares": {
+  "development": 0.3712,
+  "promotion": 0.3647,
+  "control": 0.1398,
+  "other": 0.1243
+ },
+ "clusters": {
+  "n_countries_clustered": 53,
+  "best_k": 2,
+  "best_silhouette": 0.16808438189878924,
+  "india_cluster": 1,
+  "eu_cluster": 1,
+  "us_cluster": 2,
+  "india_cluster_members": [
+   "Argentina",
+   "Australia",
+   "Austria",
+   "Belgium",
+   "Brazil",
+   "Bulgaria",
+   "Cambodia",
+   "Canada",
+   "Chile",
+   "China (People\u2019s Republic of)",
+   "Colombia",
+   "Costa Rica",
+   "Croatia",
+   "Czechia",
+   "Denmark",
+   "Egypt",
+   "Estonia",
+   "European Union",
+   "Finland",
+   "France",
+   "Germany",
+   "Greece",
+   "Hungary",
+   "Ireland",
+   "Israel",
+   "Italy",
+   "Japan",
+   "Korea",
+   "Latvia",
+   "Lithuania",
+   "Luxembourg",
+   "Malta",
+   "Mexico",
+   "Netherlands",
+   "New Zealand",
+   "Norway",
+   "Peru",
+   "Poland",
+   "Portugal",
+   "Romania",
+   "Saudi Arabia",
+   "Serbia",
+   "Singapore",
+   "Slovakia",
+   "Slovenia",
+   "Spain",
+   "Sweden",
+   "Thailand",
+   "T\u00fcrkiye",
+   "Ukraine",
+   "United Kingdom"
+  ],
+  "sizes": {
+   "1": 52,
+   "2": 1
+  },
+  "india_stable_peers": [
+   "Egypt",
+   "European Union",
+   "Chile",
+   "Canada",
+   "Saudi Arabia",
+   "Ukraine",
+   "New Zealand",
+   "Israel",
+   "Brazil",
+   "Estonia",
+   "Australia",
+   "Argentina",
+   "Japan",
+   "Korea",
+   "Thailand",
+   "United Kingdom",
+   "Finland",
+   "France",
+   "T\u00fcrkiye",
+   "Peru",
+   "Slovenia",
+   "Singapore",
+   "Serbia",
+   "Czechia",
+   "China (People\u2019s Republic of)",
+   "Croatia",
+   "Denmark",
+   "Bulgaria",
+   "Austria",
+   "Belgium",
+   "Malta",
+   "Netherlands",
+   "Greece",
+   "Ireland",
+   "Latvia",
+   "Germany",
+   "Sweden",
+   "Romania",
+   "Portugal",
+   "Norway",
+   "Lithuania",
+   "Luxembourg",
+   "Poland",
+   "Hungary",
+   "Spain",
+   "Slovakia",
+   "Italy",
+   "Mexico",
+   "Colombia",
+   "Cambodia"
+  ],
+  "india_cluster_jaccard": 0.9599165457184325,
+  "mean_jaccard_all": 0.6895473393415432,
+  "focal_units_below_threshold": [],
+  "cluster_members": {
+   "1": [
+    "Argentina",
+    "Australia",
+    "Austria",
+    "Belgium",
+    "Brazil",
+    "Bulgaria",
+    "Cambodia",
+    "Canada",
+    "Chile",
+    "China (People\u2019s Republic of)",
+    "Colombia",
+    "Costa Rica",
+    "Croatia",
+    "Czechia",
+    "Denmark",
+    "Egypt",
+    "Estonia",
+    "European Union",
+    "Finland",
+    "France",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "India",
+    "Ireland",
+    "Israel",
+    "Italy",
+    "Japan",
+    "Korea",
+    "Latvia",
+    "Lithuania",
+    "Luxembourg",
+    "Malta",
+    "Mexico",
+    "Netherlands",
+    "New Zealand",
+    "Norway",
+    "Peru",
+    "Poland",
+    "Portugal",
+    "Romania",
+    "Saudi Arabia",
+    "Serbia",
+    "Singapore",
+    "Slovakia",
+    "Slovenia",
+    "Spain",
+    "Sweden",
+    "Thailand",
+    "T\u00fcrkiye",
+    "Ukraine",
+    "United Kingdom"
+   ],
+   "2": [
+    "United States"
+   ]
+  }
+ },
+ "india_nearest": [
+  {
+   "jurisdiction": "Israel",
+   "cosine": 0.7824604184814873
+  },
+  {
+   "jurisdiction": "Denmark",
+   "cosine": 0.7504907825109361
+  },
+  {
+   "jurisdiction": "European Union",
+   "cosine": 0.7390075746330074
+  },
+  {
+   "jurisdiction": "Croatia",
+   "cosine": 0.7313711953398299
+  },
+  {
+   "jurisdiction": "Romania",
+   "cosine": 0.7113856720918993
+  }
+ ],
+ "reference_percentile": {
+  "European Union": 0.20682148040638607,
+  "United States": 0.7844702467343977
+ },
+ "india_pairs": [
+  {
+   "comparator": "European Union",
+   "label": "European Union",
+   "n_india": 33,
+   "n_comp": 73,
+   "cosine": 0.5312371404148652,
+   "jsd_plugin": 0.35458430637423316,
+   "cosine_plugin": 0.7390075746330069,
+   "cosine_lo": 0.27211342526666243,
+   "cosine_hi": 0.7626535715184213,
+   "jsd": 0.5784883557917258,
+   "jsd_lo": 0.4602053854285878,
+   "jsd_hi": 0.6950699785268898,
+   "perm_p_jsd": 0.22835432913417317
+  },
+  {
+   "comparator": "EU27_POOLED",
+   "label": "EU-27 pooled (EU institutions and member states)",
+   "n_india": 33,
+   "n_comp": 1383,
+   "cosine": 0.5153264105156707,
+   "jsd_plugin": 0.4004471981154647,
+   "cosine_plugin": 0.6321445923568279,
+   "cosine_lo": 0.36091422639084875,
+   "cosine_hi": 0.6889892819506303,
+   "jsd": 0.5457725717200326,
+   "jsd_lo": 0.45031941767461564,
+   "jsd_hi": 0.6344617382487847,
+   "perm_p_jsd": 0.0003999200159968006
+  },
+  {
+   "comparator": "United States",
+   "label": "United States",
+   "n_india": 33,
+   "n_comp": 98,
+   "cosine": 0.3614883881727353,
+   "jsd_plugin": 0.47778976873501583,
+   "cosine_plugin": 0.4703409228083118,
+   "cosine_lo": 0.16955957512229716,
+   "cosine_hi": 0.6551355095719242,
+   "jsd": 0.6408317353775673,
+   "jsd_lo": 0.5201886697635927,
+   "jsd_hi": 0.7495504537472261,
+   "perm_p_jsd": 0.0001999600079984003
+  },
+  {
+   "comparator": "NON_OECD_POOLED",
+   "label": "non-OECD jurisdictions pooled",
+   "n_india": 33,
+   "n_comp": 592,
+   "cosine": 0.5633047452216151,
+   "jsd_plugin": 0.37012926850048705,
+   "cosine_plugin": 0.692292500491308,
+   "cosine_lo": 0.3894015884945607,
+   "cosine_hi": 0.7220942813455614,
+   "jsd": 0.5285158373057351,
+   "jsd_lo": 0.4369382049788495,
+   "jsd_hi": 0.6151578382266129,
+   "perm_p_jsd": 0.02459508098380324
+  }
+ ],
+ "india_eu_minus_us": {
+  "cos_diff_eu_minus_us": 0.1528857275359207,
+  "lo": -0.22743117785009928,
+  "hi": 0.4864626843499259,
+  "share_draws_eu_closer": 0.792
+ },
+ "gaps": {
+  "European Union": [],
+  "EU27_POOLED": [
+   {
+    "label": "AI in public administration and citizen services",
+    "role": "promotion",
+    "gap": 0.09125451579271862,
+    "lo": 0.044486304391777406,
+    "hi": 0.12030735060311422,
+    "india_share": 0.009708737864077669,
+    "bench_share": 0.10096325365679629
+   }
+  ],
+  "United States": [],
+  "GLOBAL_MEAN": [],
+  "NON_OECD_MEAN": []
+ },
+ "overweights": {
+  "European Union": [],
+  "EU27_POOLED": [],
+  "United States": [],
+  "GLOBAL_MEAN": [],
+  "NON_OECD_MEAN": []
+ },
+ "n_tests": {
+  "European Union": 21,
+  "EU27_POOLED": 24,
+  "United States": 21,
+  "GLOBAL_MEAN": 29,
+  "NON_OECD_MEAN": 37
+ },
+ "role_shares": [
+  {
+   "benchmark": "European Union",
+   "benchmark_label": "European Union",
+   "role": "development",
+   "india_share": 0.5285714285714286,
+   "bench_share": 0.32666666666666666,
+   "diff_bench_minus_india": -0.20190476190476192,
+   "lo": -0.4874845724797505,
+   "hi": 0.10065543380781279
+  },
+  {
+   "benchmark": "European Union",
+   "benchmark_label": "European Union",
+   "role": "control",
+   "india_share": 0.21428571428571427,
+   "bench_share": 0.34,
+   "diff_bench_minus_india": 0.12571428571428575,
+   "lo": -0.15293869284866343,
+   "hi": 0.37060255389559354
+  },
+  {
+   "benchmark": "European Union",
+   "benchmark_label": "European Union",
+   "role": "promotion",
+   "india_share": 0.1,
+   "bench_share": 0.16666666666666666,
+   "diff_bench_minus_india": 0.06666666666666665,
+   "lo": -0.13327130722292274,
+   "hi": 0.23730303346774456
+  },
+  {
+   "benchmark": "EU27_POOLED",
+   "benchmark_label": "EU-27 pooled (EU institutions and member states)",
+   "role": "development",
+   "india_share": 0.5285714285714286,
+   "bench_share": 0.40613718411552346,
+   "diff_bench_minus_india": -0.12243424445590512,
+   "lo": -0.3718735146657375,
+   "hi": 0.15655328376369942
+  },
+  {
+   "benchmark": "EU27_POOLED",
+   "benchmark_label": "EU-27 pooled (EU institutions and member states)",
+   "role": "control",
+   "india_share": 0.21428571428571427,
+   "bench_share": 0.06606498194945848,
+   "diff_bench_minus_india": -0.1482207323362558,
+   "lo": -0.39675556601105705,
+   "hi": 0.03795163820533691
+  },
+  {
+   "benchmark": "EU27_POOLED",
+   "benchmark_label": "EU-27 pooled (EU institutions and member states)",
+   "role": "promotion",
+   "india_share": 0.1,
+   "bench_share": 0.43862815884476536,
+   "diff_bench_minus_india": 0.3386281588447654,
+   "lo": 0.1594656957920924,
+   "hi": 0.44472771752626256
+  },
+  {
+   "benchmark": "United States",
+   "benchmark_label": "United States",
+   "role": "development",
+   "india_share": 0.5285714285714286,
+   "bench_share": 0.515,
+   "diff_bench_minus_india": -0.013571428571428568,
+   "lo": -0.29376736935118175,
+   "hi": 0.3054847882947148
+  },
+  {
+   "benchmark": "United States",
+   "benchmark_label": "United States",
+   "role": "control",
+   "india_share": 0.21428571428571427,
+   "bench_share": 0.215,
+   "diff_bench_minus_india": 0.0007142857142857229,
+   "lo": -0.26776708372546937,
+   "hi": 0.21251811668340786
+  },
+  {
+   "benchmark": "United States",
+   "benchmark_label": "United States",
+   "role": "promotion",
+   "india_share": 0.1,
+   "bench_share": 0.205,
+   "diff_bench_minus_india": 0.10499999999999998,
+   "lo": -0.09884425573010192,
+   "hi": 0.26197081736884925
+  },
+  {
+   "benchmark": "GLOBAL_MEAN",
+   "benchmark_label": "mean of all other jurisdictions",
+   "role": "development",
+   "india_share": 0.5285714285714286,
+   "bench_share": 0.30508654793296613,
+   "diff_bench_minus_india": -0.22348488063846245,
+   "lo": -0.4554894309619688,
+   "hi": 0.0626012039860444
+  },
+  {
+   "benchmark": "GLOBAL_MEAN",
+   "benchmark_label": "mean of all other jurisdictions",
+   "role": "control",
+   "india_share": 0.21428571428571427,
+   "bench_share": 0.17151739710711988,
+   "diff_bench_minus_india": -0.04276831717859439,
+   "lo": -0.2962750600858911,
+   "hi": 0.13626819244198346
+  },
+  {
+   "benchmark": "GLOBAL_MEAN",
+   "benchmark_label": "mean of all other jurisdictions",
+   "role": "promotion",
+   "india_share": 0.1,
+   "bench_share": 0.29868536448832894,
+   "diff_bench_minus_india": 0.19868536448832894,
+   "lo": 0.00729371906863716,
+   "hi": 0.29901845134027016
+  },
+  {
+   "benchmark": "NON_OECD_MEAN",
+   "benchmark_label": "mean of non-OECD jurisdictions",
+   "role": "development",
+   "india_share": 0.5285714285714286,
+   "bench_share": 0.2548459430319895,
+   "diff_bench_minus_india": -0.2737254855394391,
+   "lo": -0.5193645307176361,
+   "hi": -0.002033705470441055
+  },
+  {
+   "benchmark": "NON_OECD_MEAN",
+   "benchmark_label": "mean of non-OECD jurisdictions",
+   "role": "control",
+   "india_share": 0.21428571428571427,
+   "bench_share": 0.20869646761507224,
+   "diff_bench_minus_india": -0.005589246670642034,
+   "lo": -0.2538365578173532,
+   "hi": 0.18124444324843722
+  },
+  {
+   "benchmark": "NON_OECD_MEAN",
+   "benchmark_label": "mean of non-OECD jurisdictions",
+   "role": "promotion",
+   "india_share": 0.1,
+   "bench_share": 0.2406330899935551,
+   "diff_bench_minus_india": 0.1406330899935551,
+   "lo": -0.055558674164469475,
+   "hi": 0.2548671251842291
+  }
+ ],
+ "role_shares_alt": [
+  {
+   "benchmark": "European Union",
+   "benchmark_label": "European Union",
+   "role": "development",
+   "india_share": 0.4714285714285714,
+   "bench_share": 0.2733333333333333,
+   "diff_bench_minus_india": -0.1980952380952381,
+   "lo": -0.505159107408244,
+   "hi": 0.12387868156258085
+  },
+  {
+   "benchmark": "European Union",
+   "benchmark_label": "European Union",
+   "role": "control",
+   "india_share": 0.21428571428571427,
+   "bench_share": 0.35333333333333333,
+   "diff_bench_minus_india": 0.13904761904761906,
+   "lo": -0.14559025764807662,
+   "hi": 0.38012507926673206
+  },
+  {
+   "benchmark": "European Union",
+   "benchmark_label": "European Union",
+   "role": "promotion",
+   "india_share": 0.1,
+   "bench_share": 0.15333333333333332,
+   "diff_bench_minus_india": 0.053333333333333316,
+   "lo": -0.14964376543667968,
+   "hi": 0.2180328586998031
+  },
+  {
+   "benchmark": "EU27_POOLED",
+   "benchmark_label": "EU-27 pooled (EU institutions and member states)",
+   "role": "development",
+   "india_share": 0.4714285714285714,
+   "bench_share": 0.3483754512635379,
+   "diff_bench_minus_india": -0.1230531201650335,
+   "lo": -0.3771376574739926,
+   "hi": 0.1684873133417784
+  },
+  {
+   "benchmark": "EU27_POOLED",
+   "benchmark_label": "EU-27 pooled (EU institutions and member states)",
+   "role": "control",
+   "india_share": 0.21428571428571427,
+   "bench_share": 0.07833935018050542,
+   "diff_bench_minus_india": -0.13594636410520886,
+   "lo": -0.3694055052344744,
+   "hi": 0.04658788858704323
+  },
+  {
+   "benchmark": "EU27_POOLED",
+   "benchmark_label": "EU-27 pooled (EU institutions and member states)",
+   "role": "promotion",
+   "india_share": 0.1,
+   "bench_share": 0.359927797833935,
+   "diff_bench_minus_india": 0.25992779783393505,
+   "lo": 0.06919055170019185,
+   "hi": 0.36183190612541727
+  },
+  {
+   "benchmark": "United States",
+   "benchmark_label": "United States",
+   "role": "development",
+   "india_share": 0.4714285714285714,
+   "bench_share": 0.145,
+   "diff_bench_minus_india": -0.3264285714285714,
+   "lo": -0.5902912205601716,
+   "hi": -0.01412546885590363
+  },
+  {
+   "benchmark": "United States",
+   "benchmark_label": "United States",
+   "role": "control",
+   "india_share": 0.21428571428571427,
+   "bench_share": 0.235,
+   "diff_bench_minus_india": 0.020714285714285713,
+   "lo": -0.2414373985119181,
+   "hi": 0.243669222282631
+  },
+  {
+   "benchmark": "United States",
+   "benchmark_label": "United States",
+   "role": "promotion",
+   "india_share": 0.1,
+   "bench_share": 0.135,
+   "diff_bench_minus_india": 0.035,
+   "lo": -0.1676966669841598,
+   "hi": 0.18364284556645605
+  },
+  {
+   "benchmark": "GLOBAL_MEAN",
+   "benchmark_label": "mean of all other jurisdictions",
+   "role": "development",
+   "india_share": 0.4714285714285714,
+   "bench_share": 0.24149248416326435,
+   "diff_bench_minus_india": -0.22993608726530707,
+   "lo": -0.49229769485482083,
+   "hi": 0.048495716912807685
+  },
+  {
+   "benchmark": "GLOBAL_MEAN",
+   "benchmark_label": "mean of all other jurisdictions",
+   "role": "control",
+   "india_share": 0.21428571428571427,
+   "bench_share": 0.17859944967047717,
+   "diff_bench_minus_india": -0.03568626461523711,
+   "lo": -0.2966053832155384,
+   "hi": 0.14709156147688457
+  },
+  {
+   "benchmark": "GLOBAL_MEAN",
+   "benchmark_label": "mean of all other jurisdictions",
+   "role": "promotion",
+   "india_share": 0.1,
+   "bench_share": 0.2376986823375739,
+   "diff_bench_minus_india": 0.1376986823375739,
+   "lo": -0.03471688914221389,
+   "hi": 0.2387872194523623
+  },
+  {
+   "benchmark": "NON_OECD_MEAN",
+   "benchmark_label": "mean of non-OECD jurisdictions",
+   "role": "development",
+   "india_share": 0.4714285714285714,
+   "bench_share": 0.19953253077671682,
+   "diff_bench_minus_india": -0.2718960406518546,
+   "lo": -0.5293941756174946,
+   "hi": 0.011863514447771624
+  },
+  {
+   "benchmark": "NON_OECD_MEAN",
+   "benchmark_label": "mean of non-OECD jurisdictions",
+   "role": "control",
+   "india_share": 0.21428571428571427,
+   "bench_share": 0.2127573141759188,
+   "diff_bench_minus_india": -0.0015284001097954636,
+   "lo": -0.24502827217291834,
+   "hi": 0.17795516272792586
+  },
+  {
+   "benchmark": "NON_OECD_MEAN",
+   "benchmark_label": "mean of non-OECD jurisdictions",
+   "role": "promotion",
+   "india_share": 0.1,
+   "bench_share": 0.19208066868531987,
+   "diff_bench_minus_india": 0.09208066868531986,
+   "lo": -0.08466381861073388,
+   "hi": 0.20163301538150036
+  }
+ ],
+ "n_topics_recoded_alt": 7,
+ "roles_provisional": false,
+ "instruments": {
+  "tests": [
+   {
+    "comparator": "European Union",
+    "label": "European Union",
+    "chi2": 31.505312993210772,
+    "dof": 4,
+    "p": 2.414303654893501e-06,
+    "cramers_v": 0.5451788091059803,
+    "binding_share_india": 0.03571428571428571,
+    "binding_share_comp": 0.08333333333333333,
+    "binding_missing_india": 0.15151515151515152,
+    "binding_missing_comp": 0.1780821917808219,
+    "fisher_p_binding": 0.6598719214627444,
+    "authority_share_india": 0.030303030303030304,
+    "authority_share_comp": 0.136986301369863
+   },
+   {
+    "comparator": "EU27_POOLED",
+    "label": "EU-27 pooled (EU institutions and member states)",
+    "chi2": 7.419278487133367,
+    "dof": 4,
+    "p": 0.11532189979935334,
+    "cramers_v": 0.07238510517617124,
+    "binding_share_india": 0.03571428571428571,
+    "binding_share_comp": 0.04821280133000831,
+    "binding_missing_india": 0.15151515151515152,
+    "binding_missing_comp": 0.1301518438177874,
+    "fisher_p_binding": 1.0,
+    "authority_share_india": 0.030303030303030304,
+    "authority_share_comp": 0.04483007953723789
+   },
+   {
+    "comparator": "United States",
+    "label": "United States",
+    "chi2": 3.417230644061377,
+    "dof": 4,
+    "p": 0.49057467497817564,
+    "cramers_v": 0.16151077396675045,
+    "binding_share_india": 0.03571428571428571,
+    "binding_share_comp": 0.2028985507246377,
+    "binding_missing_india": 0.15151515151515152,
+    "binding_missing_comp": 0.29591836734693877,
+    "fisher_p_binding": 0.059742235473046,
+    "authority_share_india": 0.030303030303030304,
+    "authority_share_comp": 0.1326530612244898
+   },
+   {
+    "comparator": "NON_OECD_POOLED",
+    "label": "non-OECD jurisdictions pooled",
+    "chi2": 3.144995383878413,
+    "dof": 4,
+    "p": 0.533860665329229,
+    "cramers_v": 0.07093653934472319,
+    "binding_share_india": 0.03571428571428571,
+    "binding_share_comp": 0.08312958435207823,
+    "binding_missing_india": 0.15151515151515152,
+    "binding_missing_comp": 0.3091216216216216,
+    "fisher_p_binding": 0.715255151950076,
+    "authority_share_india": 0.030303030303030304,
+    "authority_share_comp": 0.0929054054054054
+   }
+  ],
+  "shares": {
+   "India": {
+    "organization": 0.4242,
+    "nodality": 0.2727,
+    "treasure": 0.2424,
+    "unclassified": 0.0303,
+    "authority": 0.0303
+   },
+   "European Union": {
+    "organization": 0.0959,
+    "nodality": 0.5205,
+    "treasure": 0.0411,
+    "unclassified": 0.2055,
+    "authority": 0.137
+   },
+   "EU27_POOLED": {
+    "organization": 0.3116,
+    "nodality": 0.1547,
+    "treasure": 0.4288,
+    "unclassified": 0.06,
+    "authority": 0.0448
+   },
+   "United States": {
+    "organization": 0.3163,
+    "nodality": 0.2653,
+    "treasure": 0.2653,
+    "unclassified": 0.0204,
+    "authority": 0.1327
+   },
+   "NON_OECD_POOLED": {
+    "organization": 0.3142,
+    "nodality": 0.2534,
+    "treasure": 0.3142,
+    "unclassified": 0.0253,
+    "authority": 0.0929
+   }
+  }
+ },
+ "dominated_topics": {
+  "9": {
+   "label": "Federal AI research coordination",
+   "top_jurisdiction": "United States",
+   "share": 0.423
+  },
+  "17": {
+   "label": "Digital government and transformation agendas",
+   "top_jurisdiction": "Costa Rica",
+   "share": 0.293
+  },
+  "35": {
+   "label": "R&D tax credits",
+   "top_jurisdiction": "France",
+   "share": 0.267
+  },
+  "36": {
+   "label": "Edge AI and neurotechnology research",
+   "top_jurisdiction": "France",
+   "share": 0.286
+  }
+ },
+ "sensitivity": {
+  "rows": [
+   {
+    "variant": "primary specification",
+    "n_india": 33,
+    "eu": 0.7390075746330069,
+    "us": 0.4703409228083118,
+    "eu27": 0.6321445923568279,
+    "closer_to": "European Union"
+   },
+   {
+    "variant": "HDBSCAN minimum cluster size 8",
+    "n_india": 33,
+    "eu": 0.669291585791501,
+    "us": 0.3965995148815176,
+    "eu27": 0.6747245891418575,
+    "closer_to": "European Union"
+   },
+   {
+    "variant": "HDBSCAN minimum cluster size 20",
+    "n_india": 33,
+    "eu": 0.7791596370485256,
+    "us": 0.4688982607534494,
+    "eu27": 0.6225718446381362,
+    "closer_to": "European Union"
+   },
+   {
+    "variant": "outliers excluded, not reassigned",
+    "n_india": 23,
+    "eu": 0.715334424118743,
+    "us": 0.4286655968119723,
+    "eu27": 0.6529378934543872,
+    "closer_to": "European Union"
+   },
+   {
+    "variant": "initiatives starting 2021 or later",
+    "n_india": 22,
+    "eu": 0.5974645384132004,
+    "us": 0.4782918264854172,
+    "eu27": 0.5012553159640213,
+    "closer_to": "European Union"
+   },
+   {
+    "variant": "active initiatives only",
+    "n_india": 32,
+    "eu": 0.6621712440870378,
+    "us": 0.5155934227514484,
+    "eu27": 0.6207014759653607,
+    "closer_to": "European Union"
+   },
+   {
+    "variant": "no smoothing of profiles",
+    "n_india": 33,
+    "eu": 0.6553729696519867,
+    "us": 0.3868144561208789,
+    "eu27": 0.5312615169046012,
+    "closer_to": "European Union"
+   },
+   {
+    "variant": "subnational initiatives included",
+    "n_india": 34,
+    "eu": 0.7400237326121583,
+    "us": 0.4684245366727845,
+    "eu27": 0.6245716390227141,
+    "closer_to": "European Union"
+   },
+   {
+    "variant": "no masking of place names",
+    "n_india": 33,
+    "eu": 0.4104454061305093,
+    "us": 0.3537880104947442,
+    "eu27": 0.5492078200276869,
+    "closer_to": "European Union"
+   },
+   {
+    "variant": "topics dominated by one jurisdiction removed",
+    "n_india": 30,
+    "eu": 0.7332472669915612,
+    "us": 0.5988558186141792,
+    "eu27": 0.6338816458576503,
+    "closer_to": "European Union"
+   }
+  ],
+  "n_variants": 9,
+  "n_same_ordering": 9
+ },
+ "periods": [
+  {
+   "period": "2020 and earlier",
+   "n_india": 11,
+   "eu": 0.6715892560412293,
+   "us": 0.5570601052705503,
+   "eu27": 0.7467191421536254
+  },
+  {
+   "period": "2021 to 2023",
+   "n_india": 15,
+   "eu": 0.5473429002261537,
+   "us": 0.48585079180695256,
+   "eu27": 0.5019594235260348
+  },
+  {
+   "period": "2024 and later",
+   "n_india": 7,
+   "eu": 0.7815475308310037,
+   "us": 0.7590039239172215,
+   "eu27": 0.6225636188387353
+  }
+ ],
+ "lda_robustness": {
+  "k": 8,
+  "c_v": 0.50837881945386,
+  "spearman_similarity_bertopic_vs_lda": 0.6384967981332991,
+  "spearman_p": 1.1134360011469238e-158,
+  "india_eu_cosine_lda": 0.940328140729052,
+  "india_us_cosine_lda": 0.8849814905086971
+ },
+ "coverage": {
+  "n_inventory": 13,
+  "n_covered": 7,
+  "share_covered": 0.5384615384615384,
+  "basis": "automatic matching (not yet confirmed)",
+  "missing": [
+   "MeitY advisory on AI models (1 March 2024; superseded)",
+   "MeitY revised advisory on deployment of AI models (15 March 2024)",
+   "RBI FREE-AI Committee Report (Framework for Responsible and Ethical Enablement of AI)",
+   "Draft IT Rules amendment on synthetically generated information",
+   "Digital Personal Data Protection Rules 2025",
+   "India AI Governance Guidelines"
+  ]
+ },
+ "validation_items": {
+  "word_intrusion": 111,
+  "label_fit": 200,
+  "instrument": 150
+ }
+}

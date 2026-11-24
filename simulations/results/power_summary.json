@@ -1,0 +1,256 @@
+{
+  "reps_per_cell": 100,
+  "bootstrap_reps": 400,
+  "K": 15,
+  "n_true_gaps": 3,
+  "power": [
+    {
+      "n_india": 25,
+      "n_bench": 50,
+      "delta": 0.0,
+      "power": NaN,
+      "fdr": 0.0,
+      "p_any_false": 0.0
+    },
+    {
+      "n_india": 25,
+      "n_bench": 50,
+      "delta": 0.03,
+      "power": 0.0,
+      "fdr": 0.0,
+      "p_any_false": 0.0
+    },
+    {
+      "n_india": 25,
+      "n_bench": 50,
+      "delta": 0.05,
+      "power": 0.0,
+      "fdr": 0.0,
+      "p_any_false": 0.0
+    },
+    {
+      "n_india": 25,
+      "n_bench": 50,
+      "delta": 0.08,
+      "power": 0.015,
+      "fdr": 0.0,
+      "p_any_false": 0.0
+    },
+    {
+      "n_india": 25,
+      "n_bench": 50,
+      "delta": 0.12,
+      "power": 0.07993197278911564,
+      "fdr": 0.0,
+      "p_any_false": 0.0
+    },
+    {
+      "n_india": 25,
+      "n_bench": 150,
+      "delta": 0.0,
+      "power": NaN,
+      "fdr": 0.03,
+      "p_any_false": 0.03
+    },
+    {
+      "n_india": 25,
+      "n_bench": 150,
+      "delta": 0.03,
+      "power": 0.01,
+      "fdr": 0.02,
+      "p_any_false": 0.02
+    },
+    {
+      "n_india": 25,
+      "n_bench": 150,
+      "delta": 0.05,
+      "power": 0.03333333333333333,
+      "fdr": 0.01,
+      "p_any_false": 0.01
+    },
+    {
+      "n_india": 25,
+      "n_bench": 150,
+      "delta": 0.08,
+      "power": 0.04,
+      "fdr": 0.0,
+      "p_any_false": 0.0
+    },
+    {
+      "n_india": 25,
+      "n_bench": 150,
+      "delta": 0.12,
+      "power": 0.18833333333333332,
+      "fdr": 0.005,
+      "p_any_false": 0.01
+    },
+    {
+      "n_india": 50,
+      "n_bench": 50,
+      "delta": 0.0,
+      "power": NaN,
+      "fdr": 0.0,
+      "p_any_false": 0.0
+    },
+    {
+      "n_india": 50,
+      "n_bench": 50,
+      "delta": 0.03,
+      "power": 0.003333333333333333,
+      "fdr": 0.0,
+      "p_any_false": 0.0
+    },
+    {
+      "n_india": 50,
+      "n_bench": 50,
+      "delta": 0.05,
+      "power": 0.006666666666666666,
+      "fdr": 0.0,
+      "p_any_false": 0.0
+    },
+    {
+      "n_india": 50,
+      "n_bench": 50,
+      "delta": 0.08,
+      "power": 0.013333333333333332,
+      "fdr": 0.01,
+      "p_any_false": 0.01
+    },
+    {
+      "n_india": 50,
+      "n_bench": 50,
+      "delta": 0.12,
+      "power": 0.10666666666666666,
+      "fdr": 0.0,
+      "p_any_false": 0.0
+    },
+    {
+      "n_india": 50,
+      "n_bench": 150,
+      "delta": 0.0,
+      "power": NaN,
+      "fdr": 0.01,
+      "p_any_false": 0.01
+    },
+    {
+      "n_india": 50,
+      "n_bench": 150,
+      "delta": 0.03,
+      "power": 0.01,
+      "fdr": 0.0,
+      "p_any_false": 0.0
+    },
+    {
+      "n_india": 50,
+      "n_bench": 150,
+      "delta": 0.05,
+      "power": 0.016666666666666666,
+      "fdr": 0.0,
+      "p_any_false": 0.0
+    },
+    {
+      "n_india": 50,
+      "n_bench": 150,
+      "delta": 0.08,
+      "power": 0.10333333333333332,
+      "fdr": 0.0,
+      "p_any_false": 0.0
+    },
+    {
+      "n_india": 50,
+      "n_bench": 150,
+      "delta": 0.12,
+      "power": 0.18166666666666664,
+      "fdr": 0.0,
+      "p_any_false": 0.0
+    },
+    {
+      "n_india": 100,
+      "n_bench": 50,
+      "delta": 0.0,
+      "power": NaN,
+      "fdr": 0.0,
+      "p_any_false": 0.0
+    },
+    {
+      "n_india": 100,
+      "n_bench": 50,
+      "delta": 0.03,
+      "power": 0.003333333333333333,
+      "fdr": 0.0,
+      "p_any_false": 0.0
+    },
+    {
+      "n_india": 100,
+      "n_bench": 50,
+      "delta": 0.05,
+      "power": 0.003333333333333333,
+      "fdr": 0.0,
+      "p_any_false": 0.0
+    },
+    {
+      "n_india": 100,
+      "n_bench": 50,
+      "delta": 0.08,
+      "power": 0.03333333333333333,
+      "fdr": 0.0,
+      "p_any_false": 0.0
+    },
+    {
+      "n_india": 100,
+      "n_bench": 50,
+      "delta": 0.12,
+      "power": 0.13468013468013468,
+      "fdr": 0.0,
+      "p_any_false": 0.0
+    },
+    {
+      "n_india": 100,
+      "n_bench": 150,
+      "delta": 0.0,
+      "power": NaN,
+      "fdr": 0.0,
+      "p_any_false": 0.0
+    },
+    {
+      "n_india": 100,
+      "n_bench": 150,
+      "delta": 0.03,
+      "power": 0.003333333333333333,
+      "fdr": 0.0,
+      "p_any_false": 0.0
+    },
+    {
+      "n_india": 100,
+      "n_bench": 150,
+      "delta": 0.05,
+      "power": 0.06666666666666667,
+      "fdr": 0.01,
+      "p_any_false": 0.01
+    },
+    {
+      "n_india": 100,
+      "n_bench": 150,
+      "delta": 0.08,
+      "power": 0.11333333333333333,
+      "fdr": 0.0,
+      "p_any_false": 0.0
+    },
+    {
+      "n_india": 100,
+      "n_bench": 150,
+      "delta": 0.12,
+      "power": 0.4013605442176871,
+      "fdr": 0.0,
+      "p_any_false": 0.0
+    }
+  ],
+  "coverage": {
+    "coverage_initiative": 0.9695714285714285,
+    "coverage_cluster": 0.9780695970695972,
+    "width_initiative": 0.19196597362202997,
+    "width_cluster": 0.20960540532940808
+  },
+  "null_fwer_max": 0.03,
+  "fdr_max_nonnull": 0.02
+}

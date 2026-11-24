@@ -1,0 +1,10 @@
+raw_rows=2675
+column_map={"id": "slug", "title": "Name", "description": "Initiative overview", "objectives": null, "jurisdiction": "Country", "category": "Category", "instrument": "Initiative type", "binding": "Binding", "status": "Status", "start_year": "Start Year", "target_sectors": "Target Sectors", "oecd_principles": "OECD AI Principles", "organisation": "Responsible organisation"}
+flagged_subnational=49
+dropped_international=50
+dropped_short=125
+dropped_duplicates=4
+dropped_non_english=1
+masked_entities=4399 masked_list_terms=1939
+final_docs=2495 jurisdictions=95
+main_sample_docs=2446 (subnational excluded=True)

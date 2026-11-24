@@ -1,0 +1,23 @@
+# Tested with Python 3.11-3.13. Versions are lower bounds that the pipeline was tested on.
+numpy>=1.26
+pandas>=2.1
+scipy>=1.11
+scikit-learn>=1.4
+pyyaml>=6.0
+openpyxl>=3.1
+gensim>=4.3
+umap-learn>=0.5.5
+hdbscan>=0.8.33
+bertopic>=0.16
+sentence-transformers>=2.6   # downloads all-mpnet-base-v2 on first run (about 420 MB)
+langdetect>=1.0.9
+matplotlib>=3.8
+python-docx>=1.1
+pytest>=8.0
+# Optional, only for scripts/collect_oecd.py
+requests>=2.31
+beautifulsoup4>=4.12
+spacy>=3.7
+pycountry
+beautifulsoup4
+requests

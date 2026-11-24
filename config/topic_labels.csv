@@ -1,0 +1,38 @@
+topic,n_docs,top_terms,label,role,alt_role
+0,295,"public, service, information, administrative, assistant, user, administration, results, public administration, tool",AI in public administration and citizen services,promotion,other
+1,217,"education, students, skills, schools, teachers, learning, teaching, training, educational, school",AI education and skills,development,development
+2,143,"health, health data, healthcare, care, patient, clinical, medical, patients, digital health, cancer",Health and medical AI,promotion,promotion
+3,187,"principles, risks, governance, safety, ethics, ethical, guidelines, standards, regulation, assurance","Ethics, risk, safety and standards",control,control
+4,110,"data, open data, open, sharing, data portal, data sharing, data management, data governance, public data, data data",Open data and data sharing,development,development
+5,119,"action, plan, action plan, aito, following, declaration, 40, objectivesto, 2018, 2030",National AI strategies and action plans,other,other
+6,104,"innovation, rd, industrial, revolution, research, fourth industrial, industrial revolution, technology, fourth, science",Industrial innovation and R&D,development,promotion
+7,116,"research, excellence, institute, centre, collaboration, robotics, center, science, academic, innovation",Research centres and excellence,development,development
+8,110,"sectors, strategic, implementation, governance, priority, adoption, ethical, economic, priorities, responsible",Strategy implementation and sectoral priorities,other,other
+9,78,"nairr, objectivesto, following objectivesto, rd, following, defense, breakthroughs, nsf, white house, committee",Federal AI research coordination,development,other
+10,66,"hpc, computing, supercomputer, eurohpc, highperformance, highperformance computing, supercomputing, scientific, supercomputers, advanced computing",High-performance computing,development,development
+11,83,"hubs, digital innovation, innovation hubs, edih, edihs, hub, manufacturing, digital, smes, hubs edihs",Digital innovation hubs for firms,promotion,promotion
+12,57,"agricultural, agriculture, farmers, farming, food, agrifood, crop, sustainability, production, agricultural sector",Agriculture and food,promotion,promotion
+13,56,"energy, climate, environmental, water, waste, management, flood, sustainable, prediction, monitoring","Environment, climate and energy",promotion,promotion
+14,55,"startups, startup, fund, capital, entrepreneurship, tech, earlystage, financing, venture, investment",Start-up financing,promotion,promotion
+15,56,"mobility, transport, traffic, urban, road, city, traffic management, autonomous, safety, mobility solutions",Transport and urban mobility,promotion,promotion
+16,47,"personal, personal data, protection, data protection, law, privacy, personal information, protection personal, rights, right",Personal data protection,control,control
+17,41,"digital, digital transformation, transformation, bicentennial, digital technologies, order guarantee, improve functioning, subdecree, telecommunications, strategic public",Digital government and transformation agendas,other,other
+18,43,"compute, sovereign, sovereign compute, compute infrastructure, gpu, abci, airr, computing, infrastructure, computing resources",Sovereign compute infrastructure,development,development
+19,35,"smes, vlaio, embraisme, startups, business, businesses, ki, bizdata, funding, small",SME support and business funding,promotion,promotion
+20,36,"language, language technologies, languages, speech, alia, language models, translation, models, amalia, nlp",Language technologies,development,development
+21,32,"vehicles, automated, driving, vehicle, automated vehicles, autonomous, road, automated driving, roads, automated vehicle",Automated vehicles,promotion,control
+22,39,"algorithmic, personal data, personal, protection, right, data protection, rights, algorithms, processing personal, protection personal",Algorithmic rights and data protection,control,control
+23,33,"cloud, cloud services, hybrid cloud, safir, services, psn, secure, hybrid, cloud computing, security",Government cloud services,development,promotion
+24,32,"semiconductor, chips, microelectronics, chip, semiconductors, chips joint, ipcei, semiconductor technologies, chips ju, joint undertaking",Semiconductors,development,development
+25,26,"copyright, ip, aiit, intellectual property, intellectual, property, promotes, uspto, ml, rfc","Copyright, intellectual property and AI law",control,control
+26,34,"digital economy, economy, digital, digital decade, digitalisation, decade, economy society, economy partnership, transformation, digital transformation",Digital economy agendas,other,other
+27,23,"tax, justice, judicial, court, fraud, courts, taxpayers, judiciary, appeals, tax administration",AI in tax administration and justice,promotion,other
+28,22,"sandbox, regulatory, regulatory sandbox, ico, sandboxes, regulatory sandboxes, regulators, legal, experimentation, regulatory environments",Regulatory sandboxes,control,control
+29,26,"smes, sme, stream, subsidy, small mediumsized, small, mediumsized, mediumsized enterprises, scheme, supports smes",SME subsidy schemes,promotion,promotion
+30,25,"phd, doctoral, doctoral researchers, ceec, phd students, researchers, scholarship, insait, students, scholarships",Doctoral training and scholarships,development,development
+31,16,"forest, forestry, forest management, environmental, satellite, logging, forest monitoring, brownfield, monitoring, imagery",Forestry and environmental monitoring,promotion,promotion
+32,17,"quantum, quantum computing, computing, quantum research, quantum communication, nqsti, quantum science, quantum computer, communication infrastructure, qubits",Quantum computing,development,development
+33,17,"gaiax, cloud, cloud infrastructure, ipceicis, infrastructure services, cis, generation cloud, ipcei, project common, blockchain",Federated cloud infrastructure,development,development
+34,21,"bioethics, ethics, ethics science, science technology, matters relating, technoethics, bioethics technoethics, research ethics, science, organise",Bioethics and science-ethics bodies,control,control
+35,15,"tax, credit, qualifying, rd, tax credit, eligible, rd tax, corporate tax, patent, corporate",R&D tax credits,promotion,development
+36,14,"brain, edge, fet, deepgreen, neurotechnology, deep learning, embedded, edge learning, gefion, scikitlearn",Edge AI and neurotechnology research,development,development

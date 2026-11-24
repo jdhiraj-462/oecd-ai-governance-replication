@@ -1,0 +1,15 @@
+{
+  "date": "2026-11-23",
+  "list_url": "https://oecd.ai/en/dashboards/policy-initiatives?orderBy=startYearDesc&page={page}",
+  "navigator_total": 2675,
+  "pages": 134,
+  "n_rows": 2675,
+  "binding_counts": {
+    "Non-binding": 1846,
+    "missing": 664,
+    "Binding": 165
+  },
+  "empty_overview": 25,
+  "csv_sha256": "477c67b1bcf9068d9cb5cec25e64afa6cf5b7124fd2eed2499d4d72630ced51a",
+  "note": "Initiative overview filled from the short description for 25 records with an empty overview (same rule now in the collector)."
+}

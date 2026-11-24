@@ -1,0 +1,64 @@
+initiative_type,nato_tool
+Law/legislation/act (by legislative body),authority
+Regulation (by government authority),authority
+Regulation,authority
+Amendment to/repeal of existing legislation,authority
+Directive,authority
+Decision,authority
+Treaty,authority
+Regulatory experimentation initiative including sandboxes,authority
+"Oversight bodies, offices or processes",authority
+"Oversight bodies, offices or processes (intergovernmental or supranational)",authority
+National Standard,authority
+"Other regulations, guidelines and standards",authority
+Principles/guidelines/frameworks for trustworthy AI,nodality
+Guidance/guidelines,nodality
+"Guidance document (instructions on how to implement a law, regulation, policy or other rule)",nodality
+National AI strategy,nodality
+Key reports and whitepapers,nodality
+Public awareness/communications campaigns,nodality
+Expert consultations,nodality
+Public consultations,nodality
+"Declaration, opinion, or outcome document",nodality
+Recommendation,nodality
+Policy,nodality
+Accountability tool,nodality
+Monitoring the impact of AI in the labour market,nodality
+Major events,nodality
+Stakeholder engagement mechanisms (intergovernmental or supranational),nodality
+Other AI Policy Frameworks and Initiatives,nodality
+Initiative/Investment in AI compute capacity,treasure
+Initiative to foster access to AI compute capacity,treasure
+Research grants/funding,treasure
+Support for AI diffusion in firms,treasure
+Support to start-ups,treasure
+Public procurement programmes,treasure
+Business grants/tax incentives,treasure
+"Science and innovation challenges, prizes and awards",treasure
+Loan and credit programmes,treasure
+Initiative/Investment in open datasets,treasure
+Initiative/Investment in natural language processing,treasure
+Initiative/Investment in open-source tools,treasure
+Initiative/investment in open science,treasure
+Initiative to promote data access and sharing,treasure
+AI capacity/skills programme (public service),treasure
+"AI capacity/skills programme (society, the public)",treasure
+AI capacity/skills programme (primary or secondary education),treasure
+Formal education programme in higher education (Degree and fellowship programmes),treasure
+Reskilling/upskilling programme,treasure
+Talent attraction and retention (incl. immigration policies),treasure
+AI use cases/projects in the public sector,organization
+"AI Research Centres/Centres of Excellence/Expertise, specialised AI teams, labs",organization
+"Networks, communities of practice, ecosystem-building efforts and collaborative platforms",organization
+"Advisory bodies, offices or processes",organization
+"Advisory bodies, offices or processes (intergovernmental or supranational)",organization
+"Coordination bodies, offices or processes",organization
+"Coordination bodies, offices or processes (intergovernmental or supranational)",organization
+"Monitoring bodies, offices or processes",organization
+Other national AI governance bodies or mechanisms,organization
+International and multi-stakeholder co-operation on AI,organization
+International AI research collaboration,organization
+Collaborations with stakeholders to ensure a fair transition in the labour market,organization
+"Other AI policy initiatives, programmes and projects",fallback
+Project,fallback
+Programme,fallback
